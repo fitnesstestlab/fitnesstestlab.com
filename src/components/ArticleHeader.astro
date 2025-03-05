@@ -1,0 +1,49 @@
+---
+const { title, author, date, category, featuredImage } = Astro.props;
+---
+
+<style>
+.article-header {
+    text-align: center;
+    padding: 50px 20px;
+}
+.article-header img {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    margin: 0 auto;
+}
+.article-header h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    margin: 20px 0;
+}
+.article-header .metadata {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+.metadata a {
+    color: gray;
+    text-decoration: none;
+}
+.metadata a:hover {
+    text-decoration: underline;
+}
+</style>
+
+<header class="article-header">
+    {featuredImage && <img src={featuredImage} alt={title} />}
+    <h1>{title}</h1>
+    <div class="metadata">
+        <span>By {author}</span>
+        <span>{date}</span>
+        <a href={`/categories/${category.toLowerCase()}`}>{category}</a>
+    </div>
+</header>

@@ -1,0 +1,69 @@
+---
+import Header from '../../components/Header.astro';
+import ArticleHeader from '../../components/ArticleHeader.astro';
+import ArticleContent from '../../components/ArticleContent.astro';
+import RelatedArticles from '../../components/RelatedArticles.astro';
+import Comments from '../../components/Comments.astro';
+import Footer from '../../components/Footer.astro';
+import Sidebar from '../../components/Sidebar.astro';
+
+// Example data
+const article = {
+  title: "The Ultimate Guide to Home Workouts",
+  author: "Jane Doe",
+  date: "March 5, 2025",
+  category: "Fitness",
+  featuredImage: "/path/to/featured-image.jpg",
+  content: "Your article content goes here...",
+  relatedArticles: [
+    {
+      title: "How to Stay Motivated for Home Workouts",
+      image: "/path/to/image1.jpg",
+      link: "/blog/how-to-stay-motivated",
+    },
+    {
+      title: "10 Best Home Workout Equipment",
+      image: "/path/to/image2.jpg",
+      link: "/blog/best-home-workout-equipment",
+    },
+  ],
+};
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{article.title} - Fitness Test Lab</title>
+    <link rel="stylesheet" href="/styles/global.css">
+</head>
+<body>
+    <Header />
+    <main>
+        <ArticleHeader {article} />
+        <div class="content-area">
+            <ArticleContent content={article.content} />
+            <Sidebar />
+        </div>
+        <RelatedArticles articles={article.relatedArticles} />
+        <Comments />
+    </main>
+    <Footer />
+</body>
+</html>
+
+<style>
+.content-area {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+@media (max-width: 768px) {
+    .content-area {
+        flex-direction: column;
+    }
+}
+</style>

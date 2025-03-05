@@ -1,0 +1,61 @@
+---
+const { articles } = Astro.props;
+---
+
+<style>
+.article-list {
+    padding: 50px 20px;
+    text-align: center;
+}
+.article-list .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+.article-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: box-shadow 0.3s;
+}
+.article-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.article-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.article-card .content {
+    padding: 20px;
+}
+.article-card .title {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 10px;
+}
+.article-card .metadata {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #999;
+}
+</style>
+
+<section class="article-list">
+    <div class="articles-grid">
+        {articles.map(article => (
+            <article class="article-card">
+                <a href={article.link}>
+                    <img src={article.image} alt={article.title} />
+                    <div class="content">
+                        <h3 class="title">{article.title}</h3>
+                    </div>
+                </a>
+            </article>
+        ))}
+    </div>
+</section>

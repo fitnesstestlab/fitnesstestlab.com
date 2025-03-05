@@ -1,0 +1,36 @@
+---
+import Header from '../components/Header.astro';
+import ContactPageHeader from '../components/ContactPageHeader.astro';
+import ContactForm from '../components/ContactForm.astro';
+import ContactInformation from '../components/ContactInformation.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Fitness Test Lab</title>
+    <link rel="stylesheet" href="/styles/global.css">
+</head>
+<body>
+    <Header />
+    <main>
+        <ContactPageHeader />
+        <div class="content-area">
+            <ContactForm />
+            <ContactInformation />
+        </div>
+    </main>
+    <Footer />
+</body>
+</html>
+
+<style>
+.content-area {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+</style>

@@ -1,0 +1,46 @@
+---
+const { currentPage, totalPages } = Astro.props;
+
+const getPageLink = (page) => {
+  return `?page=${page}`;
+};
+---
+
+<style>
+.pagination {
+    text-align: center;
+    padding: 20px;
+}
+.pagination a {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background: #00BFFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+.pagination a:hover {
+    background-color: #0099CC;
+}
+.pagination span {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background: #ddd;
+    color: #666;
+    border-radius: 5px;
+}
+</style>
+
+<nav class="pagination">
+    {currentPage > 1 && <a href={getPageLink(currentPage - 1)}>Previous</a>}
+    {[...Array(totalPages)].map((_, index) => {
+        const page = index + 1;
+        return page === currentPage ? (
+            <span>{page}</span>
+        ) : (
+            <a href={getPageLink(page)}>{page}</a>
+        );
+    })}
+    {currentPage < totalPages && <a href={getPageLink(currentPage + 1)}>Next</a>}
+</nav>

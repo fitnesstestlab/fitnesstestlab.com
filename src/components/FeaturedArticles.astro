@@ -1,0 +1,83 @@
+---
+---
+
+<style>
+.featured-articles {
+    padding: 50px 20px;
+    text-align: center;
+}
+.featured-articles h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 20px;
+}
+.featured-articles .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+.article-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: box-shadow 0.3s;
+}
+.article-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.article-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.article-card .content {
+    padding: 20px;
+}
+.article-card .title {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 10px;
+}
+.article-card .excerpt {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #666;
+    margin-bottom: 15px;
+}
+.article-card .metadata {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #999;
+}
+</style>
+
+<section class="featured-articles">
+    <h2>Featured Articles</h2>
+    <div class="articles-grid">
+        <!-- Article cards go here -->
+        <article class="article-card">
+            <img src="/path/to/image1.jpg" alt="Article Image">
+            <div class="content">
+                <h3 class="title">Article Title 1</h3>
+                <p class="excerpt">Brief excerpt from the article...</p>
+                <p class="metadata">March 5, 2025</p>
+            </div>
+        </article>
+        <article class="article-card">
+            <img src="/path/to/image2.jpg" alt="Article Image">
+            <div class="content">
+                <h3 class="title">Article Title 2</h3>
+                <p class="excerpt">Brief excerpt from the article...</p>
+                <p class="metadata">March 5, 2025</p>
+            </div>
+        </article>
+        <!-- Add more article cards as needed -->
+    </div>
+</section>

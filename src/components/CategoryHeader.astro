@@ -1,0 +1,35 @@
+---
+const { title, description, image } = Astro.props;
+---
+
+<style>
+.category-header {
+    text-align: center;
+    padding: 50px 20px;
+}
+.category-header img {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    margin: 0 auto;
+}
+.category-header h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    margin: 20px 0;
+}
+.category-header p {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: gray;
+}
+</style>
+
+<header class="category-header">
+    {image && <img src={image} alt={title} />}
+    <h1>{title}</h1>
+    {description && <p>{description}</p>}
+</header>

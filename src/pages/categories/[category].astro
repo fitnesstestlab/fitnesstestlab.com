@@ -1,0 +1,68 @@
+---
+import Header from '../../components/Header.astro';
+import CategoryHeader from '../../components/CategoryHeader.astro';
+import ArticleList from '../../components/ArticleList.astro';
+import Pagination from '../../components/Pagination.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import Footer from '../../components/Footer.astro';
+
+// Example data
+const category = {
+  title: "Fitness",
+  description: "Articles about fitness, workouts, and exercises.",
+  image: "/path/to/category-image.jpg",
+  articles: [
+    {
+      title: "The Ultimate Guide to Home Workouts",
+      image: "/path/to/image1.jpg",
+      link: "/blog/the-ultimate-guide-to-home-workouts",
+    },
+    {
+      title: "10 Best Home Workout Equipment",
+      image: "/path/to/image2.jpg",
+      link: "/blog/best-home-workout-equipment",
+    },
+  ],
+  pagination: {
+    currentPage: 1,
+    totalPages: 3,
+  },
+};
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{category.title} - Fitness Test Lab</title>
+    <link rel="stylesheet" href="/styles/global.css">
+</head>
+<body>
+    <Header />
+    <main>
+        <CategoryHeader {category} />
+        <div class="content-area">
+            <ArticleList articles={category.articles} />
+            <Sidebar />
+        </div>
+        <Pagination {category.pagination} />
+    </main>
+    <Footer />
+</body>
+</html>
+
+<style>
+.content-area {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+@media (max-width: 768px) {
+    .content-area {
+        flex-direction: column;
+    }
+}
+</style>

@@ -1,0 +1,38 @@
+---
+const { content } = Astro.props;
+---
+
+<style>
+.article-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: black;
+}
+.article-content h2, .article-content h3, .article-content h4 {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.article-content h2 {
+    font-size: 28px;
+    font-weight: 600;
+}
+.article-content h3 {
+    font-size: 24px;
+    font-weight: 600;
+}
+.article-content h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.article-content img {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.article-content figcaption {

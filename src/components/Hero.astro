@@ -1,0 +1,57 @@
+---
+---
+
+<style>
+.hero {
+    position: relative;
+    background: url('/path/to/your/image.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+.hero::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+.hero-content {
+    position: relative;
+    z-index: 2;
+}
+.hero h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+}
+.hero p {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+.hero .cta-button {
+    background-color: #00BFFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.hero .cta-button:hover {
+    background-color: #0099CC;
+}
+</style>
+
+<section class="hero">
+    <div class="hero-content">
+        <h1>Unlock Your Optimal Home Fitness Potential</h1>
+        <p>Expert reviews, workout guides, and tips for achieving your fitness goals at home.</p>
+        <button class="cta-button">Explore Articles</button>
+    </div>
+</section>
