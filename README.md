@@ -1,56 +1,65 @@
-# Modern Portfolio Website
 
-A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS.
+# Fitness Test Lab
+
+Fitness Test Lab is a modern, responsive home fitness website run by a real person (Mario). It features evidence-based fitness guidance, workout routines, nutrition advice, and hands-on equipment reviews—all designed for your home fitness journey.
+
+Built with Next.js, TypeScript, and Tailwind CSS. Motivational quotes and a personal touch are woven throughout the site to emphasize authenticity and expertise.
+
 
 ## Features
 
-- ✅ Modern UI design with animations and transitions
-- ✅ Dark/Light mode support
-- ✅ Fully responsive on all devices
-- ✅ Built with Next.js App Router
-- ✅ TypeScript for type safety
-- ✅ Tailwind CSS for styling
-- ✅ Framer Motion for animations
-- ✅ SEO optimized
-- ✅ Accessible components
-- ✅ GitHub Pages deployment ready
-- ✅ Markdown-based blog system
-- ✅ Dynamic category filtering for blog posts
+- Modern UI design with animations and transitions
+- Dark/Light mode support
+- Fully responsive on all devices
+- Built with Next.js App Router
+- TypeScript for type safety
+- Tailwind CSS for styling
+- SEO optimized
+- Accessible components
+- GitHub Pages deployment ready
+- Markdown-based blog system
+- Motivational quotes in the footer
+- Personal branding and avatar
+- Dynamic category filtering for blog posts
+
 
 ## Pages
 
-- **Home**: Modern hero section with featured projects
-- **Projects**: Showcase of all projects with filtering options
-- **Resume**: Professional resume with download option
-- **Blog**: Markdown-based articles with blog posts and articles sections, categories, and responsive layout
-- **About**: Professional biography and skills
-- **Contact**: Contact form with validation
+- **Home**: Hero section, featured fitness articles, motivational quotes, and personal branding
+- **Blog**: Markdown-based articles with categories, tags, and responsive layout
+- **About**: Personal story, mission, values, and approach
+- **Contact**: Direct contact form to reach Mario
+- **Projects, Resume**: (Legacy sections, may be repurposed for fitness-related content)
+
 
 ## Getting Started
+
 
 ### Prerequisites
 
 - Node.js 18+ and npm
 
+
 ### Installation
 
 1. Clone the repository
-```bash
-git clone https://github.com/your-username/portfolio-website.git
-cd portfolio-website
-```
+   ```bash
+   git clone https://github.com/fitnesstestlab/fitnesstestlab.com.git
+   cd fitnesstestlab.com
+   ```
 
 2. Install dependencies
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 3. Run the development server
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
 
 ## Deployment
 
@@ -60,16 +69,19 @@ This project is configured for GitHub Pages deployment. To deploy:
 2. Push to your GitHub repository
 3. GitHub Actions will automatically build and deploy your site
 
+
 ## Customization
 
-- Update personal information in the components
+- Update personal information and avatar in the components
 - Replace placeholder images with your own
 - Modify color schemes in `globals.css` and `tailwind.config.ts`
-- Add your own projects and blog posts
+- Add your own blog posts and fitness resources
+
 
 ## Blog System
 
-This portfolio includes a Markdown-based blog system that allows you to write content in Markdown format and have it automatically rendered on your site.
+Fitness Test Lab includes a Markdown-based blog system for writing and publishing fitness articles, reviews, and guides. Posts are organized by date and slug, and rendered automatically.
+
 
 ### Adding New Blog Posts
 
@@ -112,24 +124,27 @@ coverImage: "/images/blog/your-post-slug-cover.jpg"
 Your content goes here...
 ```
 
+
 ### Blog Post Formatting
 
 - **Title**: The title of your blog post
 - **Excerpt**: A brief description shown in blog previews
-- **Date**: Publication date in YYYY-MM-DD format (used for sorting, not displayed on site)
+- **Date**: Publication date in YYYY-MM-DD format (used for sorting)
 - **Author**: Your name
 - **Category**: Main category for the post (used for filtering)
 - **Tags**: Array of tags related to the post (used for filtering)
 - **Blogpost**: Boolean (true/false) to determine if post appears in the Blog Posts section (true) or Articles section (false)
 - **CoverImage**: Path to the cover image (place images in `public/images/blog/`)
 
+
 ### Adding Images
 
-Place your blog post images in the `public/images/blog/` directory. You can reference them in your Markdown like this:
+Place your blog post images in the `public/images/blog/` directory. Reference them in Markdown like this:
 
 ```markdown
 ![Alt text](/images/blog/your-image.jpg)
 ```
+
 
 ### Markdown Features
 
@@ -142,6 +157,7 @@ The blog system supports:
 - Lists and blockquotes
 - Links and images
 
+
 ### Testing Blog Posts
 
 Use the included test script to verify your blog posts render correctly:
@@ -152,15 +168,16 @@ Use the included test script to verify your blog posts render correctly:
 
 This will build the site and start a local server so you can preview how your blog posts will look when deployed.
 
+
 ### Blog System Architecture
 
 The blog system is built with the following components:
 
 1. **Content Storage**: Blog posts are stored as Markdown files in `content/blog/` with date-prefixed directories
 2. **Data Processing**:
-   - `lib/posts.ts`: Contains utility functions to read and parse Markdown files
-   - Uses `gray-matter` to extract frontmatter metadata
-   - Uses `remark` and `remark-html` to convert Markdown to HTML
+   - `lib/posts.ts`: Reads and parses Markdown files, extracts frontmatter metadata
+   - Uses `gray-matter` for frontmatter
+   - Uses `remark` and `remark-html` for Markdown to HTML
    - Calculates reading time automatically
 3. **Rendering**:
    - `/blog` page: Displays all posts with blog posts at the top and articles below
@@ -171,6 +188,7 @@ The blog system is built with the following components:
    - Compatible with static exports for GitHub Pages
 
 For more detailed blog system documentation, see [BLOG.md](BLOG.md).
+
 
 ## License
 
