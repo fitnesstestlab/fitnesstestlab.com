@@ -1,0 +1,225 @@
+import Link from "next/link";
+import Image from "next/image";
+import { FiArrowRight, FiTarget, FiClock, FiBarChart2, FiCalendar } from "react-icons/fi";
+
+export default function Workouts() {
+  const workoutCategories = [
+    {
+      title: "Beginner Bodyweight",
+      description: "Start your fitness journey with equipment-free workouts perfect for beginners.",
+      duration: "20-30 min",
+      difficulty: "Beginner",
+      image: "/images/blog/state-management-cover.jpg",
+      slug: "beginner-bodyweight",
+    },
+    {
+      title: "Intermediate Strength",
+      description: "Build muscle and strength with progressive bodyweight and resistance exercises.",
+      duration: "30-45 min",
+      difficulty: "Intermediate",
+      image: "/images/blog/state-management-cover.jpg",
+      slug: "intermediate-strength",
+    },
+    {
+      title: "Advanced HIIT",
+      description: "High-intensity interval training for maximum calorie burn and cardiovascular fitness.",
+      duration: "25-35 min",
+      difficulty: "Advanced",
+      image: "/images/blog/state-management-cover.jpg",
+      slug: "advanced-hiit",
+    },
+    {
+      title: "Core & Stability",
+      description: "Improve core strength and stability with targeted exercises for better posture.",
+      duration: "15-25 min",
+      difficulty: "All Levels",
+      image: "/images/blog/state-management-cover.jpg",
+      slug: "core-stability",
+    },
+  ];
+
+  const featuredWorkouts = [
+    {
+      title: "7-Day Beginner Challenge",
+      description: "A progressive 7-day program to build your fitness foundation.",
+      days: 7,
+      level: "Beginner",
+      image: "/images/blog/state-management-cover.jpg",
+      slug: "7-day-beginner-challenge",
+    },
+    {
+      title: "30-Day Strength Builder",
+      description: "Systematic progression to build functional strength over 30 days.",
+      days: 30,
+      level: "Intermediate",
+      image: "/images/blog/state-management-cover.jpg",
+      slug: "30-day-strength-builder",
+    },
+  ];
+
+  return (
+    <>
+      {/* Hero Section */}
+      <section className="w-full py-12 md:py-24 lg:py-32 border-b border-border/40">
+        <div className="container px-4 md:px-6 mx-auto">
+          <div className="flex flex-col items-center justify-center space-y-4 text-center max-w-4xl mx-auto">
+            <div className="space-y-2">
+              <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
+                Home Workout Programs
+              </h1>
+              <p className="mx-auto max-w-[700px] text-foreground/80 md:text-xl">
+                Evidence-based workout routines designed for your home. No equipment needed, just results.
+              </p>
+            </div>
+            <div className="flex flex-wrap items-center justify-center gap-2">
+              <span className="inline-flex items-center justify-center rounded-full border border-input bg-background px-4 py-1 text-sm font-medium shadow-sm">
+                No Equipment Required
+              </span>
+              <span className="inline-flex items-center justify-center rounded-full border border-input bg-background px-4 py-1 text-sm font-medium shadow-sm">
+                Science-Backed
+              </span>
+              <span className="inline-flex items-center justify-center rounded-full border border-input bg-background px-4 py-1 text-sm font-medium shadow-sm">
+                Progressive Programs
+              </span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Featured Programs */}
+      <section className="w-full py-12 md:py-24 lg:py-32 bg-secondary/20">
+        <div className="container px-4 md:px-6 mx-auto">
+          <div className="flex flex-col items-center justify-center space-y-4 text-center max-w-4xl mx-auto mb-12">
+            <div className="space-y-2">
+              <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
+                Featured Programs
+              </h2>
+              <p className="mx-auto max-w-[700px] text-foreground/80 md:text-xl">
+                Comprehensive workout programs designed for progressive results.
+              </p>
+            </div>
+          </div>
+          
+          <div className="grid gap-6 md:grid-cols-2 max-w-4xl mx-auto">
+            {featuredWorkouts.map((program, index) => (
+              <div key={index} className="group relative overflow-hidden rounded-lg border border-border bg-card shadow-sm transition-all hover:shadow-md">
+                <div className="aspect-video w-full overflow-hidden">
+                  <Image
+                    src={program.image}
+                    alt={program.title}
+                    width={800}
+                    height={450}
+                    className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                  />
+                </div>
+                <div className="p-6">
+                  <div className="flex items-center gap-2 mb-3">
+                    <div className="rounded-full bg-primary/10 px-2 py-1 text-xs font-medium text-primary">
+                      {program.level}
+                    </div>
+                    <div className="flex items-center text-xs text-foreground/70">
+                      <FiCalendar className="mr-1 h-3 w-3" />
+                      {program.days} days
+                    </div>
+                  </div>
+                  <h3 className="text-xl font-bold mb-2">{program.title}</h3>
+                  <p className="text-sm text-foreground/80 mb-4">{program.description}</p>
+                  <Link
+                    href={`/workouts/${program.slug}`}
+                    className="inline-flex items-center text-sm font-medium text-primary hover:underline"
+                  >
+                    Start Program
+                    <FiArrowRight className="ml-1 h-4 w-4" />
+                  </Link>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Workout Categories */}
+      <section className="w-full py-12 md:py-24 lg:py-32">
+        <div className="container px-4 md:px-6 mx-auto">
+          <div className="flex flex-col items-center justify-center space-y-4 text-center max-w-4xl mx-auto mb-12">
+            <div className="space-y-2">
+              <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
+                Workout Categories
+              </h2>
+              <p className="mx-auto max-w-[700px] text-foreground/80 md:text-xl">
+                Browse our collection of targeted workout routines.
+              </p>
+            </div>
+          </div>
+          
+          <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4 max-w-6xl mx-auto">
+            {workoutCategories.map((category, index) => (
+              <div key={index} className="group relative overflow-hidden rounded-lg border border-border bg-card shadow-sm transition-all hover:shadow-md">
+                <div className="aspect-video w-full overflow-hidden">
+                  <Image
+                    src={category.image}
+                    alt={category.title}
+                    width={400}
+                    height={225}
+                    className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                  />
+                </div>
+                <div className="p-4">
+                  <div className="flex items-center gap-2 mb-2">
+                    <div className="rounded-full bg-primary/10 px-2 py-1 text-xs font-medium text-primary">
+                      {category.difficulty}
+                    </div>
+                  </div>
+                  <h3 className="text-lg font-bold mb-2">{category.title}</h3>
+                  <p className="text-xs text-foreground/80 mb-3">{category.description}</p>
+                  <div className="flex items-center text-xs text-foreground/70 mb-3">
+                    <FiClock className="mr-1 h-3 w-3" />
+                    {category.duration}
+                  </div>
+                  <Link
+                    href={`/workouts/${category.slug}`}
+                    className="inline-flex items-center text-xs font-medium text-primary hover:underline"
+                  >
+                    View Workouts
+                    <FiArrowRight className="ml-1 h-3 w-3" />
+                  </Link>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* CTA Section */}
+      <section className="w-full py-12 md:py-24 lg:py-32 border-t border-border bg-muted/40">
+        <div className="container px-4 md:px-6 mx-auto">
+          <div className="flex flex-col items-center justify-center space-y-4 text-center max-w-4xl mx-auto">
+            <div className="space-y-2">
+              <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
+                Ready to Start Your Fitness Journey?
+              </h2>
+              <p className="mx-auto max-w-[700px] text-foreground/80 md:text-xl">
+                Join thousands of people achieving their fitness goals with our evidence-based home workouts.
+              </p>
+            </div>
+            <div className="flex flex-col gap-2 min-[400px]:flex-row">
+              <Link
+                href="/blog"
+                className="inline-flex h-10 items-center justify-center rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
+              >
+                Browse All Workouts
+                <FiTarget className="ml-2 h-4 w-4" />
+              </Link>
+              <Link
+                href="/contact"
+                className="inline-flex h-10 items-center justify-center rounded-md border border-input bg-background px-8 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
+              >
+                Get Personalized Plan
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}

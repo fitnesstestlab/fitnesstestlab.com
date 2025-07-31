@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 0%; /* #000000 */
+    --foreground: 0 0% 100%; /* #FFFFFF */
+    --card: 0 0% 0%;
+    --card-foreground: 0 0% 100%;
+    --popover: 0 0% 0%;
+    --popover-foreground: 0 0% 100%;
+    --primary: 188 100% 50%; /* #00CFFF */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 0% 70%; /* #B3B3B3 */
+    --secondary-foreground: 0 0% 0%;
+    --accent: 0 0% 40%; /* #666666 */
+    --accent-foreground: 0 0% 100%;
+    --border: 0 0% 40%; /* #666666 */
+    --input: 0 0% 70%; /* #B3B3B3 */
+    --ring: 188 100% 50%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 0 0% 0%; /* #000000 */
+    --foreground: 0 0% 100%; /* #FFFFFF */
+    --card: 0 0% 0%;
+    --card-foreground: 0 0% 100%;
+    --popover: 0 0% 0%;
+    --popover-foreground: 0 0% 100%;
+    --primary: 188 100% 50%; /* #00CFFF */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 0% 70%; /* #B3B3B3 */
+    --secondary-foreground: 0 0% 0%;
+    --accent: 0 0% 40%; /* #666666 */
+    --accent-foreground: 0 0% 100%;
+    --border: 0 0% 40%; /* #666666 */
+    --input: 0 0% 70%; /* #B3B3B3 */
+    --ring: 188 100% 50%;
+  }
+}
+
+body {
+  color: hsl(var(--foreground));
+  background: hsl(var(--background));
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "ss01", "ss02", "cv01", "cv02", "cv03";
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .text-shadow {
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.12), 0 2px 4px rgba(0, 0, 0, 0.08);
+  }
+  .animated-gradient {
+    background-size: 400% 400%;
+    animation: gradient 8s ease infinite;
+  }
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+}
