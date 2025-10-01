@@ -21,7 +21,7 @@ tags:
 - schwinn airdyne pro review
 - schwinn airdyne vs rogue echo
 blogpost: true
-coverImage: /images/blog/2021-02-12-rogue-echo-bike-vs-schwinn-airdyne-pro/Rogue-Echo-Bike-Product-Pic-300x300-1.jpg
+coverImage: /images/blog/2021-02-12-rogue-echo-bike-vs-schwinn-airdyne-pro/Rogue-Echo-Bike-vs-Schwinn-Airdyne-Pro-Title-Pic.jpg
 ---
 
 <p class="p1"><span class="s1">Air bikes have been around for decades, but they've gained a larger user base over the last several years due to the rise in popularity of CrossFit. </span></p>

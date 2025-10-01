@@ -20,6 +20,7 @@ tags:
 - titan fitness
 - vulcan strength
 blogpost: true
+coverImage: /images/blog/2018-12-14-best-bumper-plates-buyers-guide/Olympic-Bumper-Plate-Buyers-Guide-Title-Picture.jpg
 ---
 
 Thanks to the popularity of sports like powerlifting and CrossFit, Olympic bumper plates and barbells are widely available and reasonably priced.
@@ -32,7 +33,7 @@ I've also included recommendations based on equipment I've personally tested.
 
 For information on a barbell to go along with your new bumper plates, check out my <a href="https://fitnesstestlab.com/barbell-buyers-guide/" target="_blank" rel="noopener noreferrer">Barbell Buying Guide</a> as well.
 
-<a href="https://fitnesstestlab.com/barbell-buyers-guide/"><img class="size-medium wp-image-5881" src="https://fitnesstestlab.com/wp-content/uploads/2020/07/Barbell-Buyers-Guide-Title-Pic-300x225.jpg" alt="Barbell Buyers Guide - Title Pic" width="300" height="225" /></a>
+<a href="https://fitnesstestlab.com/barbell-buyers-guide/"><img class="size-medium wp-image-5881" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Barbell-Buyers-Guide-Title-Pic-300x225.jpg" alt="Barbell Buyers Guide - Title Pic" width="300" height="225" /></a>
 <h2>Recommendations</h2>
 <em>I've moved the recommendations up top for those of you who are already knowledgeable about bumper plates and just want some advice on what to buy. For those that want more information, check out the <a href="https://fitnesstestlab.com/best-bumper-plates-buyers-guide/#Frequently_Asked_Questions">bumper plate FAQ list</a> first.</em>
 
@@ -48,13 +49,13 @@ The very first set of bumper plates I ever owned was a 160lb set of black bumper
 
 Vulcan Strength offers a full line of bumper plates at different price points in both kilograms and pounds, ranging from basic black bumper plates to urethane plates.
 
-[caption id="attachment_4720" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="Bumper Plate Buyers Guide - Vulcan Bumper Plates wp-image-4720 size-full" title="Bumper Plate Buyers Guide - Vulcan Bumper Plates" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Bumper-Plate-Buyers-Guide-Vulcan-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Vulcan Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/vulcan-black-bumper-plates/" target="_blank" rel="noopener noreferrer">Black</a>, <a href="https://fitnesstestlab.com/go/vulcan-alpha-bumper-plates/" target="_blank" rel="noopener noreferrer">Alpha</a>, <a href="https://fitnesstestlab.com/go/vulcan-absolute-competition-plates/" target="_blank" rel="noopener noreferrer">Absolute Competition</a>, <a href="https://fitnesstestlab.com/go/vulcan-urethane-bumper-plates/" target="_blank" rel="noopener noreferrer">Urethane</a> bumper plates</em>[/caption]
+[caption id="attachment_4720" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="Bumper Plate Buyers Guide - Vulcan Bumper Plates wp-image-4720 size-full" title="Bumper Plate Buyers Guide - Vulcan Bumper Plates" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Bumper-Plate-Buyers-Guide-Vulcan-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Vulcan Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/vulcan-black-bumper-plates/" target="_blank" rel="noopener noreferrer">Black</a>, <a href="https://fitnesstestlab.com/go/vulcan-alpha-bumper-plates/" target="_blank" rel="noopener noreferrer">Alpha</a>, <a href="https://fitnesstestlab.com/go/vulcan-absolute-competition-plates/" target="_blank" rel="noopener noreferrer">Absolute Competition</a>, <a href="https://fitnesstestlab.com/go/vulcan-urethane-bumper-plates/" target="_blank" rel="noopener noreferrer">Urethane</a> bumper plates</em>[/caption]
 
 Vulcan Strength was the first company I'm aware of to start using "hooked" collar inserts, which increases the durability of bumper plates by reducing the chances of the collar popping out from repeated drops.
 
 I believe it's only a matter of time before all the major companies start doing the same.
 
-[caption id="attachment_1641" align="alignnone" width="350"]<a href="https://fitnesstestlab.com/go/vulcan-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="Vulcan Bumper Plate Review - bumper plate insert welded with rebar wp-image-1641 size-full" title="Vulcan Bumper Plate Review - bumper plate insert welded with rebar" src="https://fitnesstestlab.com/wp-content/uploads/2017/03/Vulcan-Bumper-Plate-Review-bumper-plate-insert.jpg" alt="Vulcan Bumper Plate Review - bumper plate insert welded with rebar" width="350" height="349" /></a> <em>Hooked inserts increase bumper plate longevity</em>[/caption]
+[caption id="attachment_1641" align="alignnone" width="350"]<a href="https://fitnesstestlab.com/go/vulcan-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="Vulcan Bumper Plate Review - bumper plate insert welded with rebar wp-image-1641 size-full" title="Vulcan Bumper Plate Review - bumper plate insert welded with rebar" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Vulcan-Bumper-Plate-Review-bumper-plate-insert.jpg" alt="Vulcan Bumper Plate Review - bumper plate insert welded with rebar" width="350" height="349" /></a> <em>Hooked inserts increase bumper plate longevity</em>[/caption]
 
 My top recommendation for bumpers from Vulcan Strength are their line of Alpha plates. These plates are uniquely designed to combine some of the best features of various types of plates:
 <ul>
@@ -83,15 +84,15 @@ Since they're local, I've had the opportunity to meet several people from the Fr
 
 They also have a great sense of humor over at Fringe HQ. Who else would even <em>think</em> to introduce a donut bumper plate??
 
-[caption id="attachment_4742" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/fringe-sport-donut-bumper/"><img class="Bumper Plate Buyers Guide - Fringe Sport Donut Bumpers wp-image-4742 size-full" title="Bumper Plate Buyers Guide - Fringe Sport Donut Bumpers" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Bumper-Plate-Buyers-Guide-Fringe-Sport-Donut-Bumpers.jpg" alt="Bumper Plate Buyers Guide - Fringe Sport Donut Bumpers" width="600" height="300" /></a> <i>Yes, this is a <a href="https://fitnesstestlab.com/go/fringe-sport-donut-bumper/" target="_blank" rel="noopener noreferrer">real thing</a>!</i>[/caption]
+[caption id="attachment_4742" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/fringe-sport-donut-bumper/"><img class="Bumper Plate Buyers Guide - Fringe Sport Donut Bumpers wp-image-4742 size-full" title="Bumper Plate Buyers Guide - Fringe Sport Donut Bumpers" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Bumper-Plate-Buyers-Guide-Fringe-Sport-Donut-Bumpers.jpg" alt="Bumper Plate Buyers Guide - Fringe Sport Donut Bumpers" width="600" height="300" /></a> <i>Yes, this is a <a href="https://fitnesstestlab.com/go/fringe-sport-donut-bumper/" target="_blank" rel="noopener noreferrer">real thing</a>!</i>[/caption]
 
 Fringe Sport offers a full line of bumper plates at different price points in both kilograms and pounds, ranging from basic black bumper plates to competition plates.
 
-[caption id="attachment_4745" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/fringe-sport-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4745 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Bumper-Plate-Buyers-Guide-Fringe-Sport-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Fringe Sport Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/fringesport-black-bumper-plates/" target="_blank" rel="noopener noreferrer">Black</a>, <a href="https://fitnesstestlab.com/go/fringesport-color-bumper-plates/" target="_blank" rel="noopener noreferrer">Color</a>, <a href="https://fitnesstestlab.com/go/fringesport-black-training-plates/" target="_blank" rel="noopener noreferrer">Black Training</a>, <a href="https://fitnesstestlab.com/go/fringesport-color-competition-plates/" target="_blank" rel="noopener noreferrer">Color Competition</a> bumper plates</em>[/caption]
+[caption id="attachment_4745" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/fringe-sport-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4745 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Bumper-Plate-Buyers-Guide-Fringe-Sport-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Fringe Sport Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/fringesport-black-bumper-plates/" target="_blank" rel="noopener noreferrer">Black</a>, <a href="https://fitnesstestlab.com/go/fringesport-color-bumper-plates/" target="_blank" rel="noopener noreferrer">Color</a>, <a href="https://fitnesstestlab.com/go/fringesport-black-training-plates/" target="_blank" rel="noopener noreferrer">Black Training</a>, <a href="https://fitnesstestlab.com/go/fringesport-color-competition-plates/" target="_blank" rel="noopener noreferrer">Color Competition</a> bumper plates</em>[/caption]
 
 Fringe Sport bumper plates are designed to be extremely durable. Similar to Vulcan Strength, Fringe Sport makes use of "hooked" collar inserts to improve bumper plate durability.
 
-[caption id="attachment_4746" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/fringe-sport-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4746 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Olympic-Bumper-Plate-Buyers-Guide-Fringe-Sport-Steel-Insert.jpg" alt="Olympic Bumper Plate Buyer's Guide - Fringe Sport Steel Insert" width="600" height="600" /></a> <em>Hooked inserts increase bumper plate longevity</em>[/caption]
+[caption id="attachment_4746" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/fringe-sport-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4746 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Olympic-Bumper-Plate-Buyers-Guide-Fringe-Sport-Steel-Insert.jpg" alt="Olympic Bumper Plate Buyer's Guide - Fringe Sport Steel Insert" width="600" height="600" /></a> <em>Hooked inserts increase bumper plate longevity</em>[/caption]
 
 It's possible to get some really good deals on bumper plates from Fringe Sport if you're not in a hurry. Bumper plate sets go on sale at least once every three months or so and you can usually save up to %25 percent on Basic and Contrast bumper plate sets.
 
@@ -101,7 +102,7 @@ I recommend joining the Fringe Sport mailing list in order to be notified when n
 <p class="p1"><span class="s1">Rep Fitness has a smaller selection of bumper plate options than the rest of the companies covered, choosing instead to focus on offering a few options at a good price than building a huge product portfolio. </span></p>
 
 
-[caption id="attachment_4759" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/rep-fitness-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4759 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Bumper-Plate-Buyers-Guide-Rep-Fitness-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Rep Fitness Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/rep-fitness-black-bumper-plates/" target="_blank" rel="noopener noreferrer">Black</a>, <a href="https://fitnesstestlab.com/go/repfitness-competition-bumper-plates/" target="_blank" rel="noopener noreferrer">Competition</a>, <a href="https://fitnesstestlab.com/go/rep-fitness-color-bumper-plates/" target="_blank" rel="noopener noreferrer">Color</a> bumper plates</em>[/caption]
+[caption id="attachment_4759" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/rep-fitness-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4759 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Bumper-Plate-Buyers-Guide-Rep-Fitness-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Rep Fitness Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/rep-fitness-black-bumper-plates/" target="_blank" rel="noopener noreferrer">Black</a>, <a href="https://fitnesstestlab.com/go/repfitness-competition-bumper-plates/" target="_blank" rel="noopener noreferrer">Competition</a>, <a href="https://fitnesstestlab.com/go/rep-fitness-color-bumper-plates/" target="_blank" rel="noopener noreferrer">Color</a> bumper plates</em>[/caption]
 <p class="p1"><span class="s1">Unlike most other companies selling bumper plates, Rep Fitness does not bundle the cost of shipping into the base price of the plates. </span></p>
 <p class="p1"><span class="s1">This means you’ll pay freight rates for shipping, which can be good if you live in or near Colorado, but bad if you live in the eastern half of the country. </span></p>
 <p class="p1"><span class="s1">However, even with the cost of shipping factored in it’s possible to get a great deal on bumper plate sets. </span></p>
@@ -114,7 +115,7 @@ They were the first to introduce <a href="https://fitnesstestlab.com/american-ba
 
 In both cases, other companies have followed their lead and started offering similar products.
 
-[caption id="attachment_4719" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/american-barbell-weight-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4719 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Bumper-Plate-Buyers-Guide-American-Barbell-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - American Barbell Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/american-barbell-economy-bumper-plates/" target="_blank" rel="noopener noreferrer">Economy</a>, <a href="https://fitnesstestlab.com/go/american-barbell-shield-bumper-plates/" target="_blank" rel="noopener noreferrer">Shield</a>, <a href="https://fitnesstestlab.com/go/american-barbell-color-training-plates/" target="_blank" rel="noopener noreferrer">Color Training</a>, <a href="https://fitnesstestlab.com/go/american-barbell-urethane-bumper-plates/" target="_blank" rel="noopener noreferrer">Urethane</a> bumper plates</em>[/caption]
+[caption id="attachment_4719" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/american-barbell-weight-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4719 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Bumper-Plate-Buyers-Guide-American-Barbell-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - American Barbell Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/american-barbell-economy-bumper-plates/" target="_blank" rel="noopener noreferrer">Economy</a>, <a href="https://fitnesstestlab.com/go/american-barbell-shield-bumper-plates/" target="_blank" rel="noopener noreferrer">Shield</a>, <a href="https://fitnesstestlab.com/go/american-barbell-color-training-plates/" target="_blank" rel="noopener noreferrer">Color Training</a>, <a href="https://fitnesstestlab.com/go/american-barbell-urethane-bumper-plates/" target="_blank" rel="noopener noreferrer">Urethane</a> bumper plates</em>[/caption]
 <p class="p1"><span class="s1">Everything I’ve ever tested from American Barbell has been extremely high quality, and it’s not an exaggeration to say they are making some of the best fitness equipment on the market right now. </span></p>
 <p class="p1"><span class="s1">American Barbell offers a full line of bumper plates at different price points in both kilograms and pounds, ranging from basic black bumper plates to urethane competition plates.</span></p>
 <p class="p1"><span class="s1">Personally, I like the look of the Shield line of plates. They are very distinctive with a color coded stripe running along the edge of each glossy black plate and feature the American Barbell eagle logo on the face. </span></p>
@@ -125,7 +126,7 @@ In both cases, other companies have followed their lead and started offering sim
 <p class="p1"><span class="s1">Rogue has the most diverse product portfolio of any fitness equipment company, with lots of bumper plate options in both pounds and kilograms ranging from crumb and virgin rubber to urethane, and from basic black bumpers to competition bumper plates. </span></p>
 
 
-[caption id="attachment_4757" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/rogue-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4757 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Bumper-Plate-Buyers-Guide-Rogue-Fitness-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Rogue Fitness Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/rogue-echo-bumper-plates/" target="_blank" rel="noopener noreferrer">Echo</a>, <a href="https://fitnesstestlab.com/go/rogue-color-echo-bumper-plates/" target="_blank" rel="noopener noreferrer">Color Echo</a>, <a href="https://fitnesstestlab.com/go/rogue-black-training-bumper-plates/" target="_blank" rel="noopener noreferrer">Black Training</a>, <a href="https://fitnesstestlab.com/go/rogue-competition-plates/" target="_blank" rel="noopener noreferrer">Competition</a> bumper plates</em>[/caption]
+[caption id="attachment_4757" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/rogue-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4757 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Bumper-Plate-Buyers-Guide-Rogue-Fitness-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Rogue Fitness Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/rogue-echo-bumper-plates/" target="_blank" rel="noopener noreferrer">Echo</a>, <a href="https://fitnesstestlab.com/go/rogue-color-echo-bumper-plates/" target="_blank" rel="noopener noreferrer">Color Echo</a>, <a href="https://fitnesstestlab.com/go/rogue-black-training-bumper-plates/" target="_blank" rel="noopener noreferrer">Black Training</a>, <a href="https://fitnesstestlab.com/go/rogue-competition-plates/" target="_blank" rel="noopener noreferrer">Competition</a> bumper plates</em>[/caption]
 
 <span class="s1">If you’re considering a purchase of competition bumper plates, the Rogue competition plates are a great option. </span><span class="s1">These plates get used and abused at the CrossFit games, so they are definitely proven to hold up to hard use. </span>
 
@@ -135,7 +136,7 @@ Titan Fitness is perhaps best known for their aggressive low prices, and althoug
 
 Titan runs frequent sales <em>and</em> they have a buyer rewards program, so if you're patient and you shop carefully you can score some really good deals on bumper plates.
 
-[caption id="attachment_4760" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/titan-fitness-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4760 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Bumper-Plate-Buyers-Guide-Titan-Fitness-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Titan Fitness Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/titan-black-bumper-plates/" target="_blank" rel="noopener noreferrer">Black</a>, <a href="https://fitnesstestlab.com/go/titan-black-competition-plates/" target="_blank" rel="noopener noreferrer">Black Competition</a>, <a href="https://fitnesstestlab.com/go/titan-color-competition-plates/" target="_blank" rel="noopener noreferrer">Color Competition</a>, <a href="https://fitnesstestlab.com/go/titan-urethane-bumper-plates-lbs/" target="_blank" rel="noopener noreferrer">Urethane</a> bumper plates</em>[/caption]
+[caption id="attachment_4760" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/titan-fitness-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4760 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Bumper-Plate-Buyers-Guide-Titan-Fitness-Bumper-Plates.jpg" alt="Bumper Plate Buyers Guide - Titan Fitness Bumper Plates" width="600" height="600" /></a> <em>Top left to bottom right - <a href="https://fitnesstestlab.com/go/titan-black-bumper-plates/" target="_blank" rel="noopener noreferrer">Black</a>, <a href="https://fitnesstestlab.com/go/titan-black-competition-plates/" target="_blank" rel="noopener noreferrer">Black Competition</a>, <a href="https://fitnesstestlab.com/go/titan-color-competition-plates/" target="_blank" rel="noopener noreferrer">Color Competition</a>, <a href="https://fitnesstestlab.com/go/titan-urethane-bumper-plates-lbs/" target="_blank" rel="noopener noreferrer">Urethane</a> bumper plates</em>[/caption]
 
 I own a set of Titan Fitness Urethane Bumper Plates (<a href="https://fitnesstestlab.com/titan-fitness-urethane-bumper-plates-review/" target="_blank" rel="noopener noreferrer">full review</a>)and they are the best buy on urethane bumper plates I've been able to find.
 
@@ -162,7 +163,7 @@ However, bumper plates can be used for practically any type of weight training, 
 
 When describing bumper plate features, the term “Olympic” is often used as shorthand to mean the plate diameter is 450mm (17.72") and the collar opening is approximately 50mm (2″) in diameter.
 
-[caption id="attachment_1642" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-black-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-1642 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/03/Vulcan-Bumper-Plates-Review-45lb-Bumper-Plate-Face.jpg" alt="Vulcan Bumper Plates Review - 45lb Bumper Plate - Face" width="600" height="600" /></a> <em>Vulcan black bumper plates - <a href="https://fitnesstestlab.com/vulcan-black-bumper-plates-review/" target="_blank" rel="noopener noreferrer">read my full review</a></em>[/caption]
+[caption id="attachment_1642" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-black-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-1642 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Vulcan-Bumper-Plates-Review-45lb-Bumper-Plate-Face.jpg" alt="Vulcan Bumper Plates Review - 45lb Bumper Plate - Face" width="600" height="600" /></a> <em>Vulcan black bumper plates - <a href="https://fitnesstestlab.com/vulcan-black-bumper-plates-review/" target="_blank" rel="noopener noreferrer">read my full review</a></em>[/caption]
 
 A standard non-Olympic plate typically has a collar opening that is 1″ in diameter, so the distinction is important.
 
@@ -172,7 +173,7 @@ Bumper plates are Olympic-sized weight plates that are <em>designed to be droppe
 
 They were developed as a way to allow lifters to keep setting new records without having to control the weight on the way down. Once a lift is complete, the weight is simply dropped. No muss, no fuss.
 
-<figure><img class="size-full wp-image-4711" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Bumper-Plates-Buyers-Guide-Lift-and-Drop.gif" alt="Bumper Plates Buyers Guide - Lift and Drop" width="362" height="362" /><figcaption><em>Lift like a boss and walk away</em></figcaption></figure>
+<figure><img class="size-full wp-image-4711" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Bumper-Plates-Buyers-Guide-Lift-and-Drop.gif" alt="Bumper Plates Buyers Guide - Lift and Drop" width="362" height="362" /><figcaption><em>Lift like a boss and walk away</em></figcaption></figure>
 
 Well-designed bumper plates absorb the shock of impact without damage to the floor, plates, or bar.
 
@@ -203,7 +204,7 @@ In order to be considered an Olympic "competition" plate, a bumper plate must be
 <span style="color: #000000;">The discs lighter than ten (10) kg may be made of metal or other material as approved.</span>
 
 <span style="color: #000000;">All the discs must have a clear indication of their weight.</span></blockquote>
-[caption id="attachment_4110" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/rogue-competition-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4110 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/02/Best-short-barbells-for-home-use-Reviews-140KG-Competition-Plates-for-Testing.jpg" alt="Best short barbells for home use - Reviews - 140KG Competition Plates for Testing" width="600" height="300" /></a> <em>Competition bumper plates from <a href="https://fitnesstestlab.com/go/rogue-competition-plates/" target="_blank" rel="noopener noreferrer">Rogue Fitness</a></em>[/caption]
+[caption id="attachment_4110" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/rogue-competition-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4110 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Best-short-barbells-for-home-use-Reviews-140KG-Competition-Plates-for-Testing.jpg" alt="Best short barbells for home use - Reviews - 140KG Competition Plates for Testing" width="600" height="300" /></a> <em>Competition bumper plates from <a href="https://fitnesstestlab.com/go/rogue-competition-plates/" target="_blank" rel="noopener noreferrer">Rogue Fitness</a></em>[/caption]
 
 The spec denominates the weights in kilograms, but it is possible to buy competition-style bumper plates denominated in pounds as well.
 
@@ -215,7 +216,7 @@ Some companies offer bumpers with the colors and weights mixed up or with their 
 
 The color coding system is well established and is there for a reason - it helps lifters and coaches quickly pick out the right weights as well as making it easy to calculate the exact weight loaded on a bar.
 
-[caption id="attachment_4503" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/repfitness-competition-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4503 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/09/Rep-Fitness-Competition-Bumper-Plates-Review-Colors.jpg" alt="Rep Fitness Competition Bumper Plates Review - Colors" width="600" height="600" /></a> <em>Rep Fitness Competition Plates - <a href="https://fitnesstestlab.com/rep-fitness-competition-bumper-plates-review/" target="_blank" rel="noopener noreferrer">read my full review</a></em>[/caption]
+[caption id="attachment_4503" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/repfitness-competition-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4503 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Rep-Fitness-Competition-Bumper-Plates-Review-Colors.jpg" alt="Rep Fitness Competition Bumper Plates Review - Colors" width="600" height="600" /></a> <em>Rep Fitness Competition Plates - <a href="https://fitnesstestlab.com/rep-fitness-competition-bumper-plates-review/" target="_blank" rel="noopener noreferrer">read my full review</a></em>[/caption]
 
 Competition-spec bumper plates are typically constructed with a metal disc surrounded by rubber.
 
@@ -227,13 +228,13 @@ Bumper plates are primarily made of different compositions of rubber or urethane
 
 The majority of bumper plates manufactured and sold for home use are made of virgin rubber, which gives off a distinct "tire shop" smell that goes away over time.
 
-[caption id="attachment_4686" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-alpha-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4686 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/11/Vulcan-Strength-Alpha-Bumper-Plates.jpg" alt="Vulcan Strength Alpha Bumper Plates" width="600" height="600" /></a> <em>Alpha Bumper Plates from <a href="https://fitnesstestlab.com/go/vulcan-alpha-bumper-plates/" target="_blank" rel="noopener noreferrer">Vulcan Strength Training Systems</a></em>[/caption]
+[caption id="attachment_4686" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-alpha-bumper-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4686 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Vulcan-Strength-Alpha-Bumper-Plates.jpg" alt="Vulcan Strength Alpha Bumper Plates" width="600" height="600" /></a> <em>Alpha Bumper Plates from <a href="https://fitnesstestlab.com/go/vulcan-alpha-bumper-plates/" target="_blank" rel="noopener noreferrer">Vulcan Strength Training Systems</a></em>[/caption]
 
 Some bumper plates such as <a href="https://fitnesstestlab.com/rogue-hi-temp-bumper-plates-review/" target="_blank" rel="noopener noreferrer">Rogue Hi-Temps</a> are made of recycled rubber, which is more durable than virgin rubber but also more expensive.
 
 These type of plates are also sometimes called crumb rubber plates.
 
-<a href="https://fitnesstestlab.com/go/rogue-hi-temps/" target="_blank" rel="noopener noreferrer"><img class="wp-image-3133 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temp-Bumper-Plates-Review-less-carelessly-piled.jpg" alt="Rogue Hi Temp Bumper Plates Review - less carelessly piled" /></a>
+<a href="https://fitnesstestlab.com/go/rogue-hi-temps/" target="_blank" rel="noopener noreferrer"><img class="wp-image-3133 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Rogue-Hi-Temp-Bumper-Plates-Review-less-carelessly-piled.jpg" alt="Rogue Hi Temp Bumper Plates Review - less carelessly piled" /></a>
 
 As for urethane plates, keep reading...
 <h3>What are urethane bumper plates?</h3>
@@ -245,7 +246,7 @@ All that amazing durability comes at a cost though. Urethane bumper plates are c
 
 In addition to durability, urethane can bond with coloring agents more easily, which makes for some incredibly vibrant color in the current crop of urethane plate offerings.
 
-[caption id="attachment_4699" align="alignnone" width="600"]<a href="https://www.titan.fitness/kgubump-150.html" target="_blank" rel="noopener noreferrer"><img class="wp-image-4699 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Olympic-Bumper-Plates-Buyers-Guide-Titan-Fitness-Urethane-Bumper-Plates.jpg" alt="Olympic Bumper Plates Buyer's Guide - Titan Fitness Urethane Bumper Plates" width="600" height="600" /></a> <em>Urethane Bumper Plates from <a href="https://www.titan.fitness/kgubump-150.html" target="_blank" rel="noopener noreferrer">Titan Fitness</a></em>[/caption]
+[caption id="attachment_4699" align="alignnone" width="600"]<a href="https://www.titan.fitness/kgubump-150.html" target="_blank" rel="noopener noreferrer"><img class="wp-image-4699 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Olympic-Bumper-Plates-Buyers-Guide-Titan-Fitness-Urethane-Bumper-Plates.jpg" alt="Olympic Bumper Plates Buyer's Guide - Titan Fitness Urethane Bumper Plates" width="600" height="600" /></a> <em>Urethane Bumper Plates from <a href="https://www.titan.fitness/kgubump-150.html" target="_blank" rel="noopener noreferrer">Titan Fitness</a></em>[/caption]
 
 One other benefit of urethane bumper plates worth mentioning is their complete lack of odor.
 
@@ -263,7 +264,7 @@ I've also had the chance to inspect a pair of Prime Urethane Plates (<a href="ht
 
 The lower density of the recycled rubber gives these type of plates a higher and more erratic bounce than virgin rubber, which adds to their durability but makes them harder to control and reset after a drop.
 
-<figure><img class="wp-image-3128 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temp-Bumper-Plates-Review-45lb-side-by-side.jpg" alt="Rogue Hi Temp Bumper Plates Review - 45lb side by side" width="600" height="600" /><figcaption><em>45lb virgin rubber (left) vs 45lb crumb rubber (right) - note the difference in widths</em></figcaption></figure>
+<figure><img class="wp-image-3128 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Rogue-Hi-Temp-Bumper-Plates-Review-45lb-side-by-side.jpg" alt="Rogue Hi Temp Bumper Plates Review - 45lb side by side" width="600" height="600" /><figcaption><em>45lb virgin rubber (left) vs 45lb crumb rubber (right) - note the difference in widths</em></figcaption></figure>
 
 Crumb rubber plates like Hi-Temps tend to be significantly wider than virgin rubber plates, which means fewer plates can be used on a standard Olympic bar.
 
@@ -277,7 +278,7 @@ For pounds, the common weights are 1.25lb, 2.5lb, 5.0lb, and 10lb.
 
 Since the smallest bumper plate weight is typically 10kg or 25lbs, change plates provide a way to add smaller increments of weight to a lift.
 
-[caption id="attachment_4700" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/rogue-kg-change-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4700 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Rogue-KG-Change-Plates.jpg" alt="Rogue KG Change Plates" width="600" height="600" /></a> <em>Rogue <a href="https://fitnesstestlab.com/go/rogue-kg-change-plates/" target="_blank" rel="noopener noreferrer">KG Change Plates</a></em>[/caption]
+[caption id="attachment_4700" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/rogue-kg-change-plates/" target="_blank" rel="noopener noreferrer"><img class="wp-image-4700 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Rogue-KG-Change-Plates.jpg" alt="Rogue KG Change Plates" width="600" height="600" /></a> <em>Rogue <a href="https://fitnesstestlab.com/go/rogue-kg-change-plates/" target="_blank" rel="noopener noreferrer">KG Change Plates</a></em>[/caption]
 <h3>What are fractional plates?</h3>
 Fractional plates are similar to change plates in that they provide a way to add small increments of weight to a lift.
 
@@ -285,7 +286,7 @@ However, the increment units are much smaller than change plates. Fractional pla
 
 For kilograms and pounds, it's common to see weights offered in .25, .5, .75, and 1.0 increments.
 
-[caption id="attachment_4703" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/fringesport-fractional-weight-set-lbs/"><img class="wp-image-4703 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Fringesport-Fractional-Weight-Set-in-Pounds.jpg" alt="Fringesport Fractional Weight Set in Pounds" width="600" height="600" /></a> <em>Fringe Sport <a href="https://fitnesstestlab.com/go/fringesport-fractional-weight-set-lbs/" target="_blank" rel="noopener noreferrer">Fractional Weight Set</a></em>[/caption]
+[caption id="attachment_4703" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/fringesport-fractional-weight-set-lbs/"><img class="wp-image-4703 size-full" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Fringesport-Fractional-Weight-Set-in-Pounds.jpg" alt="Fringesport Fractional Weight Set in Pounds" width="600" height="600" /></a> <em>Fringe Sport <a href="https://fitnesstestlab.com/go/fringesport-fractional-weight-set-lbs/" target="_blank" rel="noopener noreferrer">Fractional Weight Set</a></em>[/caption]
 <h3>How much do bumper plates weigh?</h3>
 Bumper plates typically come in standard weights denominated in either kilograms or pounds. The common weights for pounds are:
 <ul>
@@ -321,7 +322,7 @@ A durometer rating is a measure of a material’s hardness – the higher the ra
 
 A "shore" rating is the same thing. The Shore Durometer was invented by Albert Ferdinand Shore, and the hardness scale bears his name.
 
-<img class="alignnone size-full wp-image-4739" src="https://fitnesstestlab.com/wp-content/uploads/2018/12/Shore-Durometer-Hardness-Scale.jpg" alt="Shore Durometer Hardness Scale" width="580" height="223" />
+<img class="alignnone size-full wp-image-4739" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Shore-Durometer-Hardness-Scale.jpg" alt="Shore Durometer Hardness Scale" width="580" height="223" />
 
 For bumper plates, a high shore rating means less bounce.
 
@@ -341,7 +342,7 @@ Be sure to expose both sides of each plate to the sun. Keep them out there long 
 
 Too much UV exposure can start to break down the rubber and harden it, which you definitely don't want.
 
-<img class="alignnone wp-image-1631 size-full" title="Vulcan Black Bumper Plates Review - Bumper Plate Eliminate Rubber Smell" src="https://fitnesstestlab.com/wp-content/uploads/2017/03/Vulcan-Bumper-Plates-Review-Bumper-Plate-Reducing-Rubber-Smell.jpg" alt="Vulcan Black Bumper Plates Review - Bumper Plate Eliminate Rubber Smell" width="600" height="301" />
+<img class="alignnone wp-image-1631 size-full" title="Vulcan Black Bumper Plates Review - Bumper Plate Eliminate Rubber Smell" src="/images/blog/2018-12-14-best-bumper-plates-buyers-guide/Vulcan-Bumper-Plates-Review-Bumper-Plate-Reducing-Rubber-Smell.jpg" alt="Vulcan Black Bumper Plates Review - Bumper Plate Eliminate Rubber Smell" width="600" height="301" />
 
 <strong>Second</strong>, soak your bumper plates in a solution of water, white vinegar, and baking soda.
 

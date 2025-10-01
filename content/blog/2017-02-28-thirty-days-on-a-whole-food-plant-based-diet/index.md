@@ -12,6 +12,7 @@ tags:
 - plant based
 - whole foods
 blogpost: true
+coverImage: /images/blog/2017-02-28-thirty-days-on-a-whole-food-plant-based-diet/30-Days-on-a-Whole-Food-Plant-Based-Diet-Title-Picture.jpg
 ---
 
 Not long ago I <a href="https://fitnesstestlab.com/how-not-to-die-by-dr-michael-greger-a-review/">reviewed</a> Dr Michael Greger's book <a href="http://amzn.to/2dClWzB">How Not to Die</a>, and at the end of the review I said I was  sufficiently convinced to give up eating animal products for a month and document the results. The month came and went, and the results are in. Want to know how it went? Read on to find out. Spoiler - I successfully managed not to die!
@@ -39,13 +40,13 @@ A cholesterol lipid panel typical takes the following measurements:
  	<li><strong>Triglycerides</strong>–another form of fat in your blood that can raise your risk for heart disease.</li>
 </ul>
 My initial blood work revealed that my level of LDL (bad) cholesterol was higher than the reference range, which contributed to a higher overall level of cholesterol in my blood. At the end of the experiment, my LDL cholesterol had dropped 16 points without a significant decrease in my HDL (good) cholesterol levels, bringing my total cholesterol level down below the reference range of 200mg/dL
-<p style="text-align: left;"><img class="alignnone size-full wp-image-1035" src="https://fitnesstestlab.com/wp-content/uploads/2016/12/Cholesterol-Measurements.png" alt="Cholesterol Measurements" width="548" height="244" /></p>
+<p style="text-align: left;"><img class="alignnone size-full wp-image-1035" src="/images/blog/2017-02-28-thirty-days-on-a-whole-food-plant-based-diet/Cholesterol-Measurements.png" alt="Cholesterol Measurements" width="548" height="244" /></p>
 <p style="text-align: left;">My family has a history of heart disease, so I consider this to be a big step in the right direction for me. I was very glad to see my LDL number go down.</p>
 
 <h3 style="text-align: left;">Weight</h3>
 I recorded my weight every day except for three days at the beginning of November where I was traveling for work. My weight fluctuated between 169-173lbs over the course of the month. Overall, my weight trended downward, expect for the occasional spike. I tracked what I ate and noted the spikes came on days after consuming meals heavy on salt. This leads me to believe the weight increases were due to water retention rather than anything having to do with the removal of animal products from my diet.
 
-<img class="alignnone size-full wp-image-1034" src="https://fitnesstestlab.com/wp-content/uploads/2016/12/Weight-and-Fat-Percentage.png" alt="Weight and Fat Percentage" width="551" height="421" />
+<img class="alignnone size-full wp-image-1034" src="/images/blog/2017-02-28-thirty-days-on-a-whole-food-plant-based-diet/Weight-and-Fat-Percentage.png" alt="Weight and Fat Percentage" width="551" height="421" />
 
 My bathroom scale measures body fat, so I started tracking this metric on November 2nd. Over the course of the experiment I came to the conclusion that the fat percentage calculator built into my scale is completely worthless. I did some research on how a scale measures body fat and learned it does this by running a very low voltage current through the lower body. Since the electrical current flows more quickly through water and muscle than bone or fat, the scale measures the speed of the current and applies a calculation to come up with a number. This means the numbers vary wildly depending on how much water the body is holding on to, and explains why my body fat percentages are lowest on days after a salty meal when my weight is highest. I'm presenting the data in the chart above because I measured it, but I don't consider it to show anything meaningful.
 <h2>Anecdotal results</h2>

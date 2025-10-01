@@ -1,40 +1,21 @@
-"use client";
-
 import Link from "next/link";
 import Image from "next/image";
 import { FiArrowRight, FiClock, FiUser, FiHeart, FiDroplet, FiTarget } from "react-icons/fi";
+import { withBasePath } from "@/utils/getBasePath";
+import { getAllPosts } from "@/lib/posts";
 
 export default function Home() {
-  // Featured fitness articles data
-  const featuredArticles = [
-    {
-      id: 1,
-      title: "The Science of Home Workouts",
-      excerpt: "Discover evidence-based approaches to maximize your home fitness results with minimal equipment.",
-      readTime: "8 min read",
-      category: "Workouts",
-      imageUrl: "/images/blog/state-management-cover.jpg",
-      slug: "science-of-home-workouts",
-    },
-    {
-      id: 2,
-      title: "Nutrition for Optimal Performance",
-      excerpt: "Fuel your body right with our comprehensive guide to pre and post-workout nutrition.",
-      readTime: "6 min read",
-      category: "Nutrition",
-      imageUrl: "/images/blog/state-management-cover.jpg",
-      slug: "nutrition-for-performance",
-    },
-    {
-      id: 3,
-      title: "Building Sustainable Fitness Habits",
-      excerpt: "Learn how to create lasting fitness routines that fit your lifestyle and goals.",
-      readTime: "10 min read",
-      category: "Lifestyle",
-      imageUrl: "/images/blog/state-management-cover.jpg",
-      slug: "sustainable-fitness-habits",
-    },
-  ];
+  // Get the 3 most recent blog posts
+  const allPosts = getAllPosts();
+  const featuredArticles = allPosts.slice(0, 3).map((post, index) => ({
+    id: index + 1,
+    title: post.title,
+    excerpt: post.excerpt,
+    readTime: "8 min read",
+    category: post.category,
+    imageUrl: post.coverImage,
+    slug: post.slug,
+  }));
 
   return (
     <>
@@ -103,7 +84,7 @@ export default function Home() {
               <div key={article.id} className="group relative flex flex-col overflow-hidden rounded-lg border border-border bg-card text-card-foreground shadow-sm transition-all hover:shadow-md">
                 <div className="aspect-video overflow-hidden">
                   <Image
-                    src={article.imageUrl}
+                    src={withBasePath(article.imageUrl)}
                     alt={article.title}
                     width={600}
                     height={400}
@@ -160,12 +141,11 @@ export default function Home() {
             </div>
           </div>
           <div className="mt-12 mx-auto max-w-6xl">
-            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {[
                 { name: "Workout Routines", icon: <FiTarget className="h-6 w-6" />, description: "Effective home workout programs" },
                 { name: "Nutrition Guide", icon: <FiDroplet className="h-6 w-6" />, description: "Fuel your body for optimal performance" },
-                { name: "Recovery", icon: <FiHeart className="h-6 w-6" />, description: "Rest and recovery strategies" },
-                { name: "Lifestyle", icon: <FiUser className="h-6 w-6" />, description: "Building sustainable fitness habits" }
+                { name: "Recovery", icon: <FiHeart className="h-6 w-6" />, description: "Rest and recovery strategies" }
               ].map((category, index) => (
                 <div key={index} className="flex flex-col items-center justify-center space-y-4 rounded-lg border border-border bg-card p-6 shadow-sm hover:shadow-md transition-shadow">
                   <div className="rounded-full bg-primary/10 p-3 text-primary">

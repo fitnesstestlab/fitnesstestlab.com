@@ -2,6 +2,17 @@ import Image from "next/image";
 import Link from "next/link";
 import { FiArrowRight, FiClock, FiHeart, FiTarget, FiCoffee } from "react-icons/fi";
 import { getAllPosts, getCategories } from "@/lib/posts";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Fitness Articles & Guides",
+  description: "Evidence-based fitness guidance, workout routines, and nutrition advice for your home fitness journey. Browse comprehensive articles on workouts, nutrition, wellness, and more.",
+  openGraph: {
+    title: "Fitness Articles & Guides | Fitness Test Lab",
+    description: "Evidence-based fitness guidance, workout routines, and nutrition advice for your home fitness journey.",
+    type: "website",
+  },
+};
 
 export const dynamic = 'force-static';
 

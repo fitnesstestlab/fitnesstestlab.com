@@ -17,6 +17,7 @@ tags:
 - strength
 - strength training
 blogpost: true
+coverImage: /images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Old-vs-New-Competition-Kettlebells.jpg
 ---
 
 I've always thought highly of Kettlebell Kings products but rarely used their competition-style kettlebells in my own practice, choosing instead to stick with their powder coat kettlebells. I've owned a 16kg competition kettlebell from Kettlebell Kings for over a year, but I found the smooth bare metal handle difficult to use without lots of chalk, which is a no-go for my home and office gyms.
@@ -26,7 +27,7 @@ I also tend to prefer a slightly thinner handle than the standard competition 35
 Kettlebell Kings recently introduced an updated line of competition kettlebells with a brand-spanking-new handle design. The introduction of this new design has made me reconsider their competition kettlebell for home use, and I really like what they’ve done with it.
 
 <!--more--><div class="thrive-text-block"><p style="text-align: center;"><strong>Kettlebell Kings Competition Kettlebells</strong></p>
-<p style="text-align: center;"><img class="alignnone" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Kings-20kg-competition-kettlebell.jpg" alt="Kettlebell Kings Competition Kettlebell" width="300px" height="300px" /></p>
+<p style="text-align: center;"><img class="alignnone" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Kings-20kg-competition-kettlebell.jpg" alt="Kettlebell Kings Competition Kettlebell" width="300px" height="300px" /></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/kettlebell-kings-competition-33mm-handle/"><i class="fa fa-shopping-cart"></i> Price Check</a></div></p>
 
 <h2>Video</h2>
@@ -36,13 +37,13 @@ I received four kettlebells with the newly designed handle and all were packaged
 
 As a result, they’re well protected from all but the most reckless of delivery personnel.
 
-<figure><img class="size-full wp-image-2783" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Unboxing.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Unboxing" width="750" height="750" /><figcaption>Typical unboxing of a Kettlebell Kings competition kettlebell</figcaption></figure>
+<figure><img class="size-full wp-image-2783" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Unboxing.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Unboxing" width="750" height="750" /><figcaption>Typical unboxing of a Kettlebell Kings competition kettlebell</figcaption></figure>
 <h2>Impressions</h2>
 The most obvious visible difference between the new design and the current design is in the shape of the handle horns. The existing design has straight horns, while the new design has cone-shaped horns.
 
 This is a functional difference rather than a purely aesthetic one, which I’ll cover in the Usability section.
 
-<figure><img class="wp-image-2782 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Old-vs-New-Competition-Kettlebells.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Old vs New Competition Kettlebells" width="750" height="750" /><figcaption>Left - current design, Right - new design</figcaption></figure>
+<figure><img class="wp-image-2782 size-full" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Old-vs-New-Competition-Kettlebells.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Old vs New Competition Kettlebells" width="750" height="750" /><figcaption>Left - current design, Right - new design</figcaption></figure>
 
 The other main difference is not visibly obvious, but immediately noticeable once I put my hand around the handle. The handle width of the new kettlebell design is 33mm wide by 35mm tall, with a pitted steel finish.
 
@@ -58,7 +59,7 @@ I’ve also had other people in my office kettlebell club try these new kettlebe
 
 We also used two other Kettlebell Kings competition kettlebells with older handle designs as a control group, one 16kg with a 35mm round bare steel finish and one 10kg with a 35mm round pitted steel finish. These two kettlebells were used to compare the different handle designs during testing.
 
-<img class="alignnone size-full wp-image-2780" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Club.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Kettlebell Club" width="750" height="562" />
+<img class="alignnone size-full wp-image-2780" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Club.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Kettlebell Club" width="750" height="562" />
 
 The complexes we do during club meets vary, but they all consists of five rounds of 4-8 exercises from the following list, with varying rep counts:
 <ul>
@@ -95,7 +96,7 @@ My kettlebell clean and snatch techniques aren’t refined enough for me to dete
 
 For what it’s worth, I can definitely tell the difference when I do a side-by-side comparison with the kettlebells perfectly positioned on my forearm. I just rarely manage to achieve the same positioning when I’m actively working with the kettlebells.
 
-<figure><img class="wp-image-2786 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Rack-Position.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Rack Position" width="750" height="290" /><figcaption>Rack position - current design on left, new design on right</figcaption></figure>
+<figure><img class="wp-image-2786 size-full" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Rack-Position.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Rack Position" width="750" height="290" /><figcaption>Rack position - current design on left, new design on right</figcaption></figure>
 
 The change I’m more interested in is the new handle geometry.
 
@@ -117,7 +118,7 @@ Kettlebell Kings competition kettlebells are cast as a single piece of steel wit
 
 As a result, the bulk of weight ends up in the base of the kettlebell and there's potential for pieces of filler material to break loose inside the shell. This is a common problem with lower quality kettlebells, which can rattle when filler material starts to break loose.
 
-<figure><img class="size-full wp-image-2806" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Hollow-Core.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Hollow Core" width="750" height="750" /><figcaption>Single-cast hollow core design, no fillers</figcaption></figure>
+<figure><img class="size-full wp-image-2806" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Hollow-Core.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Hollow Core" width="750" height="750" /><figcaption>Single-cast hollow core design, no fillers</figcaption></figure>
 
 The single-cast design of the Kettlebell Kings competition kettlebell provides a more balanced weight distribution and therefore a more balanced load displacement when working with the kettlebell. By extension, the kettlebell is easer to work with for prolonged periods of time.
 
@@ -125,7 +126,7 @@ The paint may wear off a bit with extended use, and in fact I’ve already seen 
 
 Just be sure to keep the handles and any exposed metal on the body dry by wiping the kettlebell down after every use in order to avoid rust buildup. This care advice applies to any competition kettlebell, not just Kettlebell Kings, since the bare uncoated steel is susceptible to rust if not kept dry.
 
-<figure><img class="alignnone size-full wp-image-2790" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Straight-Horn-vs-Cone-Horn.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Straight Horn vs Cone Horn" width="750" height="378" /><figcaption>Straight horn vs cone horn</figcaption></figure>
+<figure><img class="alignnone size-full wp-image-2790" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Straight-Horn-vs-Cone-Horn.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Straight Horn vs Cone Horn" width="750" height="378" /><figcaption>Straight horn vs cone horn</figcaption></figure>
 <h3>Cerakote coating option</h3>
 Starting in November 2017, Kettlebell Kings will be offering cerakote coating options on all their kettlebells!
 
@@ -181,11 +182,11 @@ Additionally, the cerakote option allows for a nearly infinite amount of customi
 
 At the time of this writeup the combined price of a 16kg and 20kg Kettlebell Kings competition kettlebells with free shipping is $211.98. The price is the same for the new 33x35mm and current 35mm round handle versions.
 
-<a href="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Competition-Kettlebells-Price.jpg" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-2792 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Competition-Kettlebells-Price.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Competition Kettlebells Price" width="750" height="202" /></a>
+<a href="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Competition-Kettlebells-Price.jpg" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-2792 size-full" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Competition-Kettlebells-Price.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Competition Kettlebells Price" width="750" height="202" /></a>
 
 In comparison, the price of two equivalent weight cast-iron Kettlebell Kings powder coat kettlebells is $172.98
 
-<a href="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Powder-Coat-Kettlebells-Price.jpg" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-2793 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Powder-Coat-Kettlebells-Price.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Powder Coat Kettlebells Price" width="750" height="200" /></a>
+<a href="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Powder-Coat-Kettlebells-Price.jpg" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-2793 size-full" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Powder-Coat-Kettlebells-Price.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Powder Coat Kettlebells Price" width="750" height="200" /></a>
 
 The prices may vary over time, so you may see a different price when you eventually read this. However, the current price difference is $39, which isn’t enormous, but isn’t exactly cheap either.
 
@@ -197,7 +198,7 @@ Ultimately, you’ll need to make the choice based on your needs and budget. Jus
 <h2>Pros</h2>
 The introduction of a new thinner handle geometry in the Kettlebell Kings competition line of kettlebells is a welcome change for those of us with smaller hands. I’m also a big fan of the pitted steel finish since it provides more grip than the original smooth bare metal finish.
 
-<figure><img class="alignnone size-full wp-image-2797" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Bare-Steel-vs-Pitted-Steel-Handle_.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Bare Steel vs Pitted Steel Handle_" width="750" height="383" /><figcaption>Smooth bare metal (left) vs pitted finish (right)</figcaption></figure>
+<figure><img class="alignnone size-full wp-image-2797" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Bare-Steel-vs-Pitted-Steel-Handle_.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Bare Steel vs Pitted Steel Handle_" width="750" height="383" /><figcaption>Smooth bare metal (left) vs pitted finish (right)</figcaption></figure>
 <h2>Cons</h2>
 Aside from the price premium over their cast-iron brethren, there are no real cons to speak of in terms of ways I think the Kettlebell Kings competition kettlebells could be better.
 
@@ -214,9 +215,9 @@ Second, the handle design of the Kettlebell Kings competition kettlebell isn’t
 
 However, I can't really knock the kettlebell for having a small handle window. After all, this piece of equipment is designed specifically for kettlebell sport, not general kettlebell fitness, and two-hand swings have no place in kettlebell sport.
 
-<figure><img class="alignnone size-full wp-image-2788" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Two-Hand-Swings.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Two Hand Swings" width="750" height="562" /><figcaption>Cramped fingers with two-hand swings, but whatevs, it's a competition kettlebell</figcaption></figure>
+<figure><img class="alignnone size-full wp-image-2788" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Two-Hand-Swings.jpg" alt="Kettlebell Kings Competition Kettlebells Review - Two Hand Swings" width="750" height="562" /><figcaption>Cramped fingers with two-hand swings, but whatevs, it's a competition kettlebell</figcaption></figure>
 <h2>Verdict</h2>
-<img class="alignnone size-full wp-image-1372" src="https://fitnesstestlab.com/wp-content/uploads/2016/08/Kettlebell-Reviews-Rating-Five-Stars.png" alt="Kettlebell Reviews Rating - Five Stars" width="250" height="50" />
+<img class="alignnone size-full wp-image-1372" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Reviews-Rating-Five-Stars.png" alt="Kettlebell Reviews Rating - Five Stars" width="250" height="50" />
 
 The new line of Kettlebell Kings competition kettlebells are without question a five star product.  They’re an excellent choice whether you practice kettlebell sport or just need solid kettlebells for your home gym, provided you’re okay with at least a minimal amount of chalk use.
 
@@ -235,5 +236,5 @@ However, if you’re a traditionalist or just prefer a round handle, stick with 
 I hope you've found this review helpful. If you have any questions I didn't cover in the review, post them in the comments below and I'll do my best to answer them.
 
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Kettlebell Kings Competition Kettlebells</strong></p>
-<p style="text-align: center;"><img class="alignnone" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Kings-20kg-competition-kettlebell.jpg" alt="Kettlebell Kings Competition Kettlebell" width="300px" height="300px" /></p>
+<p style="text-align: center;"><img class="alignnone" src="/images/blog/2017-07-14-kettlebell-kings-competition-kettlebells-review/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Kings-20kg-competition-kettlebell.jpg" alt="Kettlebell Kings Competition Kettlebell" width="300px" height="300px" /></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/kettlebell-kings-competition-33mm-handle/"><i class="fa fa-shopping-cart"></i> Buy Kettlebell Kings Competition Kettlebells</a></div></p>

@@ -16,6 +16,7 @@ tags:
 - short kettlebell workouts
 - single kettlebell workouts
 blogpost: true
+coverImage: /images/blog/2020-08-13-short-kettlebell-workouts/Kettlebell-Buyers-Guide-Generic-Kettlebells-Different-Sizes-Alternate.jpg
 ---
 
 Kettlebells are one of my favorite fitness tools. They hit the sweet spot between effectiveness and affordability, and they don't require a lot of space to use or to store.
@@ -30,7 +31,7 @@ I'll be adding to this list as time goes on, so bookmark this page and check bac
 
 If you're looking at buying your first kettlebell, check out my <a href="https://fitnesstestlab.com/kettlebell-buyers-guide/">kettlebell buyer's guide</a> for advice on how to select a quality kettlebell, sizing guidelines, and a few brand recommendations.
 
-<img class="wp-image-2162" src="https://fitnesstestlab.com/wp-content/uploads/2017/05/Fitness-Test-Lab-First-Rule-of-Kettlebell-Club-is-Tell-Everyone-About-Kettlebell-Club___-300x230.jpg" alt="Fitness Test Lab - First Rule of Kettlebell Club is Tell Everyone About Kettlebell Club" width="601" height="460" />
+<img class="wp-image-2162" src="/images/blog/2020-08-13-short-kettlebell-workouts/Fitness-Test-Lab-First-Rule-of-Kettlebell-Club-is-Tell-Everyone-About-Kettlebell-Club___-300x230.jpg" alt="Fitness Test Lab - First Rule of Kettlebell Club is Tell Everyone About Kettlebell Club" width="601" height="460" />
 <h2>Beginner Level</h2>
 <h3>The Basic</h3>
 This is the first kettlebell workout anyone new to the kettlebell club is taught after learning how to properly perform a two-handed kettlebell swing. The focus is on reinforcing the hip hinge pattern and opening the hips and shoulders.
@@ -58,7 +59,7 @@ Once a newcomer to the kettlebell club is comfortable with two-hand swings, we i
  	<li>10 pushups</li>
  	<li>rest till you catch your breath</li>
 </ul>
-<a href="https://fitnesstestlab.com/go/kettlebell-kings-competition-33mm-handle/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-2788 size-full" title="Short Kettlebell Workouts - Kettlebells Kings" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Two-Hand-Swings.jpg" alt="Short Kettlebell Workouts - Kettlebells Kings" width="750" height="562" /></a>
+<a href="https://fitnesstestlab.com/go/kettlebell-kings-competition-33mm-handle/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-2788 size-full" title="Short Kettlebell Workouts - Kettlebells Kings" src="/images/blog/2020-08-13-short-kettlebell-workouts/Kettlebell-Kings-Competition-Kettlebells-Review-Two-Hand-Swings.jpg" alt="Short Kettlebell Workouts - Kettlebells Kings" width="750" height="562" /></a>
 <h2>Beginner+ Level</h2>
 <h3>Sinister Six</h3>
 Once a lifter has been practicing for a while and is comfortable with the five basic movements in the Furious Five, we introduce two new moves: The overhead lunge and crazy eights (aka figure-8 to static hold). Crazy eights require more coordination by the lifter since they involve a hand switch every rep.
@@ -73,7 +74,7 @@ Once a lifter has been practicing for a while and is comfortable with the five b
  	<li>10 push ups</li>
  	<li>rest till you catch your breath</li>
 </ul>
-<a href="http://amzn.to/2xh5b4J" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-1469 size-full" title="Short Kettlebell Workouts - Kettlebells in a line" src="https://fitnesstestlab.com/wp-content/uploads/2017/02/Kettlebell-Buyers-Guide-Generic-Kettlebells-Different-Sizes-Alternate.jpg" alt="Short Kettlebell Workouts - Kettlebells in a line" width="600" height="801" /></a>
+<a href="http://amzn.to/2xh5b4J" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-1469 size-full" title="Short Kettlebell Workouts - Kettlebells in a line" src="/images/blog/2020-08-13-short-kettlebell-workouts/Kettlebell-Buyers-Guide-Generic-Kettlebells-Different-Sizes-Alternate.jpg" alt="Short Kettlebell Workouts - Kettlebells in a line" width="600" height="801" /></a>
 <h2>Intermediate Level</h2>
 <h3>The Afterburner</h3>
 I first came up with this routine when I was short on time but still wanted to get in a workout. One round takes about 10-15 minutes depending on your speed, so if you need something quick one round with a heavier kettlebell is a great way to blast your entire body.
@@ -101,7 +102,7 @@ Watch the video below for a demo of an up and over.
  	<li>20 pushups</li>
  	<li>rest till you catch your breath</li>
 </ul>
-<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-1426 size-full" title="Short Kettlebell Workouts - Vulcan Strength and Kettlebell Kings" src="https://fitnesstestlab.com/wp-content/uploads/2017/02/Kettlebell-Buyers-Guide-Competition-Style-Fitness-Kettlebells-Kettlebell-Kings-and-Vulcan.jpg" alt="Short Kettlebell Workouts - Vulcan Strength and Kettlebell Kings" width="600" height="450" /></a>
+<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-1426 size-full" title="Short Kettlebell Workouts - Vulcan Strength and Kettlebell Kings" src="/images/blog/2020-08-13-short-kettlebell-workouts/Kettlebell-Buyers-Guide-Competition-Style-Fitness-Kettlebells-Kettlebell-Kings-and-Vulcan.jpg" alt="Short Kettlebell Workouts - Vulcan Strength and Kettlebell Kings" width="600" height="450" /></a>
 <h3>Furious Five Reloaded</h3>
 This workout takes the beginner Furious Five workout and cranks the intensity up a notch. Less rounds but more work per round.
 
@@ -130,7 +131,7 @@ At the bottom of the squat, reach back to the floor with your free hand and lean
  	<li>10+ pushups</li>
  	<li>rest till you catch your breath</li>
 </ul>
-<a href="https://fitnesstestlab.com/go/kbusa-metrixx-elite-precision/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-3181 size-full" title="Single Kettlebell Flows - KBUSA" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Single-Kettlebell-Flows-KBUSA.jpg" alt="Single Kettlebell Flows - KBUSA" width="600" height="600" /></a>
+<a href="https://fitnesstestlab.com/go/kbusa-metrixx-elite-precision/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-3181 size-full" title="Single Kettlebell Flows - KBUSA" src="/images/blog/2020-08-13-short-kettlebell-workouts/Single-Kettlebell-Flows-KBUSA.jpg" alt="Single Kettlebell Flows - KBUSA" width="600" height="600" /></a>
 <h3>The Oddballs</h3>
 The Oddballs is named the way it is because it incorporates moves that don't show up in any of the other workouts.
 
@@ -138,7 +139,7 @@ This workout includes a move I call the hero punch, which is essentially an over
 
 I named it the hero punch because it reminds me of pumping a fist in the air after a victory!
 
-<figure><img class="size-full wp-image-6165" src="https://fitnesstestlab.com/wp-content/uploads/2020/08/Hero-Punch.jpg" alt="Hero Punch" width="420" height="420" /><figcaption><em>Hero Punch</em></figcaption></figure>
+<figure><img class="size-full wp-image-6165" src="/images/blog/2020-08-13-short-kettlebell-workouts/Hero-Punch.jpg" alt="Hero Punch" width="420" height="420" /><figcaption><em>Hero Punch</em></figcaption></figure>
 
 The dead snatch is just a snatch started from the ground instead of a swing.
 
@@ -162,7 +163,7 @@ I think the only tricky part of this workout compared to previous ones is the kn
 
 After the tabletop press, you'll basically transition into the second half of a get up by pulling the leg on the same side as your supporting arm underneath you to get into a bent knee position.
 
-<img class="alignnone size-full wp-image-6167" src="https://fitnesstestlab.com/wp-content/uploads/2020/08/Single-Kettlebell-Workouts-The-Punisher.jpg" alt="Single Kettlebell Workouts - The Punisher" width="600" height="600" />
+<img class="alignnone size-full wp-image-6167" src="/images/blog/2020-08-13-short-kettlebell-workouts/Single-Kettlebell-Workouts-The-Punisher.jpg" alt="Single Kettlebell Workouts - The Punisher" width="600" height="600" />
 
 The Punisher is only one round, but it's a lot of work stuffed into that one round. The entire workout can be done in under 20 minutes if you keep moving and don't go crazy on the kettlebell weight.
 

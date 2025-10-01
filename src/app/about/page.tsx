@@ -1,6 +1,17 @@
 import Image from "next/image";
 import Link from "next/link";
 import { FiArrowRight, FiHeart, FiTarget, FiUsers, FiAward } from "react-icons/fi";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "About",
+  description: "Learn about Fitness Test Lab - your trusted source for evidence-based home fitness guidance. Discover my mission, approach, and commitment to optimal wellness solutions.",
+  openGraph: {
+    title: "About | Fitness Test Lab",
+    description: "Learn about Fitness Test Lab - your trusted source for evidence-based home fitness guidance.",
+    type: "website",
+  },
+};
 
 export default function AboutPage() {
   return (

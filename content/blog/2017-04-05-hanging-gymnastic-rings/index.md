@@ -14,6 +14,7 @@ tags:
 - strength
 - strength training
 blogpost: true
+coverImage: /images/blog/2017-04-05-hanging-gymnastic-rings/How-to-Hang-Gymnastic-Rings-Title-and-Featured-Pic-2.0.jpg
 ---
 
 A while back I went through a bodyweight training phase and during that time I decided to buy a pair of gymnastic rings. I initially hung the rings from a doorway-mounted pull up bar but wasn't satisfied with that setup because it didn't offer enough height. I decided to mount the rings from my ceiling instead, using some wood and hardware from Home Depot.
@@ -30,11 +31,11 @@ A while back I went through a bodyweight training phase and during that time I 
  	<li>(1) small can of walnut stain and a throwaway foam brush.</li>
  	<li>(1) 1" Forstner bit for drilling recesses for the eye bolts</li>
 </ul>
-<figure><img class="wp-image-1746 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/04/How-to-Hang-Gymnastic-Rings-Forstner-Bit-and-Recessed-Hole.jpg" alt="How to Hang Gymnastic Rings - Forstner Bit and Recessed Hole" width="600" height="556" /><figcaption>Forstner bit and recessed hole</figcaption></figure>
+<figure><img class="wp-image-1746 size-full" src="/images/blog/2017-04-05-hanging-gymnastic-rings/How-to-Hang-Gymnastic-Rings-Forstner-Bit-and-Recessed-Hole.jpg" alt="How to Hang Gymnastic Rings - Forstner Bit and Recessed Hole" width="600" height="556" /><figcaption>Forstner bit and recessed hole</figcaption></figure>
 
 While not strictly needed, drilling the recessed hole with the Forstner bit provides space for keeping the top of the eye bolt flush with the board. This way you don't have to make more holes in your ceiling than necessary.
 
-<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-hthgr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-3202 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/banner-leaderboard-1.jpg" alt="" width="728" height="90" /></a>
+<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-hthgr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-3202 size-full" src="/images/blog/2017-04-05-hanging-gymnastic-rings/banner-leaderboard-1.jpg" alt="" width="728" height="90" /></a>
 <h2>Details</h2>
 It's been a while so I don't have pictures of the DIY process but I'll describe it as best I can for those looking for a similar solution.
 
@@ -42,27 +43,27 @@ The board spans three ceiling joists with two lag screws mounted into each joist
 
 I drilled two holes for each lag screw in the board. I then got on a ladder and held the drilled board up to the ceiling in the mounting location and drilled matching pilot holes into the ceiling.
 
-<figure><img class="wp-image-1742 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/03/How-to-Hang-Gymnastic-Rings-Ring-Mount-Without-Rings-Alternate-View.jpg" alt="How to Hang Gymnastic Rings - Ring Mount Without Rings - Alternate View" width="600" height="450" /><figcaption>Ring mount points are spaced roughly six inches apart</figcaption></figure>
+<figure><img class="wp-image-1742 size-full" src="/images/blog/2017-04-05-hanging-gymnastic-rings/How-to-Hang-Gymnastic-Rings-Ring-Mount-Without-Rings-Alternate-View.jpg" alt="How to Hang Gymnastic Rings - Ring Mount Without Rings - Alternate View" width="600" height="450" /><figcaption>Ring mount points are spaced roughly six inches apart</figcaption></figure>
 
 Next I spaced out three ring mount points on each half of the board and drilled pilot holes for the eye bolts. I then used the Forstner bit to drill a 3/4" deep recess into the top of the board over each eye bolt hole.
 
-<figure><img class="size-full wp-image-1747" src="https://fitnesstestlab.com/wp-content/uploads/2017/04/How-to-Hang-Gymnastic-Rings-Recessed-Bolt.jpg" alt="How to Hang Gymnastic Rings - Recessed Bolt" width="600" height="449" /><figcaption>Example of a recessed bolt hole (this is not my board)</figcaption></figure>
+<figure><img class="size-full wp-image-1747" src="/images/blog/2017-04-05-hanging-gymnastic-rings/How-to-Hang-Gymnastic-Rings-Recessed-Bolt.jpg" alt="How to Hang Gymnastic Rings - Recessed Bolt" width="600" height="449" /><figcaption>Example of a recessed bolt hole (this is not my board)</figcaption></figure>
 
 I stained the wood on the sides and bottom to match my flooring so it would look nicer, which was also key to getting my wife to begrudgingly agree to let me mount the rings inside the house!
 
-<img class="alignnone size-full wp-image-1739" src="https://fitnesstestlab.com/wp-content/uploads/2017/03/How-to-Hang-Gymnastic-Rings-Alternate-View.jpg" alt="How to Hang Gymnastic Rings - Alternate View" width="600" height="450" />
+<img class="alignnone size-full wp-image-1739" src="/images/blog/2017-04-05-hanging-gymnastic-rings/How-to-Hang-Gymnastic-Rings-Alternate-View.jpg" alt="How to Hang Gymnastic Rings - Alternate View" width="600" height="450" />
 
 I installed all the eye hooks first, adding washers on both the top and bottom bolts. I then mounted the board on the ceiling via the lag screws, using washers on those as well. After that, the only thing left to do was put up the rings.
 
-<img class="alignnone size-full wp-image-1732" src="https://fitnesstestlab.com/wp-content/uploads/2017/03/How-to-Hang-Gymnastic-Rings-Close-Up-of-Ring-Mount.jpg" alt="How to Hang Gymnastic Rings - Close Up of Ring Mount" width="600" height="450" />
+<img class="alignnone size-full wp-image-1732" src="/images/blog/2017-04-05-hanging-gymnastic-rings/How-to-Hang-Gymnastic-Rings-Close-Up-of-Ring-Mount.jpg" alt="How to Hang Gymnastic Rings - Close Up of Ring Mount" width="600" height="450" />
 
-<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-hthgr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-3202 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/banner-leaderboard-1.jpg" alt="" width="728" height="90" /></a>
+<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-hthgr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-3202 size-full" src="/images/blog/2017-04-05-hanging-gymnastic-rings/banner-leaderboard-1.jpg" alt="" width="728" height="90" /></a>
 <h2>Is the ceiling strong enough to support me?</h2>
 I'm certainly no builder, but I have access to my attic and verified that just one of the joists I would be using could hold my full weight before I bought any materials. I know that not everyone can do this due to an inability to get in their attic, but if you can, I definitely recommend it.
 
 If you plan to do something similar, don't use framing lumber. Use a hardwood like oak or maple instead. It will be significantly stronger with much less chance of warping or sagging over time.  I don't recall exactly which type of wood I used, but I skipped the cheap stuff and went straight for a harder wood (<em>insert Beavis laugh here</em>).
 
-<figure><img class="wp-image-1735 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/03/How-to-Hang-Gymnastic-Rings-Ring-Mount-with-Rings-Attached.jpg" alt="How to Hang Gymnastic Rings - Ring Mount with Rings Attached" width="600" height="450" /><figcaption>Finished product</figcaption></figure>
+<figure><img class="wp-image-1735 size-full" src="/images/blog/2017-04-05-hanging-gymnastic-rings/How-to-Hang-Gymnastic-Rings-Ring-Mount-with-Rings-Attached.jpg" alt="How to Hang Gymnastic Rings - Ring Mount with Rings Attached" width="600" height="450" /><figcaption>Finished product</figcaption></figure>
 
 <!--noptimize-->
 
@@ -76,4 +77,4 @@ Having multiple ring mounts is probably overkill, but it's been convenient to be
 
 Feel free to ask any questions in the comments if there is something you'd like to know that I didn't cover!
 
-<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-hthgr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-3202 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/banner-leaderboard-1.jpg" alt="" width="728" height="90" /></a>
+<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-hthgr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-3202 size-full" src="/images/blog/2017-04-05-hanging-gymnastic-rings/banner-leaderboard-1.jpg" alt="" width="728" height="90" /></a>

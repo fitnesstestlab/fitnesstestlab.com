@@ -14,6 +14,7 @@ tags:
 - squats
 - trap bar
 blogpost: true
+coverImage: /images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Title-Pic.jpg
 ---
 
 If you'd like to make heavy squats more accessible and easy on your neck and shoulders, then a safety squat bar is a must-have for your home gym.
@@ -38,7 +39,7 @@ The one drawback to this bar is that it will not fit properly on many of the mor
 
 Regardless, this bar works great for me and I definitely recommend it. Two biceps up for the Bells of Steel SS3 Safety Squat Bar! 💪💪
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Bells of Steel SS3 Safety Squat Bar</strong></p>
-<img class="wp-image-6855 size-medium aligncenter" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/ss3-thumb-300x300.jpg" alt="" width="300" height="300" />
+<img class="wp-image-6855 size-medium aligncenter" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/ss3-thumb-300x300.jpg" alt="" width="300" height="300" />
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/bells-of-steel-ss3/"><i class="fa fa-shopping-cart"></i> Price Check</a></div></p>
 
 <h2>SS3 Safety Squat Bar specs</h2>
@@ -56,7 +57,7 @@ The SS3 bar specs include:
  	<li>3 styles of removable handles</li>
  	<li>1,500lb capacity</li>
 </ul>
-<img class="alignnone size-full wp-image-6913" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Racked.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-6913" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Racked.jpg" alt="" width="800" height="800" />
 <h2>Why use an SS3 Safety Squat Bar?</h2>
 <p class="p1">A safety squat bar like the Bells of Steel SS3 Safety Squat Bar is a specialized barbell with a yoke design that allows the weight to be loaded on the back of the shoulders rather than on the neck.</p>
 <p class="p1">Using a safety squat bar allows for a more comfortable loading of the weight on the upper back, reducing the risk of injury and increasing safety during squats.</p>
@@ -76,7 +77,7 @@ The Bells of Steel SS3 Safety Squat Bar came in a HUGE box.
 
 Not surprising considering the size of the bar, but I do sometimes feel bad for the delivery person that is constantly lugging heavy boxes to my door ¯\_(ツ)_/¯
 
-<img class="alignnone wp-image-6921 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Boxed.jpg" alt="" width="800" height="800" />
+<img class="alignnone wp-image-6921 size-full" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Boxed.jpg" alt="" width="800" height="800" />
 
 The box was a little bit beat up during delivery, but thankfully the bar was well packed.
 
@@ -84,7 +85,7 @@ I've seen the Bells of Steel CEO on Youtube talking about the care they take in 
 
 The bar was protected with styrofoam that kept the box shape intact, despite the mild beating it took during shipping.
 
-<img class="alignnone size-full wp-image-6920" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Unboxing.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-6920" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Unboxing.jpg" alt="" width="800" height="800" />
 
 At the time I write this, the Bells of Steel SS3 Safety Squat Bar includes three different styles of handle attachments.
 
@@ -110,7 +111,7 @@ The SS3 has only 46.5 inches of shaft length between the cambered sections of th
 
 As you can see in the picture below, the SS3 causes my J-cups to tilt inward when racked.
 
-<figure><img class="wp-image-6908 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Doesnt-fit-on-Infintiy-Rack.jpg" alt="" width="800" height="800" /><figcaption><em>The SS3 is almost too narrow for my Rogue Infinity rack</em></figcaption></figure>
+<figure><img class="wp-image-6908 size-full" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Doesnt-fit-on-Infintiy-Rack.jpg" alt="" width="800" height="800" /><figcaption><em>The SS3 is almost too narrow for my Rogue Infinity rack</em></figcaption></figure>
 
 The tilt alters the weight distribution on the J-cups, so heavy weight is going to put a strain on the cups in a way they weren't designed for.
 
@@ -134,7 +135,7 @@ So I'll give you my take on how to use a safety squat bar now that I've had some
 <h3>What side of the SS3 Safety Squat Bar should I load on my shoulders?</h3>
 As you can see in the picture below, the padded handlebars are tilted at an angle when the bar is racked, due to the camber of the bar at both ends.
 
-<img class="alignnone wp-image-6910 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Handles-Side-View.jpg" alt="" width="800" height="800" />
+<img class="alignnone wp-image-6910 size-full" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Handles-Side-View.jpg" alt="" width="800" height="800" />
 
 If the Bells of Steel logo on the SS3 was printed on the tilted-side-up side of the padding, I would just assume that I load the bar by stepping <em>under</em> the tilt.
 
@@ -150,7 +151,7 @@ Loading the bar like this makes the movement feel like a cross between a front s
 
 In contrast, loading by stepping under the tilt results in a load that feels closer to a traditional back squat. If I didn't hold on to the handles when I load this way, the bar would slip off my back.
 
-<figure><img class="wp-image-6950 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/01/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Loading-Tilt-Up-vs-tilt-Down.jpg" alt="" width="800" height="400" /><figcaption><em>Loading under the tilt (left) vs pushing into the tilt (right)</em></figcaption></figure>
+<figure><img class="wp-image-6950 size-full" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Loading-Tilt-Up-vs-tilt-Down.jpg" alt="" width="800" height="400" /><figcaption><em>Loading under the tilt (left) vs pushing into the tilt (right)</em></figcaption></figure>
 <h3>How do I properly use the handles of an SS3 safety squat bar?</h3>
 Note that I'm not referring to the different handle options here. I'll get to those in a bit.
 
@@ -160,7 +161,7 @@ There are two schools of thought on which one is correct, depending on which fit
 
 After trying them both, I'll refer to them as the straight back method and the round back method.
 
-<img class="alignnone size-full wp-image-6916" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Yoke-and-Logo.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-6916" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Yoke-and-Logo.jpg" alt="" width="800" height="800" />
 <h4>Straight back method</h4>
 When you're just starting out using the SS3 Safety Squat Bar, the easiest way to use the handles is to push up on them while you squat.
 
@@ -186,7 +187,7 @@ If you've never used a safety squat bar before, I suggest using the straight bac
 
 Your back will thank you.
 
-<figure><img class="wp-image-6912 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Pad-Side-View.jpg" alt="" width="800" height="800" /><figcaption><em>This padding is thicc</em></figcaption></figure>
+<figure><img class="wp-image-6912 size-full" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Pad-Side-View.jpg" alt="" width="800" height="800" /><figcaption><em>This padding is thicc</em></figcaption></figure>
 <h3>Is it easier to squat with a safety squat bar like the SS3?</h3>
 The answer is...yes and no.
 
@@ -214,7 +215,7 @@ The three handle types are:
  	<li>Spider handles (long grip)</li>
  	<li>Chain handles (nunchuck grip)</li>
 </ul>
-<figure><img class="wp-image-6919 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Unboxed.jpg" alt="" width="800" height="800" /><figcaption><em>Three different handle options</em></figcaption></figure>
+<figure><img class="wp-image-6919 size-full" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Unboxed.jpg" alt="" width="800" height="800" /><figcaption><em>Three different handle options</em></figcaption></figure>
 
 Each handle option brings a unique aspect to squatting with the SS3 Safety Squat Bar.
 <h3>Regular handles</h3>
@@ -253,7 +254,7 @@ It is a valuable tool for those looking to add variety to their workouts and saf
 
 However, it may not fit properly on many popular racks that are usually 48" wide. Despite this, the SS3 has earned a permanent spot on my barbell rack.
 
-<img class="alignnone size-full wp-image-6951" src="https://fitnesstestlab.com/wp-content/uploads/2023/01/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Barbell-Rack.jpg" alt="" width="800" height="446" />
+<img class="alignnone size-full wp-image-6951" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/Bells-of-Steel-SS3-Safety-Squat-Bar-Review-Barbell-Rack.jpg" alt="" width="800" height="446" />
 
 </div>
 </div>
@@ -262,5 +263,5 @@ However, it may not fit properly on many popular racks that are usually 48" wide
 </div>
 </div>
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Bells of Steel SS3 Safety Squat Bar</strong></p>
-<img class="wp-image-6855 size-medium aligncenter" src="https://fitnesstestlab.com/wp-content/uploads/2022/12/ss3-thumb-300x300.jpg" alt="" width="300" height="300" />
+<img class="wp-image-6855 size-medium aligncenter" src="/images/blog/2023-01-06-bells-of-steel-ss3-safety-squat-bar-review/ss3-thumb-300x300.jpg" alt="" width="300" height="300" />
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/bells-of-steel-ss3/"><i class="fa fa-shopping-cart"></i> Shop Now</a></div></p>

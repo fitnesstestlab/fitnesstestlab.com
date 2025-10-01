@@ -60,12 +60,14 @@ export default function Footer() {
               <Link href="/blog" className="text-sm text-foreground/80 hover:text-primary">
                 Articles
               </Link>
+              {/* Hidden until real content is ready
               <Link href="/workouts" className="text-sm text-foreground/80 hover:text-primary">
                 Workouts
               </Link>
               <Link href="/nutrition" className="text-sm text-foreground/80 hover:text-primary">
                 Nutrition
               </Link>
+              */}
               <Link href="/about" className="text-sm text-foreground/80 hover:text-primary">
                 About
               </Link>

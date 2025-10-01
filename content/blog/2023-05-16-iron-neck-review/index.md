@@ -17,6 +17,7 @@ tags:
 - rehabilitation
 - Unconventional Strength
 blogpost: true
+coverImage: /images/blog/2023-05-16-iron-neck-review/Iron-Neck-Review-Title-Pic.jpg
 ---
 
 The neck. Everybody's got one, but no one thinks about it until it hurts.
@@ -36,7 +37,7 @@ But dear friends and strangers, I'm not here to lecture you on the perils of pho
 Instead, let me tell you about a nifty gadget that will transform your Text Neck into an Iron Neck (see what I did there?)
 
 <div class="thrive-text-block"><p style="text-align: center;"><strong>The Iron Neck</strong></p>
-<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/iron-neck/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5496 size-full" title="Iron Neck Review - Buy Now" src="https://fitnesstestlab.com/wp-content/uploads/2019/08/Iron-Neck-Review-Buy-Now-1.jpg" alt="Iron Neck Review - Buy Now" width="250" height="250" /></a></p>
+<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/iron-neck/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-5496 size-full" title="Iron Neck Review - Buy Now" src="/images/blog/2023-05-16-iron-neck-review/Iron-Neck-Review-Buy-Now-1.jpg" alt="Iron Neck Review - Buy Now" width="250" height="250" /></a></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/iron-neck/"><i class="fa fa-shopping-cart"></i> Price Check</a></div></p>
 
 <h2>What is the Iron Neck?</h2>
@@ -46,13 +47,13 @@ The Iron Neck uses a lightweight harness for your head connected to an elastic b
 
 The Iron Neck combines horizontal and rotational resistance in a way that strengthens the neck's natural movement patterns, which helps reduce the chance of injury and improves overall wellness.
 
-<figure><img class="size-full wp-image-5546" src="https://fitnesstestlab.com/wp-content/uploads/2019/11/Iron-Neck-Review-Make-Your-Neck-Work.gif" alt="Iron Neck Review - Make Your Neck Work" width="480" height="270" /><figcaption><em>Building an iron neck with the Iron Neck</em></figcaption></figure>
+<figure><img class="size-full wp-image-5546" src="/images/blog/2023-05-16-iron-neck-review/Iron-Neck-Review-Make-Your-Neck-Work.gif" alt="Iron Neck Review - Make Your Neck Work" width="480" height="270" /><figcaption><em>Building an iron neck with the Iron Neck</em></figcaption></figure>
 <h2>Why train the neck?</h2>
 Like I wrote above, modern life is <strong>*not*</strong> neck friendly. Many of us spend our days hunched over a desk and our nights hunched over a phone or tablet.
 
 You don't have to be a rocket surgeon to realize this is bad for your neck in particular and your health in general.
 
-<figure><img class="size-full wp-image-5543" src="https://fitnesstestlab.com/wp-content/uploads/2019/11/Iron-Neck-Review-Pain-in-the-Neck.jpg" alt="Iron Neck Review - Pain in the Neck" width="600" height="300" /><figcaption><em>Neck pain? There's an app for that. </em></figcaption></figure>
+<figure><img class="size-full wp-image-5543" src="/images/blog/2023-05-16-iron-neck-review/Iron-Neck-Review-Pain-in-the-Neck.jpg" alt="Iron Neck Review - Pain in the Neck" width="600" height="300" /><figcaption><em>Neck pain? There's an app for that. </em></figcaption></figure>
 
 Plus let's not forget about back health.
 
@@ -67,7 +68,7 @@ This is where the Iron Neck shines. It's a useful device for strengthening your 
 <div>I don't have any pictures of what it looked like, but the concept was similar to this:</div>
 <div>
 
-<figure><img class="size-full wp-image-5572" src="https://fitnesstestlab.com/wp-content/uploads/2019/12/Iron-Neck-Review-Neck-Brace.jpg" alt="Iron Neck Review - Neck Brace" width="600" height="600" /><figcaption><em>He makes it look way cooler than it actually is</em></figcaption></figure>
+<figure><img class="size-full wp-image-5572" src="/images/blog/2023-05-16-iron-neck-review/Iron-Neck-Review-Neck-Brace.jpg" alt="Iron Neck Review - Neck Brace" width="600" height="600" /><figcaption><em>He makes it look way cooler than it actually is</em></figcaption></figure>
 
 </div>
 <div></div>
@@ -97,7 +98,7 @@ I received a <strong>Pro</strong> model Iron Neck with a <strong>Starter</strong
 
 Everything came in a single box, well protected by form-fitting foam inserts.
 
-<img class="alignnone size-full wp-image-5490" src="https://fitnesstestlab.com/wp-content/uploads/2019/08/Iron-Neck-Review-Unboxing.jpg" alt="Iron Neck Review - Unboxing" width="600" height="600" />
+<img class="alignnone size-full wp-image-5490" src="/images/blog/2023-05-16-iron-neck-review/Iron-Neck-Review-Unboxing.jpg" alt="Iron Neck Review - Unboxing" width="600" height="600" />
 
 My first impression of the Iron Neck was that it is much larger in person than it looks in pictures.
 
@@ -105,7 +106,7 @@ It's also much lighter than I expected, although in retrospect I'm not sure why 
 
 Side note, the original Iron Neck was called the 'Halo' and actually was made out of metal, weighing about 12 pounds.
 
-<figure><img class="size-full wp-image-5488" src="https://fitnesstestlab.com/wp-content/uploads/2019/08/Iron-Neck-Review-Halo-vs-Iron-Neck.jpg" alt="Iron Neck Review - Halo vs Iron Neck" width="600" height="300" /><figcaption><em>Original aluminum 'Halo' (left) versus the Iron Neck (right)</em></figcaption></figure>
+<figure><img class="size-full wp-image-5488" src="/images/blog/2023-05-16-iron-neck-review/Iron-Neck-Review-Halo-vs-Iron-Neck.jpg" alt="Iron Neck Review - Halo vs Iron Neck" width="600" height="300" /><figcaption><em>Original aluminum 'Halo' (left) versus the Iron Neck (right)</em></figcaption></figure>
 
 Can you imagine strapping something weighing the equivalent of a bowling ball to your head? Yeah, me either.
 
@@ -117,7 +118,7 @@ I know I'm making a broad generalization, but I'll wager most desk jockeys like 
 
 In the past, neck training options were usually limited to clunky machines or weighted head harnesses with limited motion.
 
-<figure><img class="size-full wp-image-5566" src="https://fitnesstestlab.com/wp-content/uploads/2019/12/Iron-Neck-Review-Neck-Training-Options.jpg" alt="Iron Neck Review - Neck Training Options" width="600" height="329" /><figcaption><em>Old-school neck training options</em></figcaption></figure>
+<figure><img class="size-full wp-image-5566" src="/images/blog/2023-05-16-iron-neck-review/Iron-Neck-Review-Neck-Training-Options.jpg" alt="Iron Neck Review - Neck Training Options" width="600" height="329" /><figcaption><em>Old-school neck training options</em></figcaption></figure>
 
 The harness and machines do help strengthen the neck, but they tend to be clunky and only work in very limited ranges of motion. They can also rarely be used in combination with any other kind of exercise.
 
@@ -211,7 +212,7 @@ Note that I am <em>not</em> giving you medical advice - this is just my observat
 <p style="font-weight: 400;">So, if you're ready to bid farewell to Text Neck and prioritize your neck and spinal health, consider giving the Iron Neck a try. It's a game-changer for neck strength training, providing a full range of motion and the ability to combine it with other exercises.</p>
 <p style="font-weight: 400;">Say goodbye to neck pain and hello to a stronger, healthier neck with the Iron Neck.</p>
 <div class="thrive-text-block"><p style="text-align: center;"><strong>The Iron Neck</strong></p>
-<p style="text-align: center;"><img class="alignnone wp-image-5496 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2019/08/Iron-Neck-Review-Buy-Now-1.jpg" alt="Iron Neck Review - Buy Now" width="250" height="250" /></p>
+<p style="text-align: center;"><img class="alignnone wp-image-5496 size-full" src="/images/blog/2023-05-16-iron-neck-review/Iron-Neck-Review-Buy-Now-1.jpg" alt="Iron Neck Review - Buy Now" width="250" height="250" /></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/iron-neck/"><i class="fa fa-shopping-cart"></i> Buy The Iron Neck</a></div></p>
 
 <h2></h2>

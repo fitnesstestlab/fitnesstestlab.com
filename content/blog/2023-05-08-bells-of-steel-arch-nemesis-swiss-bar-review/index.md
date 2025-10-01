@@ -16,6 +16,7 @@ tags:
 - instagram
 - nemesis bar vs kadillac bar
 blogpost: true
+coverImage: /images/blog/2023-05-08-bells-of-steel-arch-nemesis-swiss-bar-review/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Title-Pic.jpg
 ---
 
 <p class="p1">The Arch Nemesis Swiss Bar from Bells of Steel is not your ordinary specialty barbell. It's a remarkably versatile and budget-friendly tool that offers a wide range of training options, making it an excellent choice even for those on a limited budget.</p>
@@ -32,7 +33,7 @@ The bar arrived intact and undamaged.
 
 Nothing out of the ordinary to say about the shipping and arrival condition, so I'll move on.
 
-<img class="alignnone size-full wp-image-7051" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Unboxing.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7051" src="/images/blog/2023-05-08-bells-of-steel-arch-nemesis-swiss-bar-review/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Unboxing.jpg" alt="" width="800" height="800" />
 <h2>Impressions and specs</h2>
 The Arch Nemesis Swiss Bar bears a very strong resemblance to the Kabuki Kadillac Bar, currently sold by Rogue Fitness.
 
@@ -45,7 +46,7 @@ Like the Kadillac Bar, the Arch Nemesis is cambered and offers multiple grip opt
 </div>
 The Arch Nemesis is a no-brainer if you're in the market for a cambered Swiss bar.
 
-<img class="alignnone size-full wp-image-7064" src="https://fitnesstestlab.com/wp-content/uploads/2023/04/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Similar-to-Kadillac-Bar.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7064" src="/images/blog/2023-05-08-bells-of-steel-arch-nemesis-swiss-bar-review/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Similar-to-Kadillac-Bar.jpg" alt="" width="800" height="800" />
 
 The Arch Nemesis is made of thick steel and looks heavy duty, but at 24lbs it's surprisingly light.
 
@@ -62,7 +63,7 @@ However, Bells of Steel offers their own brand of 3-D printed barbell collars, i
 
 If you buy an Arch nemesis, just spring for the axle collars as well, you won't be sorry.
 
-<figure><img class="wp-image-7052 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/Bells-of-Steel-Axle-Collar-Zip-Clips.jpg" alt="" width="800" height="800" /><figcaption><em>3-D printed axle bar collars</em></figcaption></figure>
+<figure><img class="wp-image-7052 size-full" src="/images/blog/2023-05-08-bells-of-steel-arch-nemesis-swiss-bar-review/Bells-of-Steel-Axle-Collar-Zip-Clips.jpg" alt="" width="800" height="800" /><figcaption><em>3-D printed axle bar collars</em></figcaption></figure>
 <p class="p1">The Arch Nemesis Swiss Bar measures 78" in length, weighing 24lb, and boasting a maximum capacity of 600 lbs. With a mild knurling, it offers narrow grip handle distances of 12", middle distances of 20.5", and wide distances of 29".</p>
 <p class="p1">Additionally, the handles are mounted at 13-degree angles, enhancing its ergonomic design. The three angled grips on the Arch Nemesis help reduce wrist and shoulder strain, increase muscle activation, enhance grip strength, and reduce stress on your joints.</p>
 <p class="p1">The more natural hand positions also make it suitable for individuals with shoulder issues or limited mobility.</p>
@@ -87,13 +88,13 @@ The arch shape of the bar lets me lower the bar past my chest, which makes me fe
 <p class="p1">The cable attachment opens up a whole other dimension of workout possibilities when combined with a lat pulldown and/or cable row setup.</p>
 
 
-<figure><img class="wp-image-7046 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Cable-Attchment-Hook.jpg" alt="" width="800" height="800" /><figcaption><em>The cable attachment makes the Arch Nemesis even more versatile</em></figcaption></figure>
+<figure><img class="wp-image-7046 size-full" src="/images/blog/2023-05-08-bells-of-steel-arch-nemesis-swiss-bar-review/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Cable-Attchment-Hook.jpg" alt="" width="800" height="800" /><figcaption><em>The cable attachment makes the Arch Nemesis even more versatile</em></figcaption></figure>
 <p class="p1">With the right setup, you can do lat pull-downs and cable rows with this same bar. In my opinion, this one feature makes the Arch Nemesis superior to the similar and more expensive Kadillac Bar.</p>
 Prior to owning this bar, I did not have a lat pulldown setup in the Lab. I remedied that situation by <a href="https://fitnesstestlab.com/diy-lat-pulldown-and-seated-row-machine/" target="_blank" rel="noopener">building my own lat pulldown / cable row machine</a> using parts purchased from Amazon.
 
 The setup works amazingly well, and all I can say is I wish I had done it years ago.
 
-<figure><img class="wp-image-7075 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/05/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Lat-Pulldowns-and-Rows.jpg" alt="" width="800" height="425" /><figcaption><em>Lat pulldowns and cable rows with the Arch Nemesis Swiss bar</em></figcaption></figure>
+<figure><img class="wp-image-7075 size-full" src="/images/blog/2023-05-08-bells-of-steel-arch-nemesis-swiss-bar-review/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Lat-Pulldowns-and-Rows.jpg" alt="" width="800" height="425" /><figcaption><em>Lat pulldowns and cable rows with the Arch Nemesis Swiss bar</em></figcaption></figure>
 
 This is where I will interject my one complaint about the Arch Nemesis bar.
 
@@ -103,7 +104,7 @@ As you can see in the picture above, I don't have a lot of room to work with. Se
 
 Since the sleeves are just steel pipe, I used my angle grinder to cut 4.25 inches off each sleeve and the bar is now <em>much</em> easier to use.
 
-<figure><img class="size-full wp-image-7076" src="https://fitnesstestlab.com/wp-content/uploads/2023/05/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Cut-Down-Sleeves.jpg" alt="" width="800" height="800" /><figcaption><em>Arch Nemesis, after surgery</em></figcaption></figure>
+<figure><img class="size-full wp-image-7076" src="/images/blog/2023-05-08-bells-of-steel-arch-nemesis-swiss-bar-review/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Cut-Down-Sleeves.jpg" alt="" width="800" height="800" /><figcaption><em>Arch Nemesis, after surgery</em></figcaption></figure>
 
 The sleeves on the Arch Nemesis offer an impressive loadable space of nearly 14 inches. After giving it some thought, I decided to trim off 4.25 inches from each side, leaving me with about 9.5 inches of sleeve length.
 
@@ -121,7 +122,7 @@ With its rackable design and grip handle distances, the Arch Nemesis Swiss Bar c
 
 Using the different handle grips on the Arch Nemesis Swiss Bar, you can vary your pull-up grip positions to target different muscle groups and add variety to your routine.
 
-<figure><img class="wp-image-7061 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/04/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Pullup-Bar.jpg" alt="" width="800" height="800" /><figcaption><em>The Arch Nemesis triples as a multi-grip pull up bar</em></figcaption></figure>
+<figure><img class="wp-image-7061 size-full" src="/images/blog/2023-05-08-bells-of-steel-arch-nemesis-swiss-bar-review/Bells-of-Steel-Arch-Nemesis-Swiss-Bar-Review-Pullup-Bar.jpg" alt="" width="800" height="800" /><figcaption><em>The Arch Nemesis triples as a multi-grip pull up bar</em></figcaption></figure>
 
 The narrow grip handles at 12" apart are great for targeting your biceps and inner back muscles, while the wider grip handles at 29" apart provide a challenging wide grip pull-up that engages your lats and outer back muscles.
 

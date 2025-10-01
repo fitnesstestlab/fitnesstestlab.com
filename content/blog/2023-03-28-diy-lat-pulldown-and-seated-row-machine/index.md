@@ -13,6 +13,7 @@ tags:
 - frontpage
 - instagram
 blogpost: true
+coverImage: /images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Title-Pic.jpg
 ---
 
 <p class="p1">Lat pulldowns and seated rows are fantastic exercises for building back strength, but it's hard to do these exercises at home without proper equipment.</p>
@@ -32,7 +33,7 @@ But, they wanted over $200 plus tax and shipping for what struck me as a very si
 
 That's when I realized I could build it myself for less.
 
-<figure><img class="size-full wp-image-7024" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Machine-Spudd.png" alt="" width="800" height="626" /><figcaption><em>Rogue charges over $200 for this simple setup - DIY for less than half the cost</em></figcaption></figure>
+<figure><img class="size-full wp-image-7024" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Machine-Spudd.png" alt="" width="800" height="626" /><figcaption><em>Rogue charges over $200 for this simple setup - DIY for less than half the cost</em></figcaption></figure>
 <h2>Materials</h2>
 <p class="p1">To build your own lat pulldown / seated row machine, you'll need gapless pulleys, steel cables, straps, carabiners, a weight pin, and a bar attachment.</p>
 Here's a list of what I bought off Amazon. All links should open in new tabs:
@@ -57,7 +58,7 @@ The pulleys are one of the most expensive items in the build of materials, but t
 
 I paid fifteen bucks for the pair of pulleys I'm using and they are rock solid.
 
-<img class="size-full wp-image-7030" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Gapless-Pulleys.jpg" alt="" width="800" height="800" />
+<img class="size-full wp-image-7030" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Gapless-Pulleys.jpg" alt="" width="800" height="800" />
 
 I did not need to buy a lat pulldown / rowing bar.
 
@@ -71,43 +72,43 @@ But I digress.
 
 If you need a pulldown/row bar, there are lots of <a href="https://amzn.to/3lHLmBk" target="_blank" rel="noopener">affordable options on Amazon</a>.
 
-<img class="alignnone size-full wp-image-7028" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Parts-List.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7028" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Parts-List.jpg" alt="" width="800" height="800" />
 <h2>Assembly</h2>
 <p class="p1">Once you've gathered your materials, it's time to start assembling the machine. Here are the steps for lat pulldowns:</p>
 Wrap a strap around your pull up bar and attach a pulley using one of the carabiners.
 
-<img class="alignnone size-full wp-image-7033" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Upper-Pulley.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7033" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Upper-Pulley.jpg" alt="" width="800" height="800" />
 
 Thread the shorter steel cable through the pulley and attach a carabiner on each end of the cable.
 
-<img class="alignnone size-full wp-image-7032" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Cable-and-Carabiner.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7032" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Cable-and-Carabiner.jpg" alt="" width="800" height="800" />
 
 Add plates to the weight pin and attach one end of the cable to the weight pin using one of the carabiner on the cable.
 
-<img class="alignnone size-full wp-image-7034" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Loaded-Weight-Pin.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7034" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Loaded-Weight-Pin.jpg" alt="" width="800" height="800" />
 
 Attach the pulldown bar to the cable using the other carabiner.
 <p class="p1">That's it! Your DIY lat pulldown/seated row machine is now ready to use.</p>
 <p class="p1">Move your bench close to the rack to sit on while pulling.</p>
-<img class="alignnone size-full wp-image-7035" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Ready-for-Pulldowns.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7035" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Ready-for-Pulldowns.jpg" alt="" width="800" height="800" />
 
 For seated rows, follow the same steps as for lat pulldowns, but don't connect the pulldown bar.
 
 Instead, connect the second pulley to your lower rack cross bar using a strap and another carabiner.
 
-<img class="alignnone size-full wp-image-7036" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Lower-Pulley.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7036" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Lower-Pulley.jpg" alt="" width="800" height="800" />
 
 Connect the second cable to the first cable using the carabiner on the first cable (instead of attaching the pulldown bar).
 
-<img class="alignnone size-full wp-image-7038" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Connected-Cables.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7038" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Connected-Cables.jpg" alt="" width="800" height="800" />
 
 Thread the other end of the second cable through the lower pulley.
 
-<img class="alignnone size-full wp-image-7039" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Lower-Pulley-and-Cable.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7039" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Lower-Pulley-and-Cable.jpg" alt="" width="800" height="800" />
 
 Attach your row bar and you're ready to row!
 
-<figure><img class="wp-image-7040 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/03/DIY-Lat-Pulldown-Seated-Row-Setup-Ready-to-Row.jpg" alt="" width="800" height="800" /><figcaption><em>Rowing with the Bells of Steel Arch Nemesis Swiss Bar</em></figcaption></figure>
+<figure><img class="wp-image-7040 size-full" src="/images/blog/2023-03-28-diy-lat-pulldown-and-seated-row-machine/DIY-Lat-Pulldown-Seated-Row-Setup-Ready-to-Row.jpg" alt="" width="800" height="800" /><figcaption><em>Rowing with the Bells of Steel Arch Nemesis Swiss Bar</em></figcaption></figure>
 <h2>Conclusion</h2>
 <p class="p1">So there you have it - a complete DIY setup for lat pulldowns and seated rows in your home gym.</p>
 When first starting out, start with a light weight and gradually increase the resistance over time.

@@ -25,6 +25,7 @@ tags:
 - reviews
 - trap bar
 blogpost: true
+coverImage: /images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Hex-Bar-3.0-Review-Title-Picture.jpg
 ---
 
 Level up your deadlifting game with the Bells of Steel Open Trap Bar 3.0.
@@ -37,7 +38,7 @@ Say goodbye to awkward bar grips and hello to gains!
 
 <!--more-->
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Bells of Steel Open Trap Bar 3.0</strong></p>
-<a href="https://fitnesstestlab.com/go/bells-of-steel-open-trap-bar/" target="_blank" rel="noopener"><img class="aligncenter wp-image-7006 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-300x300-1.jpg" alt="" width="300" height="300" /></a>
+<a href="https://fitnesstestlab.com/go/bells-of-steel-open-trap-bar/" target="_blank" rel="noopener"><img class="aligncenter wp-image-7006 size-full" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-300x300-1.jpg" alt="" width="300" height="300" /></a>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/bells-of-steel-open-trap-bar/"><i class="fa fa-shopping-cart"></i> Price Check</a></div></p>
 
 <h2>Why use a Bells of Steel Open Trap Bar</h2>
@@ -48,7 +49,7 @@ After all, it's common in everyday life to have to pick up heavy objects from th
 Training to do deadlifts will ensure you're up to the task when the need arises.
 <p class="p1">But, deadlifts can be challenging for those who are new to the movement or have a history of back issues.</p>
 <p class="p1">One of the best ways to make the deadlift more accessible and effective is by using a hex bar, also known as a trap bar, like the Bells of Steel Open Trap Bar.</p>
-<img class="alignnone size-full wp-image-6989" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-Review-Loaded.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-6989" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Review-Loaded.jpg" alt="" width="800" height="800" />
 <p class="p1">I'll briefly explore the benefits of using a <a href="https://fitnesstestlab.com/barbell-buyers-guide/#Specialty_barbells" target="_blank" rel="noopener">specialty bar</a> like the Bells of Steel Open Trap Bar for deadlifts, and why it's a better choice than deadlifting with a standard Olympic bar.</p>
 
 <ol class="ol1">
@@ -65,7 +66,7 @@ In short, it's perfect for heavy use in a home gym setting.
 
 Weighing in at 47 lbs with a 25mm frame, the Open Trap Bar can handle an impressive weight load of up to 700 lbs despite its compact size.
 
-<img class="alignnone size-full wp-image-6998" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-Review-Loaded-2.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-6998" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Review-Loaded-2.jpg" alt="" width="800" height="800" />
 
 The dimensions of the frame measure 59 inches in length and 22.5 inches in depth, with an inner width of about 23 inches between handles.
 
@@ -83,7 +84,7 @@ The framing works very well, since the only damage to the box was some minimal w
 
 However, the rubberized feet weren't damaged in any way.
 
-<img class="alignnone wp-image-6973 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-Hex-Bar-3.0-Review-Unboxing.jpg" alt="" width="800" height="800" />
+<img class="alignnone wp-image-6973 size-full" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Hex-Bar-3.0-Review-Unboxing.jpg" alt="" width="800" height="800" />
 <h2>Impressions</h2>
 The open design of the Bells of Steel Open Trap Bar is definitely a case where looks can be deceiving.
 
@@ -91,7 +92,7 @@ The bar frame is 25mm in diameter, which is within the range of standard barbell
 
 To me, the BoS Open Trap Bar looks like it should weigh next to nothing.
 
-<figure><img class="wp-image-6985 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-Hex-Bar-3.0-Review-Unloaded.jpg" alt="" width="800" height="800" /><figcaption><em>Looks light, but looks are deceiving</em></figcaption></figure>
+<figure><img class="wp-image-6985 size-full" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Hex-Bar-3.0-Review-Unloaded.jpg" alt="" width="800" height="800" /><figcaption><em>Looks light, but looks are deceiving</em></figcaption></figure>
 
 However, once I pick it up that impression is shattered. The Bells of Steel Open Trap Bar is hefty, sturdy, and well made.
 
@@ -101,7 +102,7 @@ The medium knurling on the handles feels great, but the black oxide coat has a s
 
 The deadlift jack feet are rubberized, which protects the bar *and* my flooring at the same time.
 
-<img class="alignnone wp-image-6986 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-Reiew-Deadlift-Jack-Feet.jpg" alt="" width="800" height="800" />
+<img class="alignnone wp-image-6986 size-full" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Reiew-Deadlift-Jack-Feet.jpg" alt="" width="800" height="800" />
 
 I also want to mention the relatively affordable cost of the Bells of Steel Open Trap Bar.
 
@@ -125,7 +126,7 @@ I've read reviews of other brands of trap bars stating that standard weight coll
 
 I also have a pair of Rogue OSO collars that I don't like as much as my Lock-Jaws, but they work just fine too.
 
-<img class="alignnone wp-image-6996 size-full" title="Gopher Performance HexCel Bar Review - Rackable" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-Review-Endcap.jpg" alt="" width="800" height="800" />
+<img class="alignnone wp-image-6996 size-full" title="Gopher Performance HexCel Bar Review - Rackable" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Review-Endcap.jpg" alt="" width="800" height="800" />
 <h3>Knurling and coating</h3>
 I really like the Bells of Steel Open Trap Bar 3.0 but I do have one nit to pick.
 
@@ -135,7 +136,7 @@ My hands get sweaty very quickly when I'm lifting, and while the medium knurl on
 
 Slippery hands on a bar are never a good thing, but are especially bad when deadlifting since grip is the only thing keeping the weight from crashing down to the ground.
 
-<img class="alignnone size-full wp-image-7001" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-Review-Knurling.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-7001" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Review-Knurling.jpg" alt="" width="800" height="800" />
 <p style="text-align: left;">Having said that, it's not enough of an issue to put me off from using this bar.</p>
 <p style="text-align: left;">I've been able to adjust by using a pair of <a href="https://amzn.to/3X315Yl" target="_blank" rel="noopener">Warm Body Cold Mind lifting straps</a> to keep hold of the bar once I start to sweat.</p>
 I also have a chalk ball I use from time to time, although I keep my use of chalk to a minimum to avoid a mess.
@@ -157,7 +158,7 @@ However, a shorter length always comes with tradeoffs. In the case of the BoS Op
 <p class="p1">Obviously this means you'll be able to load less weight on this bar, which could be problematic for those of you with a monster deadlift or those who only have access to bumper plates.</p>
 I was able to fit my entire 150kg stack of Titan urethane competition bumper plates (<a href="https://fitnesstestlab.com/titan-fitness-urethane-bumper-plates-review/" target="_blank" rel="noopener">full review</a>) on the Open Trap Bar and still fit an OSO collar, which is 377.6 pounds when adding the weight of the bar.
 
-<img class="alignnone size-full wp-image-6997" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-Review-Fully-Loaded.jpg" alt="" width="800" height="800" />
+<img class="alignnone size-full wp-image-6997" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Review-Fully-Loaded.jpg" alt="" width="800" height="800" />
 
 I think 377 lbs is a very respectable deadlift for many, myself included, but serious powerlifters are likely going to need more capacity.
 <p class="p1">If the short sleeves are a concern, Bells of Steel does offer a larger trap bar with more sleeve length in the form of the Industrial Rackable Trap Bar.</p>
@@ -175,7 +176,7 @@ It is intuitive and easy to operate, making it accessible to anyone, regardless 
 
 All you do is pull the top (or front) of the bar toward you to tip the bar up on its feet. Once tipped up, it's very easy to slide weights on and off the bar.
 
-<figure><img class="wp-image-6983 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-Hex-Bar-3.0-Review-Deadlift-Jack.jpg" alt="" width="1000" height="500" /><figcaption><em>The built-in deadlift jack is very easy to use</em></figcaption></figure>
+<figure><img class="wp-image-6983 size-full" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-Hex-Bar-3.0-Review-Deadlift-Jack.jpg" alt="" width="1000" height="500" /><figcaption><em>The built-in deadlift jack is very easy to use</em></figcaption></figure>
 
 This easy-to-use design also reduces the risk of injury, since it eliminates the need for you to bend over and manually lift each end of the bar to add or remove weights.
 
@@ -203,7 +204,7 @@ It's not for everyone, since heavy lifters may find the shorter sleeves do not h
 But overall, the Bells of Steel Open Trap Bar is a worthy addition to your home gym. I highly recommend it 💪😁👍
 
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Bells of Steel Open Trap Bar 3.0</strong></p>
-<a href="https://fitnesstestlab.com/go/bells-of-steel-open-trap-bar/" target="_blank" rel="noopener"><img class="aligncenter wp-image-7006 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2023/02/Bells-of-Steel-Open-Trap-Bar-300x300-1.jpg" alt="" width="300" height="300" /></a>
+<a href="https://fitnesstestlab.com/go/bells-of-steel-open-trap-bar/" target="_blank" rel="noopener"><img class="aligncenter wp-image-7006 size-full" src="/images/blog/2023-02-09-bells-of-steel-open-trap-bar-3-0-review/Bells-of-Steel-Open-Trap-Bar-300x300-1.jpg" alt="" width="300" height="300" /></a>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/bells-of-steel-open-trap-bar/"><i class="fa fa-shopping-cart"></i> Shop Now</a></div></p>
 
 

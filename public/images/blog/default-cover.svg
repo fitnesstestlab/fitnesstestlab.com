@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+  
+  <!-- Abstract Fitness Icon -->
+  <g transform="translate(500, 250)">
+    <!-- Dumbbell icon -->
+    <circle cx="50" cy="65" r="20" fill="#60a5fa" opacity="0.3"/>
+    <rect x="65" y="60" width="70" height="10" rx="5" fill="#60a5fa" opacity="0.3"/>
+    <circle cx="130" cy="65" r="20" fill="#60a5fa" opacity="0.3"/>
+    
+    <!-- Kettlebell icon -->
+    <circle cx="240" cy="70" r="25" fill="#93c5fd" opacity="0.3"/>
+    <rect x="230" y="45" width="20" height="15" rx="3" fill="#93c5fd" opacity="0.3"/>
+    <path d="M 230 60 Q 240 50 250 60" stroke="#93c5fd" stroke-width="3" fill="none" opacity="0.3"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="600" y="370" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    Fitness Test Lab
+  </text>
+  <text x="600" y="420" font-family="Arial, sans-serif" font-size="24" fill="#dbeafe" text-anchor="middle">
+    Evidence-Based Fitness Reviews & Guides
+  </text>
+</svg>

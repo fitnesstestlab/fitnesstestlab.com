@@ -18,6 +18,7 @@ tags:
 - tim tam
 - tim tam alternative
 blogpost: true
+coverImage: /images/blog/2018-06-08-diy-impact-massager/DIY-Impact-Massager-Drilling-and-Gluing-the-Impact-Element-Golf-Ball.jpg
 ---
 
 Impact massagers like the <a href="https://amzn.to/2LyMsrv">TimTam</a> and <a href="https://amzn.to/2LzNp2C">Theragun</a> are all the rage these days, but the price they ask for what is essentially a compact saw with a massage tip borders on being criminal.
@@ -50,7 +51,7 @@ I used the following items to make my impact massager:
 </ul>
 I don't play golf so I had to buy some balls. I bought the cheapest pack I could find, but if you already have a golf ball handy you can save a few bucks.
 
-<figure><img class="size-full wp-image-4329" src="https://fitnesstestlab.com/wp-content/uploads/2018/05/DIY-Impact-Massager-Amazon-Purchases.jpg" alt="DIY Impact Massager - Amazon Purchases" width="600" height="600" /><figcaption>Purchased from Amazon for a total of $55.48</figcaption></figure>
+<figure><img class="size-full wp-image-4329" src="/images/blog/2018-06-08-diy-impact-massager/DIY-Impact-Massager-Amazon-Purchases.jpg" alt="DIY Impact Massager - Amazon Purchases" width="600" height="600" /><figcaption>Purchased from Amazon for a total of $55.48</figcaption></figure>
 
 In addition to the raw materials, I also used the following tools:
 <ul>
@@ -66,17 +67,17 @@ The blade is sturdy and I don't expect to have any problems with it, but I belie
 
 I secured my metal file to my workbench and ran the saw over the blade, letting the saw do the filing work for me.
 
-<figure><img class="DIY Impact Massager - Metal File Mounted in Workstand wp-image-4334 size-full" title="DIY Impact Massager - Metal File Mounted in Workstand" src="https://fitnesstestlab.com/wp-content/uploads/2018/05/DIY-Impact-Massager-Metal-File-Mounted-in-Workstand.jpg" alt="DIY Impact Massager - Metal File Mounted in Workstand" width="600" height="300" /><figcaption><em>I saw a file, I file a saw</em></figcaption></figure>
+<figure><img class="DIY Impact Massager - Metal File Mounted in Workstand wp-image-4334 size-full" title="DIY Impact Massager - Metal File Mounted in Workstand" src="/images/blog/2018-06-08-diy-impact-massager/DIY-Impact-Massager-Metal-File-Mounted-in-Workstand.jpg" alt="DIY Impact Massager - Metal File Mounted in Workstand" width="600" height="300" /><figcaption><em>I saw a file, I file a saw</em></figcaption></figure>
 
 The picture below was taken about halfway through the filing process.
 
 The edges of the saw blade have been blunted by the file, but I kept going a little more beyond what's shown in the picture.
 
-<figure><img class="DIY Impact Massager - Blade Partially Filed Down wp-image-4330 size-full" title="DIY Impact Massager - Blade Partially Filed Down" src="https://fitnesstestlab.com/wp-content/uploads/2018/05/DIY-Impact-Massager-Blade-Partially-Filed-Down.jpg" alt="DIY Impact Massager - Blade Partially Filed Down" width="600" height="600" /><figcaption><em>Blade Partially Filed Down</em></figcaption></figure>
+<figure><img class="DIY Impact Massager - Blade Partially Filed Down wp-image-4330 size-full" title="DIY Impact Massager - Blade Partially Filed Down" src="/images/blog/2018-06-08-diy-impact-massager/DIY-Impact-Massager-Blade-Partially-Filed-Down.jpg" alt="DIY Impact Massager - Blade Partially Filed Down" width="600" height="600" /><figcaption><em>Blade Partially Filed Down</em></figcaption></figure>
 <h2>Step 2: The lobotomy</h2>
 Next up for modification is the golf ball. I secured it in the workbench and drilled a hole halfway through it using the 11/64" bit.
 
-<figure><img class="DIY Impact Massager - Drilling and Gluing the Impact Element (Golf Ball) wp-image-4331 size-full" title="DIY Impact Massager - Drilling and Gluing the Impact Element (Golf Ball)" src="https://fitnesstestlab.com/wp-content/uploads/2018/05/DIY-Impact-Massager-Drilling-and-Gluing-the-Impact-Element-Golf-Ball.jpg" alt="DIY Impact Massager - Drilling and Gluing the Impact Element (Golf Ball)" width="600" height="600" /><figcaption><em>You raise the blade...you make the change...you rearrange me till I'm sane...</em></figcaption></figure>
+<figure><img class="DIY Impact Massager - Drilling and Gluing the Impact Element (Golf Ball) wp-image-4331 size-full" title="DIY Impact Massager - Drilling and Gluing the Impact Element (Golf Ball)" src="/images/blog/2018-06-08-diy-impact-massager/DIY-Impact-Massager-Drilling-and-Gluing-the-Impact-Element-Golf-Ball.jpg" alt="DIY Impact Massager - Drilling and Gluing the Impact Element (Golf Ball)" width="600" height="600" /><figcaption><em>You raise the blade...you make the change...you rearrange me till I'm sane...</em></figcaption></figure>
 
 After drilling the hole and blowing any stray golf ball brains out of it, I mixed the Gorilla Epoxy and applied as much as I could to the freshly drilled orifice.
 
@@ -84,7 +85,7 @@ Epoxy begins to cure quickly, so it's important to insert the blade end into the
 
 Although I don't show it in the pictures, I left the ball secured in the workbench and inserted the blade into the ball while the blade was mounted in the saw. This way I was able to use the handle and weight of the saw as leverage to get the blade as far into the ball as possible.
 
-<figure><img class="DIY Impact Massager - Saw Blade Inserted in the Golf Ball wp-image-4335 size-full" title="DIY Impact Massager - Saw Blade Inserted in the Golf Ball" src="https://fitnesstestlab.com/wp-content/uploads/2018/05/DIY-Impact-Massager-Saw-Blade-Inserted-in-the-Golf-Ball.jpg" alt="DIY Impact Massager - Saw Blade Inserted in the Golf Ball" width="600" height="600" /><figcaption><em>Behold! Excalibur!</em></figcaption></figure>
+<figure><img class="DIY Impact Massager - Saw Blade Inserted in the Golf Ball wp-image-4335 size-full" title="DIY Impact Massager - Saw Blade Inserted in the Golf Ball" src="/images/blog/2018-06-08-diy-impact-massager/DIY-Impact-Massager-Saw-Blade-Inserted-in-the-Golf-Ball.jpg" alt="DIY Impact Massager - Saw Blade Inserted in the Golf Ball" width="600" height="600" /><figcaption><em>Behold! Excalibur!</em></figcaption></figure>
 <h2>Step 3: The waiting (is the hardest part)</h2>
 Step three basically involves waiting for the epoxy to dry. BO-RING!
 
@@ -94,7 +95,7 @@ I kept the ball propped upright in the workbench and left it alone for 24 hours.
 
 After a day passed I took the ball, inserted the blade into the drill base and <i>BOOM</i>! The massager is ready for action.
 
-<figure><img class="size-full wp-image-4333" src="https://fitnesstestlab.com/wp-content/uploads/2018/05/DIY-Impact-Massager-Final-Assembly.jpg" alt="DIY Impact Massager - Final Assembly" width="600" height="600" /><figcaption><em>Final assembly</em></figcaption></figure>
+<figure><img class="size-full wp-image-4333" src="/images/blog/2018-06-08-diy-impact-massager/DIY-Impact-Massager-Final-Assembly.jpg" alt="DIY Impact Massager - Final Assembly" width="600" height="600" /><figcaption><em>Final assembly</em></figcaption></figure>
 
 That's it!
 <h2>Wrap up</h2>

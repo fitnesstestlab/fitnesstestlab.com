@@ -14,6 +14,7 @@ tags:
 - The Yoak
 - Unconventional Strength
 blogpost: true
+coverImage: /images/blog/2019-02-08-the-yoak-review/The-Yoak-Review-Weight-Attached-with-Carabiners.jpg
 ---
 
 You might think you're strong. Respectfully, I beg to differ. If you're not doing instability training, you're leaving strength gains on the table and potentially setting yourself up for injury down the line. <em>#trainsmarter</em>
@@ -30,7 +31,7 @@ My coworkers are used to seeing me walking our office halls with <a href="https
 
 I had no less than four of my engineer coworkers tell me the Yoak looked like a Klingon battle axe. Go figure.
 
-<figure><img class="wp-image-2000 size-full" title="The Yoak Review - Stability Training Tool or Klingon Close Combat Weapon" src="https://fitnesstestlab.com/wp-content/uploads/2017/05/The-Yoak-Review-Stability-Training-Tool-or-Klingon-Close-Combat-Weapon.jpg" alt="The Yoak Review - Stability Training Tool or Klingon Close Combat Weapon" width="646" height="400" /><figcaption>The Yoak - Stability training tool or Klingon combat weapon?</figcaption></figure>
+<figure><img class="wp-image-2000 size-full" title="The Yoak Review - Stability Training Tool or Klingon Close Combat Weapon" src="/images/blog/2019-02-08-the-yoak-review/The-Yoak-Review-Stability-Training-Tool-or-Klingon-Close-Combat-Weapon.jpg" alt="The Yoak Review - Stability Training Tool or Klingon Close Combat Weapon" width="646" height="400" /><figcaption>The Yoak - Stability training tool or Klingon combat weapon?</figcaption></figure>
 
 The Yoak is actually a very well made stability training tool. If you've never done any kind of instability training, consider that life is inherently unstable. Whether it's lifting children, moving furniture, or doing yard work, we rarely find ourselves in situations that require a perfectly balanced application of strength. Real life is always a little bit off-center, and the Yoak offers many ways to better prepare for those unbalanced situations.
 
@@ -40,7 +41,7 @@ This type of training has fancy names like Oscillating Kinetic Energy (OKE) and
 <h2>Unboxing</h2>
 The Yoak is offered in three different package options, differing mainly in the number of accessories. I received a 'Total Package', which comes with every available accessory.
 
-<figure><img class="wp-image-2003 size-full" title="The Yoak Review - Unboxing Contents" src="https://fitnesstestlab.com/wp-content/uploads/2017/05/The-Yoak-Review-Unboxing-Contents.jpg" alt="The Yoak Review - Unboxing Contents" width="1040" height="698" /><figcaption>Unboxing - box contents</figcaption></figure>
+<figure><img class="wp-image-2003 size-full" title="The Yoak Review - Unboxing Contents" src="/images/blog/2019-02-08-the-yoak-review/The-Yoak-Review-Unboxing-Contents.jpg" alt="The Yoak Review - Unboxing Contents" width="1040" height="698" /><figcaption>Unboxing - box contents</figcaption></figure>
 
 The contents of the box contained the following:
 <ul>
@@ -55,11 +56,11 @@ The contents of the box contained the following:
  	<li>1x drawstring bag</li>
  	<li>Plus a couple of stickers, a business card, and a promotional flyer</li>
 </ul>
-<figure><img class="wp-image-2002 size-full" title="The Yoak Review - Close Ups" src="https://fitnesstestlab.com/wp-content/uploads/2017/05/The-Yoak-Review-Close-Ups.jpg" alt="The Yoak Review - Close Ups" width="1040" height="1040" /><figcaption>The Yoak - up close and personal</figcaption></figure>
+<figure><img class="wp-image-2002 size-full" title="The Yoak Review - Close Ups" src="/images/blog/2019-02-08-the-yoak-review/The-Yoak-Review-Close-Ups.jpg" alt="The Yoak Review - Close Ups" width="1040" height="1040" /><figcaption>The Yoak - up close and personal</figcaption></figure>
 
 The Yoak is made in Canada, and the finished product looks and feels extremely well made. The Yoak weighs about 5.5 pounds and is rated to hold up to 400lbs of weight, which is very impressive for something so light and relatively small. The strength of the Yoak comes from an aluminum core, which can be seen in the pictures above.
 
-<figure><img class="wp-image-2001 size-full" title="The Yoak Review - Bag Contents" src="https://fitnesstestlab.com/wp-content/uploads/2017/05/The-Yoak-Review-Bag-Contents.jpg" alt="The Yoak Review - Bag Contents" width="1040" height="523" /><figcaption>Storage bag and some of the extra contents</figcaption></figure>
+<figure><img class="wp-image-2001 size-full" title="The Yoak Review - Bag Contents" src="/images/blog/2019-02-08-the-yoak-review/The-Yoak-Review-Bag-Contents.jpg" alt="The Yoak Review - Bag Contents" width="1040" height="523" /><figcaption>Storage bag and some of the extra contents</figcaption></figure>
 <h2>Usage</h2>
 The Yoak can be used in three distinct ways for instability training. Hang it up for suspension exercises, hang weight off it for pressing exercises, or put it on your shoulders for leg exercises. There's a fourth way to use two Yoaks as parallettes, but since I've only got one I'll focus on just the first three.
 <h3>Suspension</h3>
@@ -87,7 +88,7 @@ Let me just say, doing dips and pushups on Olympic rings suspended from the Yoak
 <h3>Press</h3>
 As mentioned previously, the Yoak really shines when used for pressing exercises. I used the Yoak mainly for Turkish get-ups and overhead press, although bench press would be another common way to use it. I can normally do a full Turkish get-up with a 20kg kettlebell, but I struggled mightily with only two 6kg kettlebells hanging off the Yoak.
 
-<img class="alignnone wp-image-2019 size-full" title="The Yoak Review - Turkish Get Ups with the Yoak" src="https://fitnesstestlab.com/wp-content/uploads/2017/05/The-Yoak-Review-Turkish-Get-Ups-with-the-Yoak.jpg" alt="The Yoak Review - Turkish Get Ups with the Yoak" width="600" height="316" />
+<img class="alignnone wp-image-2019 size-full" title="The Yoak Review - Turkish Get Ups with the Yoak" src="/images/blog/2019-02-08-the-yoak-review/The-Yoak-Review-Turkish-Get-Ups-with-the-Yoak.jpg" alt="The Yoak Review - Turkish Get Ups with the Yoak" width="600" height="316" />
 
 I can currently press 100lbs overhead for reps. Using the Yoak, I found pressing two 25lb plates hanging off each end incredibly difficult. The Yoak is no joke!
 <blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-version="7">
@@ -102,7 +103,7 @@ Perhaps unsurprisingly, the Yoak can be used as a yoke for squats or...wait for 
 
 What are yoke walks? They look like this:
 
-<figure><img class="wp-image-2013 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/05/The-Yoak-Review-Yoke-Walk-with-Yoke.jpg" alt="The Yoak Review - Yoke Walk with Yoke" width="1040" height="743" /><figcaption>Don't try this at home, unless you've got lots of room</figcaption></figure>
+<figure><img class="wp-image-2013 size-full" src="/images/blog/2019-02-08-the-yoak-review/The-Yoak-Review-Yoke-Walk-with-Yoke.jpg" alt="The Yoak Review - Yoke Walk with Yoke" width="1040" height="743" /><figcaption>Don't try this at home, unless you've got lots of room</figcaption></figure>
 
 This looks hard, right? Yep, it is, but try it with weights hanging off the Yoak and it becomes ludicrously hard.
 
@@ -134,4 +135,4 @@ The Yoak is an interesting and effective training tool that deserves serious con
 <h2>Buy the Yoak</h2>
 The Yoak is distributed in the US by Rogue Fitness, and you can buy the Yoak directly from them here.
 
-<a href="https://fitnesstestlab.com/recommends/the-yoak/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-2027 size-full" title="The Yoak Review - Weight Attached with Carabiners" src="https://fitnesstestlab.com/wp-content/uploads/2017/05/The-Yoak-Review-Weight-Attached-with-Carabiners.jpg" alt="The Yoak Review - Weight Attached with Carabiners" width="600" height="600" /></a>
+<a href="https://fitnesstestlab.com/recommends/the-yoak/" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-2027 size-full" title="The Yoak Review - Weight Attached with Carabiners" src="/images/blog/2019-02-08-the-yoak-review/The-Yoak-Review-Weight-Attached-with-Carabiners.jpg" alt="The Yoak Review - Weight Attached with Carabiners" width="600" height="600" /></a>

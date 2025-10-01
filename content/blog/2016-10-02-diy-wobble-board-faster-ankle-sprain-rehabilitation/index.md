@@ -12,6 +12,7 @@ tags:
 - review
 - wobble board
 blogpost: true
+coverImage: /images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5235.jpg
 ---
 
 &nbsp;
@@ -43,39 +44,39 @@ It doesn’t take very many parts to make a wobble board if you have easy access
 </ul>
 Total cost of parts before tax: <b>$13.80</b>
 
-<img class="alignnone size-full wp-image-848" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5235.jpg" alt="wobble board parts" width="604" height="806" />
+<img class="alignnone size-full wp-image-848" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5235.jpg" alt="wobble board parts" width="604" height="806" />
 <h2><b></b><b>Tools</b></h2>
 The pine ball top requires a clean level cut down the center of the ball in order to be usable. I own a miter saw (also called a chop saw), which makes these types of cuts a breeze. I’ll walk you through what I did with my saw, but if you don’t have one you’ll probably have to get creative. In addition to the miter saw, I used a cordless drill, drill bits, a phillips head bit, and a metal yardstick.
 <h2><b>Assembly</b></h2>
 The pine ball top is not very big, and I didn’t much care for the thought of holding it with one hand while attempting to cut it with a sharp rapidly rotating saw. Luckily I had some scrap lumber available to me from a previous project.
 
-<img class="alignnone size-full wp-image-849" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5236.jpg" alt="wobble board scrap wood post" width="604" height="806" />
+<img class="alignnone size-full wp-image-849" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5236.jpg" alt="wobble board scrap wood post" width="604" height="806" />
 
 I drilled a hole in a piece of scrap 4”x4” wood and screwed the pine ball top into it. The 4x4 provided a base for me to hold while cutting the pine ball top without having to bring my hands close to the blade. Safety first! It also helped keep the ball level while I made the cut, which produced a clean level slice through the middle of the ball top.
 
-<img class="alignnone size-full wp-image-851" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5238.jpg" alt="wobble board pine ball top cut" width="604" height="806" />
+<img class="alignnone size-full wp-image-851" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5238.jpg" alt="wobble board pine ball top cut" width="604" height="806" />
 
 The freshly cut slice of the pine ball top will serve as the pivot point of the wobble board, the rest goes onto the scrap pile.
 
 The next step was centering the pine ball slice on the wooden round. I thought this would be easy, but like many things in life it turned out to be more difficult than I thought it would be. I first tried using the yardstick to find the center of the wooden round by drawing lines through the middle of the board at several angles, thinking that the lines would converge on the center. Sounds logical, right? Wrong! I could not get the stupid lines to converge on a point, which you can see from the picture below.
 
-<img class="alignnone size-full wp-image-853" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5240.jpg" alt="wobble board find the center" width="604" height="806" />
+<img class="alignnone size-full wp-image-853" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5240.jpg" alt="wobble board find the center" width="604" height="806" />
 
 After messing with this approach for fifteen minutes or so, I decided to go with a more brute force method. I placed the pine ball slice in what looked like the center and I used the yardstick to measure how far the edge of the pine ball slice was from the edge of the wooden round, all the way around the pine ball slice. I moved the pine ball slice as needed to even out distances between edges of the board on opposite sides of the slice. Once I was reasonably satisfied with the position of the pine ball slice, I used a pen to trace the circumference of the slice and drilled a hole in the middle of the circle I drew. It probably isn't the exact dead center, but this isn’t rocket surgery, it’s a damn wobble board! Close enough.
 
 UPDATE - A reader named Tariq offered this handy tip in the comments section for finding the center of a circle: <a href="https://www.instructables.com/How-to-find-the-center-of-a-circle/" target="_blank" rel="noopener">https://www.instructables.com/How-to-find-the-center-of-a-circle/</a>
 
-<img class="alignnone size-full wp-image-852" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5239.jpg" alt="wobble board pine ball top screwed in" width="604" height="806" />
+<img class="alignnone size-full wp-image-852" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5239.jpg" alt="wobble board pine ball top screwed in" width="604" height="806" />
 
 Once I had the hole in the board, I put the pine slice back in the circle and flipped the wooden round over, being careful to keep the slice within the circle I traced. I used the newly drilled hole in the wooden round as a pilot to drill a starter hole into the pine ball slice, while using my other hand to try and keep the slice from moving. This worked, but it wasn’t ideal. If I had to do it again I’d use painters tape to secure the pine ball slice in place while drilling the starter hole.
 
 The starter hole in the pine ball slice is where the first screw was installed, and once this was done I drilled three more holes into the board and the slice for three more screws. I suppose one screw might have been enough, but since I had a four pack of screws I decided to use them all and guarantee the pine ball slice <i>never</i> comes off.
 
-<img class="alignnone size-full wp-image-855" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5245.jpg" alt="wobble board top with screws" width="604" height="604" />
+<img class="alignnone size-full wp-image-855" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5245.jpg" alt="wobble board top with screws" width="604" height="604" />
 
 The last step was applying the friction tape. The tape isn’t strictly necessary, but I figured a little extra grip wouldn’t hurt. The pattern is completely arbitrary, I just wanted to cover as much of the board as possible so I could place my feet anywhere and still have grip.
 
-<img class="alignnone size-full wp-image-856" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5249.jpg" alt="wobble board top with tape" width="604" height="604" />
+<img class="alignnone size-full wp-image-856" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5249.jpg" alt="wobble board top with tape" width="604" height="604" />
 <h2><b>Proprioception</b></h2>
 Before I get into how I used the wobble board to help rehabilitate my sprained ankle, I’d like to lay some groundwork on proprioception.
 
@@ -83,7 +84,7 @@ Before I get into how I used the wobble board to help rehabilitate my sprained a
 
 Proprioception can be impaired when joints are injured, like when I sprained my ankle. Sprains in load-bearing joints like the ankle are especially problematic because they have a two-fold impact - in addition to the lost mobility of the damaged joint, the rest of the body has to adopt a new movement pattern to accommodate the compromised joint. Without proper healing and correction through rest and rehabilitation, the compromised movement pattern can be etched into the nervous system as the new normal way of moving. Not cool.
 
-<img class="alignnone size-full wp-image-857" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5250.jpg" alt="wobble board finish underside" width="604" height="604" />
+<img class="alignnone size-full wp-image-857" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5250.jpg" alt="wobble board finish underside" width="604" height="604" />
 
 As an engineer, I find the prospect of a finely tuned system operating at a suboptimal level to be unacceptable. It would be like allowing my car to run with one cylinder offline all the time. Being the impatient and tech-focused guy I am, I looked into ways to rehabilitate my ankle faster and came across numerous references from physical therapists on the benefits of a wobble board as a rehabilitation tool.
 
@@ -91,7 +92,7 @@ Being the frugal and tool-savvy guy I am, I decided to build my own out of parts
 <h2><b>Rehabilitation</b></h2>
 I've learned that a very common symptom of compromised proprioception is poor balance. Pain in a load bearing joint can easily crowd out the unconscious processing of proprioceptive signals from the body, resulting in reduced coordination, which leads to reduced balance. I can attest to this, I was unable to apply full weight to my right ankle for a few days and my equilibrium was totally shot. I was focusing so much on trying to keep my ankle from hurting that I ran into a few walls while turning corners in my house as I hobbled around.
 
-<img class="alignnone wp-image-860 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5255.jpg" alt="wobble board finish side view" width="604" height="604" />
+<img class="alignnone wp-image-860 size-full" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5255.jpg" alt="wobble board finish side view" width="604" height="604" />
 
 Performing balance exercises on a wobble board can help retrain the brain to control the position of the injured joint and move that control from a conscious level back to the unconscious level where it belongs. This is backed up by science - numerous studies demonstrate the benefit of wobble board training for <a href="https://www.ncbi.nlm.nih.gov/pubmed/8728532/">long-term</a> <a href="https://www.ncbi.nlm.nih.gov/pubmed/27632874">recovery</a> from ankle sprains and <a href="https://www.ncbi.nlm.nih.gov/pubmed/15310562">reduction</a> of <a href="http://www.uwhealth.org/sports-medicine/clinic/balance-training-program-reduces-ankle-sprains/13091">sport-related</a> ankle injuries.
 
@@ -105,7 +106,7 @@ With feet flat on the board:
  	<li>Attempt to balance weight evenly so no edge of the board is touching the floor. Stay balanced as long as possible.</li>
  	<li>Repeat all steps, with eyes closed.</li>
 </ul>
-<img class="alignnone size-full wp-image-861" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/standing-desk.jpg" alt="wobble board with standing desk" width="314" height="440" />
+<img class="alignnone size-full wp-image-861" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/standing-desk.jpg" alt="wobble board with standing desk" width="314" height="440" />
 
 The first couple of days were the most difficult because of the pain in my ankle and because my balance was way off. I had a hard time getting through the exercises and didn't even attempt to go through them with my eyes closed. I kept at it though and over the next few days it got easier to move my ankle. By the middle of the following week I was able to walk more or less normally again on even ground without pain. Walking pain-free on <em>uneven</em> ground took another two weeks.
 
@@ -119,7 +120,7 @@ There are other uses for wobble boards I haven't event explored yet. A wobble bo
 <h2><b>The Bottom Line</b></h2>
 A wobble board is a great tool for rehabilitation of a sprained ankle and for prevention of future ankle injury. It’s also beneficial for enhancing overall balance and coordination. I’m using mine on a regular basis and I’m still finding benefits months after my ankle has healed. I’m actually glad I sprained my ankle, because if I hadn’t I likely never would have thought to try a wobble board. I only wish I had found this amazing tool sooner!
 
-<img class="alignnone size-full wp-image-858" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/IMG_5253.jpg" alt="wobble board with tape finish" width="604" height="604" />
+<img class="alignnone size-full wp-image-858" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/IMG_5253.jpg" alt="wobble board with tape finish" width="604" height="604" />
 
 If you don’t have the time, inclination, or tools to build your own wobble board, no worries. I’ve scoured the options on Amazon to pick out a few that are well reviewed and listed at reasonable prices. I’ve specifically chosen boards that are at least 15” wide and have fully round bases. The wider platform offers more flexibility in feet placement and the round bottom ensures you get the most bang for your buck.
 
@@ -131,7 +132,7 @@ Here are the best three options I could find:
 </ul>
 FYI - there is a glut of wooden boards on Amazon made by the same manufacturer but branded differently, selling for anywhere from $25-40. I don’t recommend these boards because of the flatter plastic bottoms - they will be easier to balance on but won’t provide the same benefit as a board with a fully rounded bottom.
 
-<figure><img class="wp-image-879 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2016/10/avoid-the-flat-base-1.jpg" width="700" height="200" /><figcaption><em>This is not the board you're looking for</em></figcaption></figure>
+<figure><img class="wp-image-879 size-full" src="/images/blog/2016-10-02-diy-wobble-board-faster-ankle-sprain-rehabilitation/avoid-the-flat-base-1.jpg" width="700" height="200" /><figcaption><em>This is not the board you're looking for</em></figcaption></figure>
 
 If you've ever used a wobble board or are considering using one, I'd like to hear from you. What's your experience with these things?
 

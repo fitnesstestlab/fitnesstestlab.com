@@ -18,6 +18,7 @@ tags:
 - rogue fitness barbell review
 - rogue fitness boneyard bars
 blogpost: true
+coverImage: /images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Title-Pic.jpg
 ---
 
 "Boneyard Bar" is the name given to any bar that doesn't pass Rogue's full quality inspection but is still considered usable. Rather than discard these bars, Rogue offers them at a discount with no warranty and no returns.
@@ -42,7 +43,7 @@ I purchased the following three barbells over the last six months from the Boney
  	<li>Rogue Junior Bar</li>
  	<li>Cerakote Bella Bar 2.0</li>
 </ul>
-<figure><img class="size-full wp-image-4551" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-All-Three-Bars.jpg" alt="Rogue Boneyard Bar Reviews - All Three Bars" width="600" height="600" /><figcaption><em>Poppa bar, Momma bar, Baby bar</em></figcaption></figure>
+<figure><img class="size-full wp-image-4551" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-All-Three-Bars.jpg" alt="Rogue Boneyard Bar Reviews - All Three Bars" width="600" height="600" /><figcaption><em>Poppa bar, Momma bar, Baby bar</em></figcaption></figure>
 
 Read on for details of my experience with the Boneyard versions of each bar.
 <h2>Rogue Training Bar Review</h2>
@@ -52,7 +53,7 @@ This particular bar is sold with two finishes for the shaft - black zinc and cer
 
 I happened to pick one up from the Boneyard finished in stainless steel.
 
-<figure><img class="size-full wp-image-4540" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Training-Bar-Review-Full-Bar.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Training Bar Review - Full Bar" width="600" height="600" /><figcaption><em>The Rogue Training Bar in an uncommon stainless steel finish</em></figcaption></figure>
+<figure><img class="size-full wp-image-4540" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Training-Bar-Review-Full-Bar.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Training Bar Review - Full Bar" width="600" height="600" /><figcaption><em>The Rogue Training Bar in an uncommon stainless steel finish</em></figcaption></figure>
 
 Rogue doesn't offer a stainless steel shaft as a finish option for the Training Bar, so you may be wondering how this bar is even a thing.
 
@@ -77,7 +78,7 @@ The knurling was properly tracked and I would have expected the very minor blemi
 
 The best feature about this bar is the knurling. It's a dense pattern pyramid-shaped pattern that really grips my hand, providing a very secure grip. Combined with the stainless steel finish, I have no worries of ever dropping this bar regardless of how sweaty my hands get.
 
-<figure><img class="size-full wp-image-4539" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Training-Bar-Review-Knurling.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Training Bar Review - Knurling" width="600" height="600" /><figcaption><em>Sharper than your average knurl</em></figcaption></figure>
+<figure><img class="size-full wp-image-4539" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Training-Bar-Review-Knurling.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Training Bar Review - Knurling" width="600" height="600" /><figcaption><em>Sharper than your average knurl</em></figcaption></figure>
 
 On the other hand, the knurl is just a little bit <em>too</em> aggressive for my preference, since high rep snatch and clean work with this bar tends to tear at my calluses.
 
@@ -87,7 +88,7 @@ Sleeve spin is adequate for a bushing bar. The sleeves have no side to side play
 
 It doesn't affect the performance as far as I can tell, but it does make the bar somewhat noisy to use.
 
-<figure><img class="size-full wp-image-4538" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Training-Bar-Review-Shaft-Collar-and-Sleeve.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Training Bar Review - Shaft, Collar, and Sleeve" width="600" height="600" /><figcaption><em>Rogue Training Bar collars and sleeves</em></figcaption></figure>
+<figure><img class="size-full wp-image-4538" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Training-Bar-Review-Shaft-Collar-and-Sleeve.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Training Bar Review - Shaft, Collar, and Sleeve" width="600" height="600" /><figcaption><em>Rogue Training Bar collars and sleeves</em></figcaption></figure>
 
 The Rogue Training Bar is not the nicest barbell I own, but far from the worst I've ever seen.
 
@@ -95,7 +96,7 @@ Considering how expensive stainless steel bars can be, I think this bar is worth
 <h3>Summary</h3>
 <p style="text-align: left;"><div class="thrive-text-block"></p>
 <p style="text-align: center;"><b>The Rogue Training Bar is the only Boneyard Bar I had no quality issues with. The unfinished stainless steel knurling is great, although it's a touch too aggressive for my personal preference. However, stainless steel bars are expensive and the Training Bar is a good buy <strong>if you can find this particular finish in the Boneyard. This bar was my first experience buying from the Boneyard and it was a positive experience overall. </strong></b></p>
-<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/rogue-training-bar/" target="_blank" rel="noopener noreferrer"><img class="Rogue Boneyard Bar Reviews - Training Bar Buy Now alignnone wp-image-4556 size-full" title="Rogue Boneyard Bar Reviews - Training Bar Buy Now" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Training-Bar-Buy-Now.jpg" alt="Rogue Boneyard Bar Reviews - Training Bar Buy Now" width="400" height="252" /></a></p>
+<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/rogue-training-bar/" target="_blank" rel="noopener noreferrer"><img class="Rogue Boneyard Bar Reviews - Training Bar Buy Now alignnone wp-image-4556 size-full" title="Rogue Boneyard Bar Reviews - Training Bar Buy Now" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Training-Bar-Buy-Now.jpg" alt="Rogue Boneyard Bar Reviews - Training Bar Buy Now" width="400" height="252" /></a></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/rogue-training-bar/"><i class="fa fa-shopping-cart"></i> Buy The Rogue Training Bar</a></div></p>
 &nbsp;
 <h2>Rogue Junior Bar Review</h2>
@@ -114,7 +115,7 @@ Unlike the Rogue Training Bar, the Junior Bar offered in the Boneyard was a full
  	<li>Dual knurl marks w/ no center knurl</li>
  	<li>Finish: black zinc shaft + bright zinc sleeves</li>
 </ul>
-<figure><img class="size-full wp-image-4544" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Junior-Bar-Review-Full-Bar.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Junior Bar Review - Full Bar" width="600" height="600" /><figcaption><em>Rogue Junior Bar, zinc shaft coating</em></figcaption></figure>
+<figure><img class="size-full wp-image-4544" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Junior-Bar-Review-Full-Bar.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Junior Bar Review - Full Bar" width="600" height="600" /><figcaption><em>Rogue Junior Bar, zinc shaft coating</em></figcaption></figure>
 
 I had issues with this bar right out of the tube. One of the sleeves would not spin freely, as if there were something stuck between the sleeve and the shaft.
 
@@ -124,7 +125,7 @@ Even though this is a Boneyard bar with no warranty, Rogue does advertise these 
 
 So despite the no return stipulation, I decided to ask for a Junior Bar replacement.
 
-<figure><img class="size-full wp-image-4560" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Junior-Bar-Review-Knurling.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Junior Bar Review - Knurling" width="600" height="600" /><figcaption><em>Rogue Junior Bar knurling, most passive of the three bars</em></figcaption></figure>
+<figure><img class="size-full wp-image-4560" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Junior-Bar-Review-Knurling.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Junior Bar Review - Knurling" width="600" height="600" /><figcaption><em>Rogue Junior Bar knurling, most passive of the three bars</em></figcaption></figure>
 
 I contacted Rogue and sent them video evidence of the stuck sleeve. Rogue customer support replied and suggested I apply 3:1 oil to the sleeve, stand it upright, and let it sit overnight.
 
@@ -134,7 +135,7 @@ I contacted Rogue again, with another video that clearly showed the oil had not 
 
 I won't bore you with the details, but this back and forth went on for several days before customer service finally agreed the bar needed replacement. They no longer had any Junior Bars available in the Boneyard, so they ended up sending me a brand new first quality Junior Bar instead.
 
-<figure><img class="size-full wp-image-4543" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Junior-Bar-Review-Collar-and-Sleeve.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Junior Bar Review - Collar and Sleeve" width="600" height="600" /><figcaption><em>Rogue Junior Bar, collar and sleeve</em></figcaption></figure>
+<figure><img class="size-full wp-image-4543" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Junior-Bar-Review-Collar-and-Sleeve.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Junior Bar Review - Collar and Sleeve" width="600" height="600" /><figcaption><em>Rogue Junior Bar, collar and sleeve</em></figcaption></figure>
 
 I was grateful they sent me the new Junior Bar, but I spent over two weeks dealing with customer service just to get them to agree the bar was defective and then waiting on a replacement.
 
@@ -144,7 +145,7 @@ The bar itself is a decent option for workouts in tight spaces, and I plan to ad
 <h3>Summary</h3>
 <p style="text-align: left;"><div class="thrive-text-block"></p>
 <p style="text-align: center;"><strong>The Rogue Junior Bar is a compact workhorse I plan to fully review in my <a href="https://fitnesstestlab.com/best-short-olympic-bars/" target="_blank" rel="noopener noreferrer">shorty bar shootout review</a>.  I like the bar, but the hassle of dealing with customer support for almost three weeks due to receiving a defective bar was not worth the Boneyard Bar discount. I rate this experience as neutral, since despite the hassle I did eventually get a replacement with a non-Boneyard bar. </strong></p>
-<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/rogue-junior-bar/" target="_blank" rel="noopener noreferrer"><img class="Rogue Boneyard Bar Reviews - Junior Bar Buy Now alignnone wp-image-4557 size-full" title="Rogue Boneyard Bar Reviews - Junior Bar Buy Now" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Junior-Bar-Buy-Now.jpg" alt="Rogue Boneyard Bar Reviews - Junior Bar Buy Now" width="400" height="252" /></a></p>
+<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/rogue-junior-bar/" target="_blank" rel="noopener noreferrer"><img class="Rogue Boneyard Bar Reviews - Junior Bar Buy Now alignnone wp-image-4557 size-full" title="Rogue Boneyard Bar Reviews - Junior Bar Buy Now" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Junior-Bar-Buy-Now.jpg" alt="Rogue Boneyard Bar Reviews - Junior Bar Buy Now" width="400" height="252" /></a></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/rogue-junior-bar/"><i class="fa fa-shopping-cart"></i> Buy The Rogue Junior Bar</a></div></p>
 &nbsp;
 <h2>Cerakote Bella Bar 2.0 Review</h2>
@@ -164,7 +165,7 @@ I say this because the bar I received had several minor blemishes on the shaft t
  	<li>Dual knurl marks: Powerlifting and Olympic</li>
  	<li>No center knurl</li>
 </ul>
-<figure><img class="size-full wp-image-4548" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Full-Bar.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Full Bar" width="600" height="600" /><figcaption><em>Rogue Bella Bar, high gloss clear cerakote shaft</em></figcaption></figure>
+<figure><img class="size-full wp-image-4548" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Full-Bar.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Full Bar" width="600" height="600" /><figcaption><em>Rogue Bella Bar, high gloss clear cerakote shaft</em></figcaption></figure>
 
 Like the Training Bar, the Bella Bar was extremely dusty when I pulled it out of the tube. However, aside from the blemishes on the shaft I mentioned above I couldn't see any obvious reason why this bar ended up in the Boneyard.
 
@@ -174,7 +175,7 @@ I can definitely see a difference in the knurl style though when I compare this 
 
 The knurl on the training bar is sharper with more sharply formed peaks, whereas the peaks on the Bella bar are slightly dulled, as if the tops had been shaved off.
 
-<figure><img class="size-full wp-image-4549" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Knurling.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Knurling" width="600" height="600" /><figcaption><em>Rogue Bella Bar knurling, medium depth</em></figcaption></figure>
+<figure><img class="size-full wp-image-4549" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Knurling.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Knurling" width="600" height="600" /><figcaption><em>Rogue Bella Bar knurling, medium depth</em></figcaption></figure>
 
 Regardless, the knurling offers plenty of grip when combined with the Cerakote.
 
@@ -182,7 +183,7 @@ Sleeve spin is okay, and better than the spin on the Training Bar or the Junior 
 
 I'm not a huge fan of logo branding in general, but I have to admit that the "Rogue" logo in the center of the barbell shaft looks pretty good.
 
-<figure><img class="size-full wp-image-4547" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Rogue-Logo.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Rogue Logo" width="600" height="600" /><figcaption><em>Rogue obligatory branding</em></figcaption></figure>
+<figure><img class="size-full wp-image-4547" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Rogue-Logo.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Rogue Logo" width="600" height="600" /><figcaption><em>Rogue obligatory branding</em></figcaption></figure>
 
 I would say the Bella Bar is the nicest of the three Boneyard Bars I've purchased.
 
@@ -194,7 +195,7 @@ I know from experience with Cerakote barbells and kettlebells that this particul
 
 So imagine my surprise when I started seeing rust appear on the Bella Bar shaft, right where my hands had been during the WOD!
 
-<figure><img class="size-full wp-image-4546" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Collar-and-Sleeves.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Collar and Sleeves" width="600" height="600" /><figcaption><em>Rogue Bella Bar, collar and sleeve</em></figcaption></figure>
+<figure><img class="size-full wp-image-4546" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Collar-and-Sleeves.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Collar and Sleeves" width="600" height="600" /><figcaption><em>Rogue Bella Bar, collar and sleeve</em></figcaption></figure>
 
 Seeing rust on a brand new cerakote barbell that had only been used once was the last thing I expected.
 
@@ -202,7 +203,7 @@ I reached out to Rogue once again and asked if this was normal.
 
 They asked for pictures, which I provided.
 
-<figure><img class="size-full wp-image-4545" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Rust-on-the-Sleeve.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Rust on the Sleeve" width="593" height="400" /><figcaption><em>Rust on the cerakote shaft...what??</em></figcaption></figure>
+<figure><img class="size-full wp-image-4545" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Rogue-Cerakote-Bella-Bar-2.0-Review-Rust-on-the-Sleeve.jpg" alt="Rogue Boneyard Bar Reviews - Rogue Cerakote Bella Bar 2.0 Review - Rust on the Sleeve" width="593" height="400" /><figcaption><em>Rust on the cerakote shaft...what??</em></figcaption></figure>
 
 They couldn't explain why the cerakote bar was beginning to rust, but since the issue was purely cosmetic they weren't willing to do anything about it.
 
@@ -214,7 +215,7 @@ What I do know for sure is I'll be replacing this bar with one from a company ot
 <h3>Summary</h3>
 <p style="text-align: left;"><div class="thrive-text-block"></p>
 <p style="text-align: center;"><strong>The Rogue Cerakote Bella Bar is a nice bar, but my clear Cerakote Boneyard Bar version began to rust after a single use. I specifically bought this bar for the corrosion-resistant Cerakote coating, so I'm disappointed about getting a lemon I can't return. I rate this experience as poor, and I would definitely <em>not</em> recommend buying a Cerakote barbell from the Boneyard. It's just not worth the risk of the coating being defective or incorrectly applied.</strong></p>
-<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/cerakote-bella-bar/" target="_blank" rel="noopener noreferrer"><img class="Rogue Boneyard Bar Reviews - Bella Bar Buy Now alignnone wp-image-4555 size-full" title="Rogue Boneyard Bar Reviews - Bella Bar Buy Now" src="https://fitnesstestlab.com/wp-content/uploads/2018/10/Rogue-Boneyard-Bar-Reviews-Bella-Bar-Buy-Now.jpg" alt="Rogue Boneyard Bar Reviews - Bella Bar Buy Now" width="400" height="140" /></a></p>
+<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/cerakote-bella-bar/" target="_blank" rel="noopener noreferrer"><img class="Rogue Boneyard Bar Reviews - Bella Bar Buy Now alignnone wp-image-4555 size-full" title="Rogue Boneyard Bar Reviews - Bella Bar Buy Now" src="/images/blog/2018-10-28-rogue-boneyard-bar-reviews/Rogue-Boneyard-Bar-Reviews-Bella-Bar-Buy-Now.jpg" alt="Rogue Boneyard Bar Reviews - Bella Bar Buy Now" width="400" height="140" /></a></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/cerakote-bella-bar/"><i class="fa fa-shopping-cart"></i> Buy The Cerakote Bella Bar 2.0</a></div></p>
 
 <h2 style="text-align: left;">Verdict</h2>

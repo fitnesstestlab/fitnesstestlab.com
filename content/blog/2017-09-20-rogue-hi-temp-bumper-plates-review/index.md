@@ -13,6 +13,7 @@ tags:
 - reviews
 - Rogue Hi Temps
 blogpost: true
+coverImage: /images/blog/2017-09-20-rogue-hi-temp-bumper-plates-review/Rogue-Hi-Temp-Bumper-Plates-Review-carelessly-piled.jpg
 ---
 
 Rogue Fitness Hi Temp bumper plates are the workhorse of the fitness world. They're rugged bumpers made right here in the USA out of recycled rubber, best suited for high-rep work involving lots of drops on abrasive surfaces like concrete.
@@ -20,7 +21,7 @@ Rogue Fitness Hi Temp bumper plates are the workhorse of the fitness world. They
 If you need bumper plates to use outside and you don't mind paying a little extra for quality equipment made in the USA, the Hi Temps are a great option.
 <p style="text-align: left;"><!--more--></p>
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Rogue Bumper Plates by Hi Temp</strong></p>
-<p style="text-align: center;"><img class="alignnone wp-image-3135 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temps.jpg" alt="Rogue Hi Temp Bumper Plates" width="500" height="333" /></p>
+<p style="text-align: center;"><img class="alignnone wp-image-3135 size-full" src="/images/blog/2017-09-20-rogue-hi-temp-bumper-plates-review/Rogue-Hi-Temps.jpg" alt="Rogue Hi Temp Bumper Plates" width="500" height="333" /></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/rogue-hi-temps/"><i class="fa fa-shopping-cart"></i> Price Check</a></div></p>
 
 <h2>Specifications</h2>
@@ -36,13 +37,13 @@ Rogue Bumper Plates by Hi Temp specs:
  	<li>Color: Black w/ Rogue and Hi-Temp logos</li>
  	<li>1 Year Warranty after purchase</li>
 </ul>
-<img class="wp-image-3138 size-full" title="Rogue Fitness Hi Temp Bumper Plates - Width Chart" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temp-Widths.jpg" alt="Rogue Fitness Hi Temp Bumper Plates - Width Chart" width="600" height="489" />
+<img class="wp-image-3138 size-full" title="Rogue Fitness Hi Temp Bumper Plates - Width Chart" src="/images/blog/2017-09-20-rogue-hi-temp-bumper-plates-review/Rogue-Hi-Temp-Widths.jpg" alt="Rogue Fitness Hi Temp Bumper Plates - Width Chart" width="600" height="489" />
 <h2 class="mceTemp">Procurement</h2>
 I like saving money, so I'm always scouring the used market for deals on gear.
 
 I have several search alerts set up on Craigslist for specific keywords, including "bumper plates". Because of the search alerts, I get notified as soon as someone posts a new listing in my area that meets my search alert criteria.
 
-<figure><img class="wp-image-3133 size-full" title="Rogue Hi Temp Bumper Plates Review - less carelessly piled" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temp-Bumper-Plates-Review-less-carelessly-piled.jpg" alt="Rogue Hi Temp Bumper Plates Review - less carelessly piled" width="600" height="600" /><figcaption><em>160 pounds of rubberized love</em></figcaption></figure>
+<figure><img class="wp-image-3133 size-full" title="Rogue Hi Temp Bumper Plates Review - less carelessly piled" src="/images/blog/2017-09-20-rogue-hi-temp-bumper-plates-review/Rogue-Hi-Temp-Bumper-Plates-Review-less-carelessly-piled.jpg" alt="Rogue Hi Temp Bumper Plates Review - less carelessly piled" width="600" height="600" /><figcaption><em>160 pounds of rubberized love</em></figcaption></figure>
 
 Someone posted these Rogue Hi Temps for sale, and thanks to the search alert I was able to jump on them as soon as they were listed.
 
@@ -50,13 +51,13 @@ These plates had not been used before, which was unfortunate for the seller but 
 
 Incidentally, using Craigslist search alerts can be a great help for building your home gym at a discount, as long as you have the patience to wait for someone to post what you need.
 
-<figure><img class="wp-image-3134 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temp-Bumper-Plates-Review-recessed-collar.jpg" alt="Rogue Hi Temp Bumper Plates Review - recessed collar" width="600" height="600" /><figcaption><em>Rogue bumper plates by Hi Temp Inc, made in Tuscumbia Alabama USA</em></figcaption></figure>
+<figure><img class="wp-image-3134 size-full" src="/images/blog/2017-09-20-rogue-hi-temp-bumper-plates-review/Rogue-Hi-Temp-Bumper-Plates-Review-recessed-collar.jpg" alt="Rogue Hi Temp Bumper Plates Review - recessed collar" width="600" height="600" /><figcaption><em>Rogue bumper plates by Hi Temp Inc, made in Tuscumbia Alabama USA</em></figcaption></figure>
 <h2>Impressions</h2>
 The Rogue Hi Temp Bumper Plates are the first crumb rubber plates I've owned. In case you're not familiar with crumb rubber, this term basically means recycled rubber that's been shredded, mixed with polymers, and compressed into into a new form.
 
 The recycled rubber composition is really evident when looking at the texture up close - I can see all the little pieces of shredded rubber that make up the plate.
 
-<figure><img class="wp-image-3129 size-full" title="Rogue Hi Temp Bumper Plates Review - 45lb texture up close" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temp-Bumper-Plates-Review-45lb-texture-up-close.jpg" alt="Rogue Hi Temp Bumper Plates Review - 45lb texture up close" width="600" height="600" /><figcaption><em>Totally shredded brah!</em></figcaption></figure>
+<figure><img class="wp-image-3129 size-full" title="Rogue Hi Temp Bumper Plates Review - 45lb texture up close" src="/images/blog/2017-09-20-rogue-hi-temp-bumper-plates-review/Rogue-Hi-Temp-Bumper-Plates-Review-45lb-texture-up-close.jpg" alt="Rogue Hi Temp Bumper Plates Review - 45lb texture up close" width="600" height="600" /><figcaption><em>Totally shredded brah!</em></figcaption></figure>
 
 Rogue Hi Temp bumper plates are not <em>pretty</em> plates, certainly not as nice looking as virgin rubber bumper plates.
 
@@ -66,7 +67,7 @@ They're also wicked thick. Virgin rubber is much denser than recycled rubber, so
 
 Not a big deal, unless you can hoist more than four plates per side. If that's you, you'll probably want to look at competition plates or even iron plates instead you beast!
 
-<figure><img class="wp-image-3128 size-full" title="Rogue Hi Temp Bumper Plates Review - 45lb side by side" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temp-Bumper-Plates-Review-45lb-side-by-side.jpg" alt="Rogue Hi Temp Bumper Plates Review - 45lb side by side" width="600" height="600" /><figcaption><em>Bumper plates or racing slicks? You decide.</em></figcaption></figure>
+<figure><img class="wp-image-3128 size-full" title="Rogue Hi Temp Bumper Plates Review - 45lb side by side" src="/images/blog/2017-09-20-rogue-hi-temp-bumper-plates-review/Rogue-Hi-Temp-Bumper-Plates-Review-45lb-side-by-side.jpg" alt="Rogue Hi Temp Bumper Plates Review - 45lb side by side" width="600" height="600" /><figcaption><em>Bumper plates or racing slicks? You decide.</em></figcaption></figure>
 
 Another factor to consider when looking at crumb rubber plates like Rogue Hi Temps is their increased amount of bounce over virgin rubber.
 
@@ -102,7 +103,7 @@ I have no complaints so far, but I'll likely revisit this review in 6 to 12 mont
 
 EDIT - the plates have held up fine, but I've found I don't use them as much since I bought a set of Rogue competition bumper plates off Craigslist.
 
-<figure><img class="wp-image-3127 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temp-Bumper-Plates-Review-25lb-side-by-side.jpg" alt="Rogue Hi Temp Bumper Plates Review - 25lb side by side" width="600" height="600" /><figcaption><em>25lbs - virgin rubber on left vs Hi Temp on right</em></figcaption></figure>
+<figure><img class="wp-image-3127 size-full" src="/images/blog/2017-09-20-rogue-hi-temp-bumper-plates-review/Rogue-Hi-Temp-Bumper-Plates-Review-25lb-side-by-side.jpg" alt="Rogue Hi Temp Bumper Plates Review - 25lb side by side" width="600" height="600" /><figcaption><em>25lbs - virgin rubber on left vs Hi Temp on right</em></figcaption></figure>
 <h2>Bottom line</h2>
 Rogue Fitness Hi Temp bumper plates can be used and abused in the most demanding home fitness settings and will likely outlast your will to use them. They're a good investment for any home gym but they're best suited for high-rep work that involves lots of drops on concrete.
 
@@ -125,7 +126,7 @@ If you need some plates to use outside and you don't mind paying a little extra 
  	<li>10's and 15's will <strong>not</strong> hold up to drops (but c'mon, are you <em>really</em> gonna drop a bar with only 10's or 15's on it?)</li>
 </ul>
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Rogue Hi-Temp Bumper Plates</strong></p>
-<img class="wp-image-3135 size-full aligncenter" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/Rogue-Hi-Temps.jpg" alt="Rogue Hi Temp Bumper Plates" width="500" height="333" />
+<img class="wp-image-3135 size-full aligncenter" src="/images/blog/2017-09-20-rogue-hi-temp-bumper-plates-review/Rogue-Hi-Temps.jpg" alt="Rogue Hi Temp Bumper Plates" width="500" height="333" />
 
 <a href="https://fitnesstestlab.com/go/rogue-hi-temps/"><i class="fa fa-shopping-cart"></i> Buy Rogue Hi Temps</a></div>
 

@@ -12,8 +12,8 @@ import { FiSun, FiMoon, FiMenu, FiX } from "react-icons/fi";
 const navItems = [
   { name: "Home", path: "/" },
   { name: "Articles", path: "/blog" },
-  { name: "Workouts", path: "/workouts" },
-  { name: "Nutrition", path: "/nutrition" },
+  // { name: "Workouts", path: "/workouts" }, // Hidden until real content is ready
+  // { name: "Nutrition", path: "/nutrition" }, // Hidden until real content is ready
   { name: "About", path: "/about" },
   { name: "Contact", path: "/contact" },
 ];

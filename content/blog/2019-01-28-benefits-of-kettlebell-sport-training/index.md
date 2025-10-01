@@ -20,6 +20,7 @@ tags:
 - kettlebells
 - training
 blogpost: true
+coverImage: /images/blog/2019-01-28-benefits-of-kettlebell-sport-training/Why-You-Should-Train-Kettlebell-Sport-Muscle-Hipster.jpg
 ---
 
 <em>The following article is a guest post by the team over at <a href="https://www.kettlebellkings.com">Kettlebell Kings</a>, making a case for why you should consider kettlebell sport training. Kettlebell Sport is still relatively unknown in the U.S., but rapidly growing in popularity. If you're interested in a training regimen that involves competition and can be trained at home with minimal expense, then kettlebell sport may be just the thing to keep you motivated. </em>
@@ -29,7 +30,7 @@ Over the past decade, kettlebells have exploded in popularity. They are hailed a
 If you are completely unfamiliar with Kettlebell Sport, start with <a href="https://blog.kettlebellkings.com/an-intro-to-kettlebell-sport">our introduction posted here</a> for more information about the details and specific lifts. For a primer on the sport and why you should try it, keep reading.
 
 <!--more--><div class="thrive-text-block"><p style="text-align: center;"><strong>Kettlebell Kings Competition Kettlebells</strong></p>
-<p style="text-align: center;"><img class="alignnone" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Kings-20kg-competition-kettlebell.jpg" alt="Kettlebell Kings Competition Kettlebell" width="300px" height="300px" /></p>
+<p style="text-align: center;"><img class="alignnone" src="/images/blog/2019-01-28-benefits-of-kettlebell-sport-training/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Kings-20kg-competition-kettlebell.jpg" alt="Kettlebell Kings Competition Kettlebell" width="300px" height="300px" /></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/kettlebell-kings-competition-33mm-handle/"><i class="fa fa-shopping-cart"></i> Price Check</a></div></p>
 
 <h2>What Is Kettlebell Sport?</h2>
@@ -67,7 +68,7 @@ When you are working toward a Kettlebell Sport competition, your training progra
 </ul>
 Because Kettlebell Sport requires endurance, strength, agility, and concentration, a diverse range of exercises can help you meet your goals. With a desired endpoint in mind, your fitness journey can be fun, efficient, and well-rounded.
 
-<img class="alignnone size-full wp-image-3451" src="https://fitnesstestlab.com/wp-content/uploads/2017/11/Why-You-Should-Train-Kettlebell-Sport-20kg-kettlebell-clean-jerk.jpg" alt="Why You Should Train Kettlebell Sport - 20kg kettlebell clean &amp; jerk" />
+<img class="alignnone size-full wp-image-3451" src="/images/blog/2019-01-28-benefits-of-kettlebell-sport-training/Why-You-Should-Train-Kettlebell-Sport-20kg-kettlebell-clean-jerk.jpg" alt="Why You Should Train Kettlebell Sport - 20kg kettlebell clean &amp; jerk" />
 <h2>Efficiency is Essential</h2>
 In order to perform the Kettlebell Sport exercises for 10 minutes, the lifter must be efficient with their energy. The overall goal is to use the least energy possible for every lift so a much-needed energy boost will be available toward the end of the set. Your breathing pattern, cardio endurance, and strength will all contribute to your level of performance.
 
@@ -87,7 +88,7 @@ Most sports require a huge investment upfront in order to achieve measurable pro
 
 Because every competitive lift requires only one or two kettlebells, depending on whether you compete in single or double arm lifts, you can get away with buying very few pieces of equipment for training purposes.
 
-<img class="alignnone size-full wp-image-3448" src="https://fitnesstestlab.com/wp-content/uploads/2017/11/Why-You-Should-Train-Kettlebell-Sport-16kg-kettlebells.jpg" alt="Why You Should Train Kettlebell Sport - 16kg kettlebells" width="600" height="400" />
+<img class="alignnone size-full wp-image-3448" src="/images/blog/2019-01-28-benefits-of-kettlebell-sport-training/Why-You-Should-Train-Kettlebell-Sport-16kg-kettlebells.jpg" alt="Why You Should Train Kettlebell Sport - 16kg kettlebells" width="600" height="400" />
 
 In addition, many of the exercises used for cross-training are light on equipment as well. Bodyweight exercises can improve your strength while cardio exercises such as running, swimming, and cycling can push your endurance.
 
@@ -103,7 +104,7 @@ When training for a sport, every workout counts. A major reason to work hard dur
 
 There are multiple metrics for success when training for Kettlebell Sport. Of course, your main goal is the endurance required for 10 minutes of lifting, but along the way you can gradually increase and maximize speed and weight.
 
-<img class="alignnone size-full wp-image-3452" src="https://fitnesstestlab.com/wp-content/uploads/2017/11/Why-You-Should-Train-Kettlebell-Sport-Muscle-Hipster.jpg" alt="Why You Should Train Kettlebell Sport - Muscle Hipster" width="530" height="600" />
+<img class="alignnone size-full wp-image-3452" src="/images/blog/2019-01-28-benefits-of-kettlebell-sport-training/Why-You-Should-Train-Kettlebell-Sport-Muscle-Hipster.jpg" alt="Why You Should Train Kettlebell Sport - Muscle Hipster" width="530" height="600" />
 
 Kettlebells come in a variety of sizes, so you will be able to work your way up to the professional competition weight of 24 kg for women and 32 kg for men. At the same time, you can train with lighter kettlebells and improve speed and endurance.
 
@@ -115,12 +116,12 @@ With Kettlebell Sport, you can train relatively quickly and still manage good re
 
 Most training programs for beginners require workouts three or four days per week. This level of work is manageable for even the busiest among us. Rest days between tough workouts will give your body time to recover and allow for consistent and sustainable advancement.
 
-<img class="alignnone size-full wp-image-3460" src="https://fitnesstestlab.com/wp-content/uploads/2017/11/Why-You-Should-Train-Kettlebell-Sport-Overhead-Rack.jpg" alt="" />
+<img class="alignnone size-full wp-image-3460" src="/images/blog/2019-01-28-benefits-of-kettlebell-sport-training/Why-You-Should-Train-Kettlebell-Sport-Overhead-Rack.jpg" alt="" />
 <h2>Are You Ready?</h2>
 If improving your body and mind while achieving goals you never thought possible sounds appealing to you, we have a program to get you started! Check out our <a href="https://blog.kettlebellkings.com/kettlebell-sport-4-week-beginner-training-program">4 Week Training Program</a> that will challenge and motivate you to take your training seriously.
 
 For more information about lifts, competitions, and investing in a kettlebell, visit the <a href="https://www.kettlebellkings.com/">Kettlebell Kings</a> website.
 
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Kettlebell Kings Competition Kettlebells</strong></p>
-<p style="text-align: center;"><img class="alignnone" src="https://fitnesstestlab.com/wp-content/uploads/2017/07/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Kings-20kg-competition-kettlebell.jpg" alt="Kettlebell Kings Competition Kettlebell" width="300px" height="300px" /></p>
+<p style="text-align: center;"><img class="alignnone" src="/images/blog/2019-01-28-benefits-of-kettlebell-sport-training/Kettlebell-Kings-Competition-Kettlebells-Review-Kettlebell-Kings-20kg-competition-kettlebell.jpg" alt="Kettlebell Kings Competition Kettlebell" width="300px" height="300px" /></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/kettlebell-kings-competition-33mm-handle/"><i class="fa fa-shopping-cart"></i> Buy Kettlebell Kings Competition Kettlebells</a></div></p>

@@ -16,12 +16,13 @@ tags:
 - strength training
 - vulcan strength
 blogpost: true
+coverImage: /images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Absolute-Training-kettlebell-reivew-title.png
 ---
 
 The Absolute Training kettlebells from Vulcan Strength Training Systems fill a fairly unique niche in the crowded kettlebell market - competition-style kettlebells aimed at the home fitness crowd. Single-piece steel construction, standard sizing between weights, and a full powder coat finish make these kettlebells a very attractive alternative to <a href="https://fitnesstestlab.com/the-ultimate-kettlebell-comparison-review/" target="_blank" rel="noopener noreferrer">traditional cast-iron kettlebells</a> for home use.
 
 <!--more--><div class="thrive-text-block"><p style="text-align: center;"><strong>Vulcan Strength Absolute Training Kettlebells</strong></p>
-<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="Vulcan Strength Absolute Training Kettlebell Review alignnone wp-image-5005 size-full" title="Vulcan Strength Absolute Training Kettlebell Review" src="https://fitnesstestlab.com/wp-content/uploads/2019/02/Vulcan-Absolute-Training-Kettlebell-250x150.jpg" alt="Vulcan Strength Absolute Training Kettlebell Review" width="250" height="250" /></a></p>
+<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="Vulcan Strength Absolute Training Kettlebell Review alignnone wp-image-5005 size-full" title="Vulcan Strength Absolute Training Kettlebell Review" src="/images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Absolute-Training-Kettlebell-250x150.jpg" alt="Vulcan Strength Absolute Training Kettlebell Review" width="250" height="250" /></a></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/vulcan-absolute-training/"><i class="fa fa-shopping-cart"></i> Price Check</a></div></p>
 
 <h2>Introduction</h2>
@@ -37,7 +38,7 @@ On average, the Vulcan Absolute Training kettlebells can be purchased for $20-$
 <h2>Unboxing</h2>
 I received one 12kg Absolute Training kettlebell via Fedex and promptly tore into the box. The kettlebell was well packed and arrived undamaged.
 
-[caption id="attachment_1000" align="alignnone" width="450"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-1000 size-full" title="Vulcan Absolute Training Kettlebell unboxing" src="https://fitnesstestlab.com/wp-content/uploads/2016/12/Vulcan-Absolute-Training-kettlebell-unboxing.jpg" alt="Vulcan Absolute Training Kettlebell unboxing" width="450" height="600" /></a> <em>Wrapped up tighter than King Tut</em>[/caption]
+[caption id="attachment_1000" align="alignnone" width="450"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-1000 size-full" title="Vulcan Absolute Training Kettlebell unboxing" src="/images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Absolute-Training-kettlebell-unboxing.jpg" alt="Vulcan Absolute Training Kettlebell unboxing" width="450" height="600" /></a> <em>Wrapped up tighter than King Tut</em>[/caption]
 
 I picked up the bell after it was unwrapped to get a closer look and was surprised to see some kind of black residue on my fingers and palms.
 
@@ -45,7 +46,7 @@ I don't know exactly what it was, my guess is that it was some remnant of the c
 
 Whatever it was, it wiped off easily. I used a wet paper towel to wipe down the kettlebell and I had no further problems with black dust.
 
-[caption id="attachment_994" align="alignnone" width="451"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-994 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2016/12/Vulcan-Absolute-Training-kettlebell-dirty.jpg" alt="Vulcan Absolute Training Kettlebell dirty" width="451" height="299" /></a> <em>I see a kettlebell and I want it painted black...</em>[/caption]
+[caption id="attachment_994" align="alignnone" width="451"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-994 size-full" src="/images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Absolute-Training-kettlebell-dirty.jpg" alt="Vulcan Absolute Training Kettlebell dirty" width="451" height="299" /></a> <em>I see a kettlebell and I want it painted black...</em>[/caption]
 <h2>Impressions</h2>
 My first impression of the Absolute Training kettlebell was that it was HUGE when compared to a cast-iron kettlebell of the same weight.
 
@@ -94,7 +95,7 @@ This is to be expected - these kettlebells are made of steel rather than cast-
 
 The powder coat has the kind of chalky texture I like, providing just the right amount of grip without generating much friction. This type of coating allows for high-rep snatch and swing sessions without the need for chalk.
 
-[caption id="attachment_995" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-995 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2016/12/Vulcan-Absolute-Training-kettlebell-finish.jpg" alt="Vulcan Absolute Training Kettlebell finish" width="600" height="300" /></a> <em>The Batman of kettlebells</em>[/caption]
+[caption id="attachment_995" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-995 size-full" src="/images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Absolute-Training-kettlebell-finish.jpg" alt="Vulcan Absolute Training Kettlebell finish" width="600" height="300" /></a> <em>The Batman of kettlebells</em>[/caption]
 
 Another interesting feature worth mentioning is the size of the handle window. The design of the handle differs in a couple of ways from the handle on a typical competition-style kettlebell.
 
@@ -112,7 +113,7 @@ The coating is also a winner, I couldn't get the coat to chip despite several at
 
 Obviously no coating is going to stand up to metal-on-metal abuse forever, but this is one of the best powder coat finishes I've seen on a kettlebell. Two thumbs up!
 
-[caption id="attachment_993" align="alignnone" width="453"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-993 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2016/12/Vulcan-Absolute-Training-kettlebell-ding.jpg" alt="Vulcan Absolute Training Kettlebell ding" width="453" height="453" /></a> <em>Dinged, but not chipped</em>[/caption]
+[caption id="attachment_993" align="alignnone" width="453"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-993 size-full" src="/images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Absolute-Training-kettlebell-ding.jpg" alt="Vulcan Absolute Training Kettlebell ding" width="453" height="453" /></a> <em>Dinged, but not chipped</em>[/caption]
 
 Just like traditional cast-iron kettlebells, steel competition kettlebells come in varying degrees of quality. Since competition kettlebells are all made to be the same size, some manufacturers use cheaper filler materials to add weight for their heavier kettlebell offerings.
 
@@ -122,7 +123,7 @@ The biggest pro of the Absolute Training line of kettlebells is the consistency
 
 The increased width of the handle window is also really nice. It's refreshing to be able to perform two-hand swings with a full grip rather than attempting to squeeze my pinkies into a smaller window.
 
-[caption id="attachment_997" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-997 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2016/12/Vulcan-Absolute-Training-kettlebell-size-comparison.jpg" alt="Vulcan Absolute Training Kettlebell size comparison" width="600" height="302" /></a> <em>Vulcan vs 12kg cast-iron and 12kg competition-steel</em>[/caption]
+[caption id="attachment_997" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-997 size-full" src="/images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Absolute-Training-kettlebell-size-comparison.jpg" alt="Vulcan Absolute Training Kettlebell size comparison" width="600" height="302" /></a> <em>Vulcan vs 12kg cast-iron and 12kg competition-steel</em>[/caption]
 <h2>Cons</h2>
 The biggest con I noted with this line of kettlebells is the absence of any kind of color coding that helps differentiate weights.
 
@@ -130,13 +131,13 @@ All of the Absolute Training kettlebells look <strong>exactly</strong> alike, w
 
 A small color band on one or both of the handles would be helpful, as long as it could be done without significantly increasing the price. I took a white paint pen and filled in the weights, which works great.
 
-[caption id="attachment_5147" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-5147 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2019/02/Vulcan-Strength-Absolute-Training-kettlebell-reivew-White-Lettering.jpg" alt="Vulcan Strength Absolute Training kettlebell reivew - White Lettering" width="600" height="450" /></a> <em>Weights filled in with a white paint pen</em>[/caption]
+[caption id="attachment_5147" align="alignnone" width="600"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-5147 size-full" src="/images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Strength-Absolute-Training-kettlebell-reivew-White-Lettering.jpg" alt="Vulcan Strength Absolute Training kettlebell reivew - White Lettering" width="600" height="450" /></a> <em>Weights filled in with a white paint pen</em>[/caption]
 
 Another con relates to storage - the larger size means the kettlebell takes up more storage space, which could be problematic for those of us who have limited space at home for storing fitness equipment.
 
 However, as can be seen from the size comparison in the 'Pros' section this applies to competition-style kettlebells in general and is not specific to the Absolute Training kettlebells.
 
-[caption id="attachment_998" align="alignnone" width="453"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-998 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2016/12/Vulcan-Absolute-Training-kettlebell-storage.jpg" alt="Vulcan Absolute Training Kettlebell storage" width="453" height="453" /></a> Mixing steel and cast-iron kettlebells? Are you out of your Vulcan mind??[/caption]
+[caption id="attachment_998" align="alignnone" width="453"]<a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="wp-image-998 size-full" src="/images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Absolute-Training-kettlebell-storage.jpg" alt="Vulcan Absolute Training Kettlebell storage" width="453" height="453" /></a> Mixing steel and cast-iron kettlebells? Are you out of your Vulcan mind??[/caption]
 <h2>Bottom line</h2>
 The Vulcan Absolute Training line of kettlebells are high quality tools that definitely deserve a place in your home fitness arsenal, provided you have the storage space available to accommodate competition-sized kettlebells.
 
@@ -147,7 +148,7 @@ If you do happen to have the space, you can reap the benefit of training with k
 If you have any questions about the Vulcan Absolute Training kettlebell, sound off in the comments and I'll do my best to answer.
 
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Vulcan Strength Absolute Training Kettlebells</strong></p>
-<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="Vulcan Strength Absolute Training Kettlebell Review alignnone wp-image-5005 size-full" title="Vulcan Strength Absolute Training Kettlebell Review" src="https://fitnesstestlab.com/wp-content/uploads/2019/02/Vulcan-Absolute-Training-Kettlebell-250x150.jpg" alt="Vulcan Strength Absolute Training Kettlebell Review" width="250" height="250" /></a></p>
+<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/vulcan-absolute-training/" target="_blank" rel="noopener noreferrer"><img class="Vulcan Strength Absolute Training Kettlebell Review alignnone wp-image-5005 size-full" title="Vulcan Strength Absolute Training Kettlebell Review" src="/images/blog/2019-02-25-vulcan-absolute-training-kettlebell-review/Vulcan-Absolute-Training-Kettlebell-250x150.jpg" alt="Vulcan Strength Absolute Training Kettlebell Review" width="250" height="250" /></a></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/vulcan-absolute-training/">Buy Vulcan Strength Absolute Training Kettlebells</a></div></p>
 
 <h2></h2>

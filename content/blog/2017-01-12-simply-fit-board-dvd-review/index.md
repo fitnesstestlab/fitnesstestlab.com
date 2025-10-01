@@ -12,16 +12,17 @@ tags:
 - reviews
 - wobble board
 blogpost: true
+coverImage: /images/blog/2017-01-12-simply-fit-board-dvd-review/Simply-Fit-Board-Review-Title-Pic.gif
 ---
 
-<!--noptimize--><img class="alignnone size-full wp-image-1187" src="https://fitnesstestlab.com/wp-content/uploads/2017/01/Simply-Fit-Board-Review-Title-Pic.gif" alt="Simply Fit Board Review by Fitness Test Lab" width="600" height="400" />
+<!--noptimize--><img class="alignnone size-full wp-image-1187" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Simply-Fit-Board-Review-Title-Pic.gif" alt="Simply Fit Board Review by Fitness Test Lab" width="600" height="400" />
 
 The <a href="http://amzn.to/2jdqz6F">Simply Fit Board</a> is one of the hottest selling fitness products available at the time I write this. Everyone wants one of these things, and it seems like every store is getting in on the act. I knew it was a hot commodity when I even saw them for sale in Home Depot!
 
 My wife was intrigued by it, so we bought one for her to use. She graciously let me borrow it for a lab test, so let's find out if it lives up to the hype, shall we? <!--more-->
 
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Simply Fit Board</strong></p>
-<p style="text-align: center;"><img class="alignnone wp-image-3135 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/simply-fit-board-440x348.jpg" alt="Simply Fit Board" width="500" height="333" /></p>
+<p style="text-align: center;"><img class="alignnone wp-image-3135 size-full" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/simply-fit-board-440x348.jpg" alt="Simply Fit Board" width="500" height="333" /></p>
 <p style="text-align: center;"><a href="http://amzn.to/2jdqz6F"><i class="fa fa-shopping-cart"></i> Price Check</a></div></p>
 
 <h2>What is the Simply Fit Board?</h2>
@@ -31,7 +32,7 @@ There are other exercises that can be done on the board,  consisting largely of
 
 It's also worth mentioning that the Simply Fit Board is the result of a successful Shark Tank pitch. So not only is it a Simply Fit Board, it's a Simply Fit Board <strong><em>as seen on TV</em></strong>!
 
-<a href="https://fitnesstestlab.com/go/rogue-fitness-ffl-os-sfbr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-6791 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/09/Rogue-Fitness-Fit-For-Life-Overhead-Snatch-700x200-1.jpg" alt="" width="700" height="200" /></a>
+<a href="https://fitnesstestlab.com/go/rogue-fitness-ffl-os-sfbr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-6791 size-full" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Rogue-Fitness-Fit-For-Life-Overhead-Snatch-700x200-1.jpg" alt="" width="700" height="200" /></a>
 <h2>Impressions</h2>
 To be honest, when I first heard about the <a href="http://amzn.to/2jdqz6F">Simply Fit Board</a> I wrote it off as another entry in a long line of fitness gimmicks. The gym locker of history is stuffed with gear that promised everything while delivering nothing, why would this be any different?
 
@@ -56,21 +57,21 @@ The DVD that comes with the <a href="http://amzn.to/2jdqz6F">Simply Fit Board</a
 
 I've sprinkled some GIFs captured from the DVD content throughout this review to give you a  sense of what some of those exercises look like. I tried a few myself, and I can attest to the fact that using the Simply Fit Board brings a whole other level of difficulty to the exercises by adding a balance element.
 
-<figure><img class="size-full wp-image-1193" src="https://fitnesstestlab.com/wp-content/uploads/2017/01/Simply-Fit-Board-Wood-Choppers.gif" alt="Simply Fit Board Wood Choppers" width="400" height="225" /><figcaption>Simply Fit Board Wood Choppers</figcaption></figure>
+<figure><img class="size-full wp-image-1193" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Simply-Fit-Board-Wood-Choppers.gif" alt="Simply Fit Board Wood Choppers" width="400" height="225" /><figcaption>Simply Fit Board Wood Choppers</figcaption></figure>
 
-<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-sfbr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-6791 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/09/Rogue-Fitness-Fit-For-Life-Overhead-Snatch-700x200-1.jpg" alt="" width="700" height="200" /></a>
+<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-sfbr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-6791 size-full" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Rogue-Fitness-Fit-For-Life-Overhead-Snatch-700x200-1.jpg" alt="" width="700" height="200" /></a>
 <h2>Durability</h2>
 The <a href="http://amzn.to/2jdqz6F">Simply Fit Board</a> is made of a firm but pliable colored plastic that has some flex to it. The flex was a little disconcerting when I first stepped on the board because I thought I might break it, but the board held up just fine.
 
 The weight limit of the board is 400 pounds and I only weigh 170, so I was well under the weight limit. The Simply Fit Board is very light and easy to carry under one arm.
 
-<figure><img class="size-full wp-image-1192" src="https://fitnesstestlab.com/wp-content/uploads/2017/01/Simply-Fit-Board-Spiderman-Planks.gif" alt="Simply Fit Board Spiderman Planks" width="400" height="225" /><figcaption>Simply Fit Board Spiderman Planks</figcaption></figure>
+<figure><img class="size-full wp-image-1192" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Simply-Fit-Board-Spiderman-Planks.gif" alt="Simply Fit Board Spiderman Planks" width="400" height="225" /><figcaption>Simply Fit Board Spiderman Planks</figcaption></figure>
 <h2>Price</h2>
 At the time I write this, the <a href="http://amzn.to/2jdqz6F">Simply Fit Board</a> can be purchased for $39.99, which includes the DVD. Personally, I think the cost is a little high but I won't begrudge an entrepreneur trying to make a few bucks.
 
 This device is ingenious in its simplicity, and as long as you don't abuse it the board is likely to last a long time.
 
-<figure><img class="size-full wp-image-1191" src="https://fitnesstestlab.com/wp-content/uploads/2017/01/Simply-Fit-Board-Screaming-Bridges.gif" alt="Simply Fit Board Screaming Bridges" width="400" height="225" /><figcaption>Simply Fit Board Screaming Bridges</figcaption></figure>
+<figure><img class="size-full wp-image-1191" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Simply-Fit-Board-Screaming-Bridges.gif" alt="Simply Fit Board Screaming Bridges" width="400" height="225" /><figcaption>Simply Fit Board Screaming Bridges</figcaption></figure>
 <h2>Pros</h2>
 The <a href="http://amzn.to/2jdqz6F">Simply Fit Board </a>is a very accessible exercise tool.  I can see pretty much anyone benefiting from using one, especially because it is so low impact in terms of stress on joints.
 
@@ -82,9 +83,9 @@ The Simply Fit Board doesn't take up very much storage space, always a big plus
 
 I also like that it's easy to use while watching TV or working at a standing desk, which makes it more likely to be used often.
 
-<figure><img class="size-full wp-image-1190" src="https://fitnesstestlab.com/wp-content/uploads/2017/01/Simply-Fit-Board-Plank-Walks.gif" alt="Simply Fit Board Plank Walks" width="400" height="225" /><figcaption>Simply Fit Board Plank Walks</figcaption></figure>
+<figure><img class="size-full wp-image-1190" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Simply-Fit-Board-Plank-Walks.gif" alt="Simply Fit Board Plank Walks" width="400" height="225" /><figcaption>Simply Fit Board Plank Walks</figcaption></figure>
 
-<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-sfbr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-6791 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/09/Rogue-Fitness-Fit-For-Life-Overhead-Snatch-700x200-1.jpg" alt="" width="700" height="200" /></a>
+<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-sfbr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-6791 size-full" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Rogue-Fitness-Fit-For-Life-Overhead-Snatch-700x200-1.jpg" alt="" width="700" height="200" /></a>
 <h2>Cons</h2>
 The <a href="http://amzn.to/2jdqz6F">Simply Fit Board</a> is fun, but fun is fleeting. Granted, I already have a regular workout regimen so I may be biased, but I have a hard time seeing this as someone's primary exercise program.
 
@@ -92,7 +93,7 @@ While fun and effective, in my opinion there isn't enough depth and variety in t
 
 You'll likely need to supplement the workouts with other forms of exercise.
 
-<figure><img class="size-full wp-image-1189" src="https://fitnesstestlab.com/wp-content/uploads/2017/01/Simply-Fit-Board-Plank-Crossovers.gif" alt="Simply Fit Board Plank Crossovers" width="400" height="225" /><figcaption>Simply Fit Board Plank Crossovers</figcaption></figure>
+<figure><img class="size-full wp-image-1189" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Simply-Fit-Board-Plank-Crossovers.gif" alt="Simply Fit Board Plank Crossovers" width="400" height="225" /><figcaption>Simply Fit Board Plank Crossovers</figcaption></figure>
 <h2>Bottom Line</h2>
 The <a href="http://amzn.to/2jdqz6F">Simply Fit Board</a> is an intriguing fitness tool and I like it a lot. The fun factor is high and it does work in terms of working the core and improving balance, and the ease of use makes it very accessible.
 
@@ -101,8 +102,8 @@ However, there's only so much you can do with this board, so consider using it a
 The Simply Fit Board will also serve well as a fitness gateway drug for someone looking for a simple  way to start exercising.
 
 <div class="thrive-text-block"><p style="text-align: center;"><strong>Simply Fit Board</strong></p>
-<p style="text-align: center;"><img class="alignnone wp-image-3135 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2017/09/simply-fit-board-440x348.jpg" alt="Simply Fit Board" width="500" height="333" /></p>
+<p style="text-align: center;"><img class="alignnone wp-image-3135 size-full" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/simply-fit-board-440x348.jpg" alt="Simply Fit Board" width="500" height="333" /></p>
 <p style="text-align: center;"><a href="http://amzn.to/2jdqz6F"><i class="fa fa-shopping-cart"></i> Buy The Simply Fit Board</a></div></p>
-<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-sfbr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-6791 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/09/Rogue-Fitness-Fit-For-Life-Overhead-Snatch-700x200-1.jpg" alt="" width="700" height="200" /></a>
+<a href="https://fitnesstestlab.com/go/rogue-fitness-bpu-sfbr/" target="_blank" rel="noopener"><img class="aligncenter wp-image-6791 size-full" src="/images/blog/2017-01-12-simply-fit-board-dvd-review/Rogue-Fitness-Fit-For-Life-Overhead-Snatch-700x200-1.jpg" alt="" width="700" height="200" /></a>
 
 <!--/noptimize-->

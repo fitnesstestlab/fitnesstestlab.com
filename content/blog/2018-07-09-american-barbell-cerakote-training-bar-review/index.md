@@ -18,6 +18,7 @@ tags:
 - wod
 - wod bar
 blogpost: true
+coverImage: /images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Title-Pic.jpg
 ---
 
 I admit it, I have trouble with commitment. Every time I think I've found The One, I inevitably end up disappointed and unfulfilled. So I keep searching, in the hope of one day finding true happiness.
@@ -30,7 +31,7 @@ What could this be you ask? Well, I'll give you a hint...it's the <em>grip</em>
 
 <!--more-->
 <div class="thrive-text-block"><p style="text-align: center;"><strong>American Barbell Cerakote Training Bar</strong></p>
-<p style="text-align: center;"><img class="alignnone wp-image-4355 size-full" title="American Barbell Cerakote Training Bar" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Price-Check_.jpg" alt="American Barbell Cerakote Training Bar Review - Price Check" width="600" height="242" /></p>
+<p style="text-align: center;"><img class="alignnone wp-image-4355 size-full" title="American Barbell Cerakote Training Bar" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Price-Check_.jpg" alt="American Barbell Cerakote Training Bar Review - Price Check" width="600" height="242" /></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/american-barbell-cerakote-training-bar/"><i class="fa fa-shopping-cart"></i> Price Check</a></div></p>
 
 <h2>Intro</h2>
@@ -67,7 +68,7 @@ The American Barbell Cerakote Training Bar falls squarely into this category, wi
 </ul>
 <em>*Also available as a 15kg version with a 25mm diameter shaft and slightly shorter bar length. </em>
 
-<img class="wp-image-4358 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Endcap.jpg" alt="American Barbell Cerakote Training Bar Review - Endcap" width="600" height="600" />
+<img class="wp-image-4358 size-full" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Endcap.jpg" alt="American Barbell Cerakote Training Bar Review - Endcap" width="600" height="600" />
 <h2>Unboxing</h2>
 Of all the companies I've received equipment from, American Barbell is by far the best at using enough packaging to properly protect products during shipping. Just like the T-Grip Shorty Bar I <a href="https://fitnesstestlab.com/american-barbell-t-grip-shorty-bar-review/" target="_blank" rel="noopener noreferrer">previously reviewed</a>, the Cerakote Training Bar came extremely well packed.
 
@@ -75,7 +76,7 @@ The bar was inserted in a thick cardboard tube with inserts screwed into the end
 
 The cardboard tube was probably the sturdiest I've seen so far, but what really set the packaging apart was the protection of the sleeves. Both sleeves were encased in a foam tube and sealed in a plastic bag for extra protection.
 
-<figure><img class="wp-image-4363 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Unboxing.jpg" alt="American Barbell Cerakote Training Bar Review - Unboxing" width="600" height="600" /><figcaption><em>The best barbell packaging I've seen, bar none (see what I did there?)</em></figcaption></figure>
+<figure><img class="wp-image-4363 size-full" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Unboxing.jpg" alt="American Barbell Cerakote Training Bar Review - Unboxing" width="600" height="600" /><figcaption><em>The best barbell packaging I've seen, bar none (see what I did there?)</em></figcaption></figure>
 
 No other company I've had gear shipped from has gone to this much effort to protect their products during shipping.
 
@@ -83,7 +84,7 @@ They even included a brochure in the tube explaining how to care for the barbell
 
 Considering how expensive a barbell can be, this level of detail is much appreciated.
 
-<figure><img class="size-full wp-image-4362" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Sleeve-Protection.jpg" alt="American Barbell Cerakote Training Bar Review - Sleeve Protection" width="600" height="300" /><figcaption><em>So...much...win...</em></figcaption></figure>
+<figure><img class="size-full wp-image-4362" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Sleeve-Protection.jpg" alt="American Barbell Cerakote Training Bar Review - Sleeve Protection" width="600" height="300" /><figcaption><em>So...much...win...</em></figcaption></figure>
 <h2>Impressions</h2>
 The American Barbell Cerakote Training Bar is the first Cerakote-coated barbell I've owned. Cerakote offers unique coloring options that simply aren't available with other finishes like chrome, stainless steel, or zinc.
 
@@ -91,7 +92,7 @@ I ordered a navy blue bar with chrome sleeves, and the color contrast is strikin
 
 Bottom line, this bar looks awesome.
 
-<figure><img class="wp-image-4364 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Bar-and-Sleeves.jpg" alt="American Barbell Cerakote Training Bar Review - Bar and Sleeves" width="600" height="600" /><figcaption><em>20kg of pure awesomeness</em></figcaption></figure>
+<figure><img class="wp-image-4364 size-full" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Bar-and-Sleeves.jpg" alt="American Barbell Cerakote Training Bar Review - Bar and Sleeves" width="600" height="600" /><figcaption><em>20kg of pure awesomeness</em></figcaption></figure>
 
 This bar was clearly designed with CrossFit-style WODs in mind, since the knurling is mild yet dense enough to provide plenty of grip without tearing up palms during high rep WOD sessions.
 
@@ -99,7 +100,7 @@ The knurl on the Cerakote Training Bar is etched in a high density pattern that 
 
 The Cerakote coating also feels different to the touch than any bar I've tested finished in chrome. The finish feels tacky to the touch, almost as if it had already been chalked. Nice!
 
-<figure><img class="size-full wp-image-4365" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Knurling-Close-Up.jpg" alt="American Barbell Cerakote Training Bar Review - Knurling Close Up" width="600" height="600" /><figcaption><em>Feel the knurl. Feel it! </em></figcaption></figure>
+<figure><img class="size-full wp-image-4365" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Knurling-Close-Up.jpg" alt="American Barbell Cerakote Training Bar Review - Knurling Close Up" width="600" height="600" /><figcaption><em>Feel the knurl. Feel it! </em></figcaption></figure>
 
 The build quality of the Training Bar is also top notch, and I don't say this lightly since I've tested a lot of great bars.
 
@@ -119,7 +120,7 @@ Easier to learn, with less risk of injury for old guys like me.
 
 I also throw barbell WODs into the mix that involve a mixture of different types of static and dynamic lifts, and I deadlift on a regular basis.
 
-<figure><img class="wp-image-4361 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Full-Bar-Unpacked.jpg" alt="American Barbell Cerakote Training Bar Review - Full Bar Unpacked" width="600" height="600" /><figcaption><em>A man walks into a bar...and trips over it</em></figcaption></figure>
+<figure><img class="wp-image-4361 size-full" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Full-Bar-Unpacked.jpg" alt="American Barbell Cerakote Training Bar Review - Full Bar Unpacked" width="600" height="600" /><figcaption><em>A man walks into a bar...and trips over it</em></figcaption></figure>
 
 I'll cut to the chase, this bar works exceptionally well for everything I've used it for.
 
@@ -135,7 +136,7 @@ I'll say that again, because it's a big deal for me.
 
 I've been able to use this bar for an <strong>entire barbell-based workout</strong> without <em>ever</em> having to open my chalk bag. Sure, I still have to wipe the bar down sometimes between sets, but before I had this bar I would frequently have to stop <em>during</em> a set to wipe the bar and reapply fresh chalk or risk losing my grip. Not cool!
 
-<figure><img class="size-full wp-image-4383" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Loaded-on-the-Stands.jpg" alt="American Barbell Cerakote Training Bar Review - Loaded on the Stands" width="600" height="450" /><figcaption><i>No step on snek, lift bar insted pleez</i></figcaption></figure>
+<figure><img class="size-full wp-image-4383" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Loaded-on-the-Stands.jpg" alt="American Barbell Cerakote Training Bar Review - Loaded on the Stands" width="600" height="450" /><figcaption><i>No step on snek, lift bar insted pleez</i></figcaption></figure>
 
 On the flip side, some days I sweat more than others and I have had to occasionally use chalk with this bar. I've found that the dense knurling grabs and holds <em>a lot</em> of chalk.
 
@@ -145,7 +146,7 @@ The Cerakote finish on the Training Bar provides what might be the best corrosio
 
 I prefer keeping my equipment clean though, and I've found the only way to get all the chalk and moisture out of that dense knurl pattern is with a good quality synthetic brush. I use the brush to dislodge the chalk and a rag to wipe it off, and when I'm done the bar looks practically brand new.
 
-<figure><img class="size-full wp-image-4385" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Before-and-After-Cleanup.jpg" alt="American Barbell Cerakote Training Bar Review - Before and After Cleanup" width="600" height="300" /><figcaption><em>Left - wiped but not brushed. Right - brushed and wiped</em></figcaption></figure>
+<figure><img class="size-full wp-image-4385" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Before-and-After-Cleanup.jpg" alt="American Barbell Cerakote Training Bar Review - Before and After Cleanup" width="600" height="300" /><figcaption><em>Left - wiped but not brushed. Right - brushed and wiped</em></figcaption></figure>
 
 Incidentally, if you don't already own a good quality synthetic brush, Rogue Fitness sells a great barbell cleaning kit that costs just under ten bucks plus shipping.
 
@@ -167,7 +168,7 @@ The build quality of this bar is excellent and the color options add some nice f
 
 Feel free to ask any questions in the comments if there's something you'd like to know that I didn't cover!
 <div class="thrive-text-block"><p style="text-align: center;"><strong>American Barbell Cerakote Training Bar</strong></p>
-<p style="text-align: center;"><img class="alignnone wp-image-4355 size-full" title="American Barbell Cerakote Training Bar" src="https://fitnesstestlab.com/wp-content/uploads/2018/07/American-Barbell-Cerakote-Training-Bar-Review-Price-Check_.jpg" alt="American Barbell Cerakote Training Bar Review - Price Check" width="600" height="242" /></p>
+<p style="text-align: center;"><img class="alignnone wp-image-4355 size-full" title="American Barbell Cerakote Training Bar" src="/images/blog/2018-07-09-american-barbell-cerakote-training-bar-review/American-Barbell-Cerakote-Training-Bar-Review-Price-Check_.jpg" alt="American Barbell Cerakote Training Bar Review - Price Check" width="600" height="242" /></p>
 <p style="text-align: center;"><a href="https://fitnesstestlab.com/go/american-barbell-cerakote-training-bar/"><i class="fa fa-shopping-cart"></i> Buy The American Barbell Cerakote Training Bar</a></div></p>
 <!--noptimize-->
 

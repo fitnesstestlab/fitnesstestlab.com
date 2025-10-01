@@ -20,7 +20,7 @@ tags:
 - Xebex Airplus vs assault airrunner pro
 - xebex runner review
 blogpost: true
-coverImage: /images/blog/2022-07-20-xebex-airplus-runner-smart-connect-review/Xebex-Air-Runner-300x300.jpg
+coverImage: /images/blog/2022-07-20-xebex-airplus-runner-smart-connect-review/Xebex-Fitness-Airplus-Runner-Smart-Connect-Review-Title-Pic.jpg
 ---
 
 The Xebex Airplus Runner is a high quality curved motorless treadmill that doubles as a weight sled. I like equipment that can be used for multiple purposes and I love the fact that the Airplus Runner can be used as more than just a treadmill.
@@ -48,7 +48,7 @@ This is why the running deck is curved - as your foot strikes the tread on the c
 
 The belt is mounted on low friction bearings, so the treads move smoothly as long as you continue providing force through movement.
 
-<img class="alignnone wp-image-6675 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/07/Xebex-Fitness-Airplus-Runner-Smart-Connect-Review-Steel-Bearings.jpg" alt="" width="800" height="800" />
+<img class="alignnone wp-image-6675 size-full" src="/images/blog/2022-07-20-xebex-airplus-runner-smart-connect-review/Xebex-Fitness-Airplus-Runner-Smart-Connect-Review-Steel-Bearings.jpg" alt="" width="800" height="800" />
 <h2>Benefits of a motorless treadmill</h2>
 There hasn't been a ton of research done on this topic yet, but I did find a <a href="https://www.mdpi.com/2075-4663/6/3/58" target="_blank" rel="noopener noreferrer">study</a> conducted at the University of South Carolina on the effects of curved motorless treadmills (CMT)* on running mechanics and the results were encouraging. From the study:
 <blockquote><span style="color: #000000;">The results show that running on a CMT resulted in significant changes in gait characteristics (step length, stride length, imbalance score and stride angle). These findings suggest that running on a CMT can significantly influence running gait.</span></blockquote>
@@ -60,7 +60,7 @@ After much research, I replaced it with a Xebex Airplus Runner, which I consider
 
 <em>*The term 'Curved Manual Treadmill' is also often used to describe these machines</em>
 
-<img class="alignnone wp-image-6671 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/07/Xebex-Fitness-Airplus-Runner-Smart-Connect-Review-Front-View.jpg" alt="" width="800" height="800" />
+<img class="alignnone wp-image-6671 size-full" src="/images/blog/2022-07-20-xebex-airplus-runner-smart-connect-review/Xebex-Fitness-Airplus-Runner-Smart-Connect-Review-Front-View.jpg" alt="" width="800" height="800" />
 <h3>Here are some of the benefits of using a curved motorless treadmill:</h3>
 <h3>1) Improved running form</h3>
 The main advertised benefit of a curved motorless treadmill is the improving effect on running form.
@@ -127,7 +127,7 @@ In my experience I've found it's very easy for me to zone out when running on a 
 
 In contrast, the Airplus Runner is enforcing the steady smooth coordination of my brain and limbs by forcing me to be aware of how I'm moving in order to keep a steady pace.
 
-<img class="alignnone wp-image-6691 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2022/07/Xebex-Fitness-Airplus-Runner-Smart-Connect-Review-Console.jpg" alt="" width="800" height="800" />
+<img class="alignnone wp-image-6691 size-full" src="/images/blog/2022-07-20-xebex-airplus-runner-smart-connect-review/Xebex-Fitness-Airplus-Runner-Smart-Connect-Review-Console.jpg" alt="" width="800" height="800" />
 
 Plus, running on the curved deck is like running on a perpetual slight incline, which forces me to keep a more upright posture and engages more of my leg muscles.
 
@@ -199,7 +199,7 @@ While running, if I increase resistance up to levels 2-3, it feels like I'm runn
 
 If you try this for yourself, just be careful when turning the resistance back down. If you shift back down too fast the treadmill can feel like a rolling log under your feet 😬
 
-<figure><img class="wp-image-5299 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Fitness-AirRunner-Review-Rolling-Log.gif" alt="Assault Fitness AirRunner Review - Rolling Log" width="500" height="375" /><figcaption><em>He turned the resistance down too fast!</em></figcaption></figure>
+<figure><img class="wp-image-5299 size-full" src="/images/blog/2022-07-20-xebex-airplus-runner-smart-connect-review/Assault-Fitness-AirRunner-Review-Rolling-Log.gif" alt="Assault Fitness AirRunner Review - Rolling Log" width="500" height="375" /><figcaption><em>He turned the resistance down too fast!</em></figcaption></figure>
 <h3>Airplus Runner and barefoot running</h3>
 The Xebex Airplus Runner is very friendly to minimalist footwear and barefoot runners. When I run on the Airplus Runner I'm usually completely barefoot.
 

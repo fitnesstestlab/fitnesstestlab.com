@@ -32,6 +32,7 @@ tags:
 - Woodway Curve review
 - xebex runner review
 blogpost: true
+coverImage: /images/blog/2019-03-21-assault-airrunner-review/AssaultRunner-Pro-Review-Title-Pic.jpg
 ---
 
 The Assault Fitness AssaultRunner Pro is a treadmill for people who hate treadmills. I should know, I hate treadmills and I've never been a big fan of running.
@@ -51,7 +52,7 @@ The AssaultRunner Pro is built like a tank and is one of the few pieces of equip
 If you can get past the sticker shock and if you have room for it, the Assault Fitness AssaultRunner Pro is definitely worth having in your home gym. Be sure to check the prices on both Amazon and Rogue, I've seen sales on both sites at different times.
 
 <div class="thrive-text-block"><p style="text-align: center;"><strong>AssaultRunner Pro</strong></p>
-<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/assault-air-runner/" target="_blank" rel="noopener noreferrer"><img class="wp-image-5245 size-full alignnone" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Air-Runner-250x250.jpg" alt="AssaultRunner Pro" width="250" height="250" /></a></p>
+<p style="text-align: center;"><a href="https://fitnesstestlab.com/go/assault-air-runner/" target="_blank" rel="noopener noreferrer"><img class="wp-image-5245 size-full alignnone" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Air-Runner-250x250.jpg" alt="AssaultRunner Pro" width="250" height="250" /></a></p>
 <p style="text-align: center;"><a href="https://amzn.to/2O9uIp8"><i class="fa fa-shopping-cart" style="color: white;"></i><span style="color: #ffffff;"> Amazon.com</span></a></div></p>
 
 <h2>What is a curved motorless treadmill?</h2>
@@ -63,7 +64,7 @@ The belt is mounted on low friction bearings, so the treads move smoothly as lon
 
 It's a very clever design.
 
-<figure><img class="wp-image-5352 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-AirRunner-Review-View-of-the-Bearings.jpg" alt="Assault AirRunner Review - View of the Bearings" width="600" height="600" /><figcaption><em>This is where the magic happens</em></figcaption></figure>
+<figure><img class="wp-image-5352 size-full" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-AirRunner-Review-View-of-the-Bearings.jpg" alt="Assault AirRunner Review - View of the Bearings" width="600" height="600" /><figcaption><em>This is where the magic happens</em></figcaption></figure>
 <h2>Why buy a motorless treadmill?</h2>
 I first became interested in motorless treadmills after seeing people rave about them on social media and reading claims that a curved manual treadmill could "make me a better runner".
 
@@ -83,7 +84,7 @@ This was enough to at least get me started looking for a good deal on a CMT, and
 
 <em>*The term 'Curved Manual Treadmill' is also often used to describe these machines</em>
 
-<figure><img class="size-full wp-image-5361" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Fitness-Air-Runner-Review-Installed-in-the-Freedom-Corner.jpg" alt="Assault Fitness Air Runner Review - Installed in the Freedom Corner" width="600" height="600" /><figcaption><em>Ain't taking this one, get your own!</em></figcaption></figure>
+<figure><img class="size-full wp-image-5361" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Fitness-Air-Runner-Review-Installed-in-the-Freedom-Corner.jpg" alt="Assault Fitness Air Runner Review - Installed in the Freedom Corner" width="600" height="600" /><figcaption><em>Ain't taking this one, get your own!</em></figcaption></figure>
 <h3>1) Improved running form</h3>
 The main advertised benefit of a curved motorless treadmill is the improving effect on running form, which I touched on above.
 
@@ -97,7 +98,7 @@ Run as fast or as slow as you want without having to push any buttons and the tr
 
 Needless to say, this makes a curved motorless treadmill like the AssaultRunner Pro great for HIIT training.
 
-<figure><img class="wp-image-5355 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Fitness-AirRunner-Review-Treads.jpg" alt="Assault Fitness AirRunner Review - Treads" width="600" height="600" /><figcaption><em>Treads rated for 150,000 miles</em></figcaption></figure>
+<figure><img class="wp-image-5355 size-full" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Fitness-AirRunner-Review-Treads.jpg" alt="Assault Fitness AirRunner Review - Treads" width="600" height="600" /><figcaption><em>Treads rated for 150,000 miles</em></figcaption></figure>
 <h3>3) Better running experience</h3>
 Since a curved motorless treadmill adapts to your speed rather than the other way around, running on the AssaultRunner Pro feels much closer to running outside than running on a motorized treadmill.
 
@@ -121,7 +122,7 @@ The experience is very different and I feel like I've used much more muscles in 
 
 I've also measured my calorie burn while running a mile, and in general I burn around 200 calories when I run a mile at a 5mph pace on the Air Runner as measured using a <a href="https://amzn.to/2I1KboV" target="_blank" rel="noopener noreferrer">Polar heart rate monitor</a>.
 
-<figure><img class="size-full wp-image-5633" src="https://fitnesstestlab.com/wp-content/uploads/2020/02/Assault-Air-Runner-Review-Calories-Burned-Running-One-Mile.jpg" alt="Assault Air Runner Review - Calories Burned Running One Mile" width="600" height="450" /><figcaption><em>Running 1 mile at a 5mph pace burned 200 calories</em></figcaption></figure>
+<figure><img class="size-full wp-image-5633" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Air-Runner-Review-Calories-Burned-Running-One-Mile.jpg" alt="Assault Air Runner Review - Calories Burned Running One Mile" width="600" height="450" /><figcaption><em>Running 1 mile at a 5mph pace burned 200 calories</em></figcaption></figure>
 
 To put that number in perspective, the general rule of thumb is that the average person burns 100 calories per mile while running.
 
@@ -161,7 +162,7 @@ My sweet wife helped me bring it in the house after I took the rails off. We had
 
 She didn't know what she was getting herself into by helping me, so there was much wailing and gnashing of teeth as we struggled to muscle the AssaultRunner Pro deck into the bedroom without killing ourselves in the process ?
 
-<figure><img class="size-full wp-image-5354" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Fitness-Air-Runner-Review-Prominent-Branding.jpg" alt="Assault Fitness Air Runner Review - Prominent Branding" width="600" height="600" /><figcaption><em>Built like a tank and almost as heavy as one</em></figcaption></figure>
+<figure><img class="size-full wp-image-5354" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Fitness-Air-Runner-Review-Prominent-Branding.jpg" alt="Assault Fitness Air Runner Review - Prominent Branding" width="600" height="600" /><figcaption><em>Built like a tank and almost as heavy as one</em></figcaption></figure>
 
 
 <h2>Real world use</h2>
@@ -171,7 +172,7 @@ It's a very different experience than running on a motorized treadmill. The firs
 
 The treadmill belt is very responsive to changes in pace and I kept feeling the treadmill belt speed up underneath me as I walked. It took a bit of practice for me to achieve a smooth consistent pace.
 
-<figure><img class="size-full wp-image-5299" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Fitness-AirRunner-Review-Rolling-Log.gif" alt="Assault Fitness AirRunner Review - Rolling Log" width="500" height="375" /><figcaption><em>Test footage of an early AssaultRunner Pro prototype</em></figcaption></figure>
+<figure><img class="size-full wp-image-5299" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Fitness-AirRunner-Review-Rolling-Log.gif" alt="Assault Fitness AirRunner Review - Rolling Log" width="500" height="375" /><figcaption><em>Test footage of an early AssaultRunner Pro prototype</em></figcaption></figure>
 
 Using a curved motorless treadmill is an entirely new experience for me so a learning curve is to be expected. The Assault Air Runner is forcing me to be mindful of how I move and it only took me a few minutes to get used to.
 
@@ -183,7 +184,7 @@ Even running outside allows me to cheat since I can get away with a half-arsed j
 
 In contrast, the AssaultRunner Pro is enforcing the steady smooth coordination of my brain and limbs by forcing me to be aware of how I'm moving in order to keep a steady pace.
 
-<figure><img class="size-full wp-image-5367" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Fitness-Air-Runner-Review-Console-View.jpg" alt="Assault Fitness Air Runner Review - Console View" width="600" height="600" /><figcaption><em>The AssaultRunner Pro console is easy to read while running</em></figcaption></figure>
+<figure><img class="size-full wp-image-5367" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Fitness-Air-Runner-Review-Console-View.jpg" alt="Assault Fitness Air Runner Review - Console View" width="600" height="600" /><figcaption><em>The AssaultRunner Pro console is easy to read while running</em></figcaption></figure>
 
 Plus, running on the curved deck is like running on a perpetual slight incline, which forces me to keep a more upright posture and engages more of my leg muscles.
 
@@ -244,13 +245,13 @@ The AssaultRunner Pro console has a well designed intuitive interface. The displ
 
 All this information is clearly shown and easy to see at a glance.
 
-<a href="https://fitnesstestlab.com/go/assault-air-runner/" target="_blank" rel="noopener noreferrer"><img class="wp-image-5305" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Fitness-Air-Runner-Review-Console-Features.jpg" alt="Assault Fitness Air Runner Review - Console Features" width="600" height="400" /></a>
+<a href="https://fitnesstestlab.com/go/assault-air-runner/" target="_blank" rel="noopener noreferrer"><img class="wp-image-5305" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Fitness-Air-Runner-Review-Console-Features.jpg" alt="Assault Fitness Air Runner Review - Console Features" width="600" height="400" /></a>
 
 By the way, the "integrated phone/tablet shelf" is pretty much useless.
 
 If you put your phone on the "shelf" it blocks the view of the entire console ?
 
-<figure><img class="size-full wp-image-5368" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Fitness-Air-Runner-Review-Phone-Blocking-the-Console.jpg" alt="Assault Fitness Air Runner Review - Phone Blocking the Console" width="600" height="600" /><figcaption><span id="hs_cos_wrapper_name" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="text"><em>Who needs a console when you've got sweet tunes? ¯\_(ツ)_/¯ </em></span></figcaption></figure>
+<figure><img class="size-full wp-image-5368" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Fitness-Air-Runner-Review-Phone-Blocking-the-Console.jpg" alt="Assault Fitness Air Runner Review - Phone Blocking the Console" width="600" height="600" /><figcaption><span id="hs_cos_wrapper_name" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_text" data-hs-cos-general-type="meta_field" data-hs-cos-type="text"><em>Who needs a console when you've got sweet tunes? ¯\_(ツ)_/¯ </em></span></figcaption></figure>
 
 In fact the lack of any kind of storage for a phone or water bottle is my biggest gripe with the AssaultRunner Pro.
 
@@ -287,7 +288,7 @@ If you can afford it and if you have room for it, the AssaultRunner Pro is defin
 Feel free to ask any questions in the comments if there's something you'd like to know that I didn't cover!
 
 <div class="thrive-text-block"><p style="text-align: center;"><strong>AssaultRunner Pro </strong></p>
-<a href="https://fitnesstestlab.com/go/assault-air-runner/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-5245 size-full" src="https://fitnesstestlab.com/wp-content/uploads/2019/03/Assault-Air-Runner-250x250.jpg" alt="Assault Air Runner" width="250" height="250" /></a>
+<a href="https://fitnesstestlab.com/go/assault-air-runner/" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-5245 size-full" src="/images/blog/2019-03-21-assault-airrunner-review/Assault-Air-Runner-250x250.jpg" alt="Assault Air Runner" width="250" height="250" /></a>
 <p style="text-align: center;"><a href="https://amzn.to/2O9uIp8"><i class="fa fa-shopping-cart" style="color: white;"></i><span style="color: #ffffff;"> Amazon.com</span></a></div></p>
 <!--noptimize-->
 
