@@ -136,7 +136,7 @@ export default function Contact() {
     <>
       <section className="w-full py-12 md:py-24 lg:py-32">
         <div className="container px-4 md:px-6 mx-auto">
-          <div className="mx-auto max-w-4xl space-y-6">
+          <div className="mx-auto max-w-2xl space-y-6">
             <div className="space-y-4 text-center">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
                 Get in Touch
@@ -146,200 +146,151 @@ export default function Contact() {
               </p>
             </div>
             
-            <div className="grid gap-8 md:grid-cols-2">
-              <div className="space-y-6">
-                {isSubmitted ? (
-                  <div className="rounded-lg border border-green-500 bg-green-50 p-6 dark:bg-green-900/20">
-                    <h3 className="text-xl font-semibold text-green-700 dark:text-green-300">
-                      Thank you for your message!
-                    </h3>
-                    <p className="mt-2 text-green-600 dark:text-green-400">
-                      We've received your message and will get back to you as soon as possible.
-                    </p>
+            <div className="space-y-6">
+              {isSubmitted ? (
+                <div className="rounded-lg border border-green-500 bg-green-50 p-6 dark:bg-green-900/20">
+                  <h3 className="text-xl font-semibold text-green-700 dark:text-green-300">
+                    Thank you for your message!
+                  </h3>
+                  <p className="mt-2 text-green-600 dark:text-green-400">
+                    We've received your message and will get back to you as soon as possible.
+                  </p>
+                </div>
+              ) : (
+                <form 
+                  ref={formRef}
+                  method="POST"
+                  onSubmit={handleSubmit} 
+                  className="space-y-4 rounded-lg border border-border bg-card p-6 shadow-sm"
+                >
+                  <div ref={honeypotRef}>
+                    <label htmlFor="websiteDetails">Website Details</label>
+                    <input
+                      ref={honeypotInputRef}
+                      id="websiteDetails"
+                      type="text"
+                      onChange={handleChange}
+                    />
                   </div>
-                ) : (
-                  <form 
-                    ref={formRef}
-                    method="POST"
-                    onSubmit={handleSubmit} 
-                    className="space-y-4 rounded-lg border border-border bg-card p-6 shadow-sm"
-                  >
-                    <div ref={honeypotRef}>
-                      <label htmlFor="websiteDetails">Website Details</label>
-                      <input
-                        ref={honeypotInputRef}
-                        id="websiteDetails"
-                        type="text"
-                        onChange={handleChange}
-                      />
-                    </div>
-                    
-                    <div className="grid gap-4 sm:grid-cols-2">
-                      <div className="space-y-2">
-                        <label htmlFor="name" className="text-sm font-medium">
-                          Name
-                        </label>
-                        <input
-                          ref={(el) => { fieldRefs.current.name = el; }}
-                          id="name"
-                          type="text"
-                          value={formState.name}
-                          onChange={handleChange}
-                          className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-foreground/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
-                          placeholder="Your Name"
-                          required
-                        />
-                      </div>
-                      <div className="space-y-2">
-                        <label htmlFor="email" className="text-sm font-medium">
-                          Email
-                        </label>
-                        <input
-                          ref={(el) => { fieldRefs.current.email = el; }}
-                          id="email"
-                          type="email"
-                          value={formState.email}
-                          onChange={handleChange}
-                          className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-foreground/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
-                          placeholder="your.email@example.com"
-                          required
-                        />
-                      </div>
-                    </div>
+                  
+                  <div className="grid gap-4 sm:grid-cols-2">
                     <div className="space-y-2">
-                      <label htmlFor="subject" className="text-sm font-medium">
-                        Subject
+                      <label htmlFor="name" className="text-sm font-medium">
+                        Name
                       </label>
                       <input
-                        ref={(el) => { fieldRefs.current.subject = el; }}
-                        id="subject"
+                        ref={(el) => { fieldRefs.current.name = el; }}
+                        id="name"
                         type="text"
-                        value={formState.subject}
+                        value={formState.name}
                         onChange={handleChange}
                         className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-foreground/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
-                        placeholder="Your fitness question or topic"
+                        placeholder="Your Name"
                         required
                       />
                     </div>
                     <div className="space-y-2">
-                      <label htmlFor="message" className="text-sm font-medium">
-                        Message
+                      <label htmlFor="email" className="text-sm font-medium">
+                        Email
                       </label>
-                      <textarea
-                        ref={(el) => { fieldRefs.current.message = el; }}
-                        id="message"
-                        value={formState.message}
+                      <input
+                        ref={(el) => { fieldRefs.current.email = el; }}
+                        id="email"
+                        type="email"
+                        value={formState.email}
                         onChange={handleChange}
-                        className="min-h-[120px] w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-foreground/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
-                        placeholder="Tell us about your fitness goals, questions, or feedback..."
+                        className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-foreground/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+                        placeholder="your.email@example.com"
                         required
                       />
-                      </div>
-                      
-                      <div className="mt-4 flex items-center justify-between">
-                        <div className="flex items-center">
-                          <input
-                            type="checkbox"
-                            id="human"
-                            name="human"
-                            className="mr-2 h-4 w-4 rounded border-gray-300 text-primary focus:ring-primary"
-                            required
-                          />
-                          <label htmlFor="human" className="text-sm text-foreground/80">
-                            I am human
-                          </label>
-                        </div>
-                        <a href="/privacy" className="text-sm text-gray-500 underline">
-                          Privacy Policy
-                        </a>
-                      </div>
-                      
-                      {error && (
-                        <div className="rounded-md bg-destructive/10 p-3 text-sm text-destructive">
-                          {error}
-                        </div>
-                      )}
-                        <button
-                          type="submit"
-                          disabled={isSubmitting}
-                          className="inline-flex h-10 w-full items-center justify-center rounded-md bg-primary px-4 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50"
+                    </div>
+                  </div>
+                  <div className="space-y-2">
+                    <label htmlFor="subject" className="text-sm font-medium">
+                      Subject
+                    </label>
+                    <input
+                      ref={(el) => { fieldRefs.current.subject = el; }}
+                      id="subject"
+                      type="text"
+                      value={formState.subject}
+                      onChange={handleChange}
+                      className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-foreground/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+                      placeholder="Your fitness question or topic"
+                      required
+                    />
+                  </div>
+                  <div className="space-y-2">
+                    <label htmlFor="message" className="text-sm font-medium">
+                      Message
+                    </label>
+                    <textarea
+                      ref={(el) => { fieldRefs.current.message = el; }}
+                      id="message"
+                      value={formState.message}
+                      onChange={handleChange}
+                      className="min-h-[120px] w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-foreground/50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+                      placeholder="Tell us about your fitness goals, questions, or feedback..."
+                      required
+                    />
+                  </div>
+                  
+                  <div className="mt-4 flex items-center">
+                    <input
+                      type="checkbox"
+                      id="human"
+                      name="human"
+                      className="mr-2 h-4 w-4 rounded border-gray-300 text-primary focus:ring-primary"
+                      required
+                    />
+                    <label htmlFor="human" className="text-sm text-foreground/80">
+                      I am human
+                    </label>
+                  </div>
+                  
+                  {error && (
+                    <div className="rounded-md bg-destructive/10 p-3 text-sm text-destructive">
+                      {error}
+                    </div>
+                  )}
+                  <button
+                    type="submit"
+                    disabled={isSubmitting}
+                    className="inline-flex h-10 w-full items-center justify-center rounded-md bg-primary px-4 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50"
+                  >
+                    {isSubmitting ? (
+                      <span className="flex items-center">
+                        <svg
+                          className="mr-2 h-4 w-4 animate-spin"
+                          xmlns="http://www.w3.org/2000/svg"
+                          fill="none"
+                          viewBox="0 0 24 24"
                         >
-                          {isSubmitting ? (
-                            <span className="flex items-center">
-                              <svg
-                                className="mr-2 h-4 w-4 animate-spin"
-                                xmlns="http://www.w3.org/2000/svg"
-                                fill="none"
-                                viewBox="0 0 24 24"
-                              >
-                                <circle
-                                  className="opacity-25"
-                                  cx="12"
-                                  cy="12"
-                                  r="10"
-                                  stroke="currentColor"
-                                  strokeWidth="4"
-                                ></circle>
-                                <path
-                                  className="opacity-75"
-                                  fill="currentColor"
-                                  d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
-                                ></path>
-                              </svg>
-                              Sending...
-                            </span>
-                          ) : (
-                            <span className="flex items-center">
-                              Send Message
-                              <FiSend className="ml-2 h-4 w-4" />
-                            </span>
-                          )}
-                        </button>
-                      </form>
+                          <circle
+                            className="opacity-25"
+                            cx="12"
+                            cy="12"
+                            r="10"
+                            stroke="currentColor"
+                            strokeWidth="4"
+                          ></circle>
+                          <path
+                            className="opacity-75"
+                            fill="currentColor"
+                            d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+                          ></path>
+                        </svg>
+                        Sending...
+                      </span>
+                    ) : (
+                      <span className="flex items-center">
+                        Send Message
+                        <FiSend className="ml-2 h-4 w-4" />
+                      </span>
                     )}
-              </div>
-              
-              <div className="space-y-6">
-                <div className="rounded-lg border border-border bg-card p-6 shadow-sm">
-                  <h2 className="text-xl font-semibold mb-4">Contact Information</h2>
-                  <div className="space-y-4">
-                    <div className="flex items-start gap-3">
-                      <FiMail className="h-5 w-5 text-primary mt-0.5" />
-                      <div>
-                        <h3 className="font-medium">Email</h3>
-                        <p className="text-foreground/80">info@fitnesstestlab.com</p>
-                      </div>
-                    </div>
-                    <div className="flex items-start gap-3">
-                      <FiPhone className="h-5 w-5 text-primary mt-0.5" />
-                      <div>
-                        <h3 className="font-medium">Phone</h3>
-                        <p className="text-foreground/80">+1 (555) 123-4567</p>
-                      </div>
-                    </div>
-                    <div className="flex items-start gap-3">
-                      <FiMapPin className="h-5 w-5 text-primary mt-0.5" />
-                      <div>
-                        <h3 className="font-medium">Location</h3>
-                        <p className="text-foreground/80">Online Fitness Community</p>
-                        <p className="text-foreground/80">Available Worldwide</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                
-                <div className="rounded-lg border border-border bg-card p-6 shadow-sm">
-                  <h2 className="text-xl font-semibold mb-4">Quick Response</h2>
-                  <p className="text-foreground/80 mb-4">
-                    We typically respond to all inquiries within 24-48 hours. For urgent matters, 
-                    please call us during business hours.
-                  </p>
-                  <div className="flex items-center gap-2 text-sm text-foreground/80">
-                    <div className="h-2 w-2 rounded-full bg-green-500"></div>
-                    <span>Usually responds within a few hours</span>
-                  </div>
-                </div>
-              </div>
+                  </button>
+                </form>
+              )}
             </div>
           </div>
         </div>
